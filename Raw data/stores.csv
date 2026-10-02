@@ -1,0 +1,31 @@
+store_id,store_name,store_type,city,emirate,store_size_sqft,daily_customer_capacity,opening_date,store_manager,status,manager_id
+ST001,FreshMart Dubai 1,Supermarket,Dubai,Dubai,1627,2206,29-04-2020,Jessica Baldwin,Active,E0083
+ST002,FreshMart Dubai 2,Supermarket,Dubai,Dubai,1888,1206,13-12-2015,Becky Mcbride,Renovation,E0096
+ST003,FreshMart Dubai 3,Hypermarket,Dubai,Dubai,4246,3923,11-09-2014,Janet Park,Active,E0007
+ST004,FreshMart Dubai 4,Supermarket,Dubai,Dubai,3110,1450,07-01-2021,Leslie Holmes,Active,E0004
+ST005,FreshMart Dubai 5,Express,Dubai,Dubai,611,408,18-10-2022,Joseph Mccormick,Active,E0079
+ST006,FreshMart Dubai 6,Supermarket,Dubai,Dubai,2226,2439,22-02-2024,Courtney Miller,Active,E0138
+ST007,FreshMart Dubai 7,Supermarket,Dubai,Dubai,2493,1918,03-10-2022,Anne Bennett,Active,E0119
+ST008,FreshMart Dubai 8,Express,Dubai,Dubai,1177,341,07-11-2016,Andrew Taylor,Active,E0149
+ST009,FreshMart Dubai 9,Express,Dubai,Dubai,1471,370,06-01-2020,Lydia Coleman,Active,E0002
+ST010,FreshMart Dubai 10,Supermarket,Dubai,Dubai,3496,2395,03-05-2014,Michael Thompson,Active,E0137
+ST011,FreshMart Abu Dhabi 1,Hypermarket,Abu Dhabi,Abu Dhabi,4796,2805,21-12-2019,Jamie Hodges,Active,E0017
+ST012,FreshMart Abu Dhabi 2,Express,Abu Dhabi,Abu Dhabi,1250,986,13-12-2011,Alexander Lawrence,Active,E0037
+ST013,FreshMart Abu Dhabi 3,Supermarket,Abu Dhabi,Abu Dhabi,1742,2018,09-11-2023,Karen Jacobs,Active,E0025
+ST014,FreshMart Abu Dhabi 4,Hypermarket,Abu Dhabi,Abu Dhabi,3608,3625,04-05-2014,Heidi Knapp,Active,E0106
+ST015,FreshMart Abu Dhabi 5,Express,Abu Dhabi,Abu Dhabi,1034,495,26-04-2024,Michael Stone,Active,E0041
+ST016,FreshMart Abu Dhabi 6,Supermarket,Abu Dhabi,Abu Dhabi,1513,1764,29-03-2015,Kenneth Reynolds,Active,E0057
+ST017,FreshMart Sharjah 1,Supermarket,Sharjah,Sharjah,2042,1206,26-01-2023,Sandra Smith,Active,E0012
+ST018,FreshMart Sharjah 2,Supermarket,Sharjah,Sharjah,2039,1565,18-05-2012,Nicholas Charles,Active,E0020
+ST019,FreshMart Sharjah 3,Supermarket,Sharjah,Sharjah,2505,1531,19-11-2012,Jason Lucas,Active,E0088
+ST020,FreshMart Sharjah 4,Express,Sharjah,Sharjah,1367,632,10-05-2023,William Sims,Active,E0072
+ST021,FreshMart Sharjah 5,Supermarket,Sharjah,Sharjah,2923,1626,13-12-2020,Mary Andrews,Active,E0029
+ST022,FreshMart Ajman 1,Supermarket,Ajman,Ajman,2337,2480,22-03-2018,Angelica Yang,Active,E0118
+ST023,FreshMart Ajman 2,Hypermarket,Ajman,Ajman,4503,3381,07-06-2016,Victoria Hines,Active,E0028
+ST024,FreshMart Ras Al Khaimah 1,Supermarket,Ras Al Khaimah,Ras Al Khaimah,2020,2263,23-12-2020,Jonathan Norton,Active,E0125
+ST025,FreshMart Ras Al Khaimah 2,Express,Ras Al Khaimah,Ras Al Khaimah,604,365,23-12-2021,Isaac Daniels,Active,E0054
+ST026,FreshMart Fujairah 1,Express,Fujairah,Fujairah,780,488,29-04-2015,Curtis Allen,Active,E0067
+ST027,FreshMart ST027,Supermarket,Dubai,Dubai,3322,2223,19-11-2017,Rebecca Anderson,Renovation,E0144
+ST028,FreshMart Umm Al Quwain 1,Supermarket,Umm Al Quwain,Umm Al Quwain,1922,2181,28-12-2016,Charlene Thompson,Active,E0129
+ST029,FreshMart Al Ain 1,Express,Al Ain,Abu Dhabi,880,726,18-03-2021,Todd Kidd,Active,E0098
+ST030,FreshMart Al Ain 2,Hypermarket,Al Ain,Abu Dhabi,3679,2738,22-01-2024,Erica Dudley,Active,E0120

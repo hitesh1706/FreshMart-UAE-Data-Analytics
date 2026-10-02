@@ -1,0 +1,901 @@
+product_id,product_name,category,sub_category,brand,size,unit_cost,selling_price,profit_margin,barcode,expiry_required,launch_date,status,supplier_id
+P0001,FreshMart Lemon Dishwash 500ml,Cleaning Supplies,Dishwashing Liquid,FreshMart,500ml,20.94,27.62,24.19,2750732794002,No,2023-09-26,Active,S0076
+P0002,McVitie's Chocolate Biscuits 250g,Snacks,Biscuits,McVitie's,250g,7.73,9.97,22.47,4157447233099,No,2022-08-12,Active,S0008
+P0003,Cerelac Baby Formula 400g,Baby Care,Baby Food,Cerelac,400g,24.86,36.04,31.02,330867318711,Yes,2022-02-13,Active,S0014
+P0004,FreshMart Digestive Biscuits 250g,Snacks,Biscuits,FreshMart,250g,7.45,11.2,33.48,5671848434200,No,2024-05-31,Active,S0008
+P0005,FreshMart Disinfectant Floor Cleaner 1L,Cleaning Supplies,Floor Cleaner,FreshMart,1L,22.38,32.72,31.6,8934060730190,No,2024-06-10,Active,S0076
+P0006,FreshMart White Eggs 6 Pack 24 Pack,Dairy & Eggs,Eggs,FreshMart,24 Pack,12.69,17.64,28.06,6870232369251,Yes,2024-05-13,Active,S0034
+P0007,FreshMart Self Raising Flour 1kg,Pantry,Flour,FreshMart,1kg,4.62,6.92,33.24,6949800242422,No,2023-09-18,Discontinued,S0061
+P0008,Vaseline Body Lotion 100ml,Personal Care,Skincare,Vaseline,100ml,49.8,75.78,34.28,8592984575787,No,2023-03-03,Discontinued,S0035
+P0009,Sadia Chicken Drumsticks 1kg,Meat & Seafood,Chicken,Sadia,1kg,27.37,34.48,20.62,9066446757336,Yes,2022-02-12,Active,S0096
+P0010,Green Farm Onions 1kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,1kg,13.07,16.62,21.36,125225043301,Yes,2024-06-08,Active,S0051
+P0011,Dove Herbal Soap 75g,Personal Care,Soap,Dove,75g,2.3,3.03,24.09,3152191930486,No,2023-02-08,Active,S0095
+P0012,Fairy Green Apple Dishwash 1L,Cleaning Supplies,Dishwashing Liquid,Fairy,1L,11.8,16.67,29.21,3825912269812,No,2023-05-12,Active,S0076
+P0013,Lacnor Orange Juice 1L,Beverages,Juices,Lacnor,1L,12.73,18.49,31.15,5264929590980,Yes,2021-10-18,Active,S0089
+P0014,FreshMart White Eggs 12 Pack 6 Pack,Dairy & Eggs,Eggs,FreshMart,6 Pack,13.32,18.66,28.62,261201350534,Yes,2023-11-10,Active,S0034
+P0015,Al Ain Farms Brown Eggs 12 Pack 12 Pack,Dairy & Eggs,Eggs,Al Ain Farms,12 Pack,22.36,29.83,25.04,9937255688312,Yes,2022-12-19,Active,S0077
+P0016,Barilla Fusilli 250g,Pantry,Pasta,Barilla,250g,5.93,8.35,28.98,2879230000603,No,2024-03-28,Active,S0080
+P0017,L'usine Multigrain Bread 800g,Bakery,Bread,L'usine,800g,5.16,8.56,39.72,1565082822067,Yes,2023-05-23,Active,S0081
+P0018,Ocean Fresh Tilapia Fillet 1kg,Meat & Seafood,Fish,Ocean Fresh,1kg,26.19,38.54,32.04,1980188564367,Yes,2024-04-10,Active,S0053
+P0019,Dove Antibacterial Soap 125g,Personal Care,Soap,Dove,125g,6.9,9.5,27.37,2496869498436,No,2021-11-15,Active,S0078
+P0020,Lipton Earl Grey Tea 100 Bags,Beverages,Tea,Lipton,100 Bags,27.44,35.66,23.05,1570786907194,No,2022-08-22,Active,S0089
+P0021,L'usine Butter Croissant 250g,Bakery,Pastries,L'usine,250g,6.91,8.72,20.76,4619360559729,Yes,2022-02-25,Active,S0081
+P0022,FreshMart Mangoes 500g,Fruits & Vegetables,Fresh Fruits,FreshMart,500g,3.44,5.64,39.01,9902726264296,Yes,2023-02-24,Active,S0025
+P0023,Barilla Penne 500g,Pantry,Pasta,Barilla,500g,4.89,7.63,35.91,1335267294411,No,2021-10-12,Active,S0040
+P0024,FreshMart Aluminium Foil 50m,Household,Foil,FreshMart,50m,6.11,9.02,32.26,5176515650735,No,2022-11-13,Active,S0036
+P0025,Americana Chicken Strips 1kg,Frozen Foods,Frozen Chicken,Americana,1kg,15.21,19.2,20.78,1153091330453,Yes,2023-04-06,Active,S0083
+P0026,Ariel Laundry Liquid 500g,Cleaning Supplies,Detergent,Ariel,500g,24.49,39.03,37.25,9901730043989,No,2023-03-07,Active,S0076
+P0027,Johnson's Aloe Vera Baby Wipes 80 Sheets,Baby Care,Baby Wipes,Johnson's,80 Sheets,20.12,27.15,25.89,91377054093,No,2022-12-11,Active,S0022
+P0028,Americana Sweet Corn 500g,Frozen Foods,Frozen Vegetables,Americana,500g,7.69,11.34,32.19,608578543143,Yes,2021-08-17,Active,S0010
+P0029,Fine Facial Tissue 1 Pack,Household,Tissue,Fine,1 Pack,7.5,10.37,27.68,2360363429619,No,2023-09-11,Active,S0036
+P0030,Johnson's Fragrance Free Baby Wipes 40 Sheets,Baby Care,Baby Wipes,Johnson's,40 Sheets,8.81,11.16,21.06,6846286112716,No,2023-12-01,Active,S0031
+P0031,FreshMart Facial Tissue 12 Pack,Household,Tissue,FreshMart,12 Pack,7.81,11.67,33.08,6847551900786,No,2022-05-13,Active,S0011
+P0032,FreshMart Mixed Vegetables 1kg,Frozen Foods,Frozen Vegetables,FreshMart,1kg,11.8,15.96,26.07,9466483819033,Yes,2023-12-26,Active,S0058
+P0033,FreshMart Detergent Pods 3kg,Cleaning Supplies,Detergent,FreshMart,3kg,33.03,51.53,35.9,8093892994108,No,2023-03-21,Active,S0068
+P0034,Lays Kettle Chips 100g,Snacks,Chips,Lays,100g,8.57,12.33,30.49,6384123528288,No,2022-08-14,Active,S0008
+P0035,Pampers Extra Large Diapers Small Pack,Baby Care,Diapers,Pampers,Small Pack,29.01,40.44,28.26,7175632970540,No,2022-09-19,Active,S0028
+P0036,Pantene Hair Fall Control Shampoo 400ml,Personal Care,Shampoo,Pantene,400ml,13.7,19.4,29.38,9626349300086,No,2024-01-04,Active,S0065
+P0037,Noor Olive Oil 500ml,Pantry,Cooking Oil,Noor,500ml,38.77,50.94,23.89,8239062999126,No,2022-02-09,Active,S0061
+P0038,FreshMart Penne 250g,Pantry,Pasta,FreshMart,250g,10.11,12.87,21.45,2466405528583,No,2024-07-06,Active,S0080
+P0039,L'usine Chocolate Cake 1kg,Bakery,Cakes,L'usine,1kg,22.35,30.38,26.43,9199415276337,Yes,2023-08-13,Active,S0006
+P0040,Fine Facial Tissue 12 Pack,Household,Tissue,Fine,12 Pack,9.97,15.17,34.28,4727229594559,No,2024-02-03,Active,S0036
+P0041,FreshMart Instant Coffee 100g,Beverages,Coffee,FreshMart,100g,35.86,53.29,32.71,9329097138511,No,2023-09-06,Active,S0089
+P0042,Cerelac Vegetable Puree 400g,Baby Care,Baby Food,Cerelac,400g,20.02,29.98,33.22,2689562121552,Yes,2022-12-03,Active,S0046
+P0043,Colgate Whitening Toothpaste 100ml,Personal Care,Toothpaste,Colgate,100ml,7.53,9.75,22.77,3440588054649,No,2023-06-16,Discontinued,S0095
+P0044,Persil Detergent Pods 1kg,Cleaning Supplies,Detergent,Persil,1kg,34.99,46.22,24.3,8377029702072,No,2023-07-21,Active,S0071
+P0045,Green Farm Watermelon 2kg,Fruits & Vegetables,Fresh Fruits,Green Farm,2kg,9.18,14.62,37.21,7430650367575,Yes,2021-09-01,Active,S0025
+P0046,Sensodyne Fresh Mint Toothpaste 50ml,Personal Care,Toothpaste,Sensodyne,50ml,4.21,6.66,36.79,6235389985776,No,2023-09-18,Active,S0078
+P0047,Almarai Mozzarella Cheese 500g,Dairy & Eggs,Cheese,Almarai,500g,19.87,25.8,22.98,8887075874765,Yes,2023-11-02,Active,S0064
+P0048,FreshMart Baby Formula 200g,Baby Care,Baby Food,FreshMart,200g,23.16,31.33,26.08,3493704328452,Yes,2024-02-06,Active,S0067
+P0049,Ocean Fresh King Fish 1kg,Meat & Seafood,Fish,Ocean Fresh,1kg,37.82,53.95,29.9,4396350793171,Yes,2023-07-13,Active,S0021
+P0050,FreshMart Chicken Drumsticks 2kg,Meat & Seafood,Chicken,FreshMart,2kg,26.65,38.22,30.27,2728754319305,Yes,2022-11-16,Active,S0020
+P0051,Sensodyne Whitening Toothpaste 100ml,Personal Care,Toothpaste,Sensodyne,100ml,9.64,13.11,26.47,1434091665739,No,2024-01-29,Active,S0035
+P0052,FreshMart Beauty Soap 125g,Personal Care,Soap,FreshMart,125g,5.12,6.43,20.37,8998359131525,No,2024-04-10,Active,S0024
+P0053,Nadec Full Cream Milk 2L,Dairy & Eggs,Milk,Nadec,2L,7.42,11.65,36.31,5616978312103,Yes,2024-02-09,Active,S0047
+P0054,Green Farm Basil 250g,Fruits & Vegetables,Herbs,Green Farm,250g,5.26,6.92,23.99,9673386627294,Yes,2024-07-16,Active,S0018
+P0055,FreshMart Baking Paper 50m,Household,Foil,FreshMart,50m,11.63,19.12,39.17,2894286808317,No,2023-11-26,Active,S0036
+P0056,Bayara Cashews 500g,Snacks,Nuts,Bayara,500g,21.6,28.29,23.65,2636048248555,No,2023-08-29,Active,S0008
+P0057,Nature Fresh Cucumbers 500g,Fruits & Vegetables,Fresh Vegetables,Nature Fresh,500g,6.35,9.89,35.79,1183240948406,Yes,2023-03-08,Active,S0079
+P0058,FreshMart Lemon Dishwash 1L,Cleaning Supplies,Dishwashing Liquid,FreshMart,1L,8.38,13.77,39.14,3322493661948,No,2022-06-18,Active,S0085
+P0059,Dettol Disinfectant Floor Cleaner 1L,Cleaning Supplies,Floor Cleaner,Dettol,1L,19.95,30.79,35.21,7096703362104,No,2023-09-02,Active,S0059
+P0060,McVitie's Cream Biscuits 100g,Snacks,Biscuits,McVitie's,100g,14.63,18.86,22.43,7627029807651,No,2023-04-14,Active,S0008
+P0061,FreshMart Cumin Powder 50g,Pantry,Spices,FreshMart,50g,10.32,14.9,30.74,4054821625283,No,2022-05-21,Active,S0062
+P0062,FreshMart Macaroni 500g,Pantry,Pasta,FreshMart,500g,2.76,4.01,31.17,9645988054006,No,2022-08-21,Active,S0052
+P0063,FreshMart Herbal Soap 75g,Personal Care,Soap,FreshMart,75g,5.24,8.42,37.77,9451402689682,No,2022-09-17,Active,S0065
+P0064,FreshMart Body Lotion 200ml,Personal Care,Skincare,FreshMart,200ml,27.74,39.81,30.32,197340596840,No,2024-03-09,Discontinued,S0048
+P0065,Green Farm Spinach 500g,Fruits & Vegetables,Fresh Vegetables,Green Farm,500g,1.63,2.55,36.08,9669001743425,Yes,2023-12-17,Active,S0025
+P0066,Dettol Lavender Floor Cleaner 1L,Cleaning Supplies,Floor Cleaner,Dettol,1L,15.17,22.76,33.35,6806851914206,No,2022-07-02,Active,S0068
+P0067,Igloo Vanilla Ice Cream 500ml,Frozen Foods,Ice Cream,Igloo,500ml,19.56,27.62,29.18,3365579445209,Yes,2024-02-10,Active,S0027
+P0068,London Dairy Vanilla Ice Cream 1L,Frozen Foods,Ice Cream,London Dairy,1L,12.26,18.35,33.19,9924174776411,Yes,2024-02-09,Active,S0050
+P0069,President Feta Cheese 1kg,Dairy & Eggs,Cheese,President,1kg,18.1,23.09,21.61,8580338932973,Yes,2024-05-23,Active,S0077
+P0070,Al Islami Chicken Burger Patty 1kg,Frozen Foods,Frozen Chicken,Al Islami,1kg,19.03,30.4,37.4,3227047225006,Yes,2024-05-16,Active,S0092
+P0071,FreshMart Mineral Water 500ml,Beverages,Water,FreshMart,500ml,8.14,11.77,30.84,4538340723038,Yes,2023-07-18,Active,S0089
+P0072,FreshMart Cashews 500g,Snacks,Nuts,FreshMart,500g,17.08,27.16,37.11,4974382498808,No,2024-01-07,Active,S0008
+P0073,Ocean Fresh Salmon Fillet 500g,Meat & Seafood,Fish,Ocean Fresh,500g,51.74,68.57,24.54,2060344819889,Yes,2021-08-15,Active,S0045
+P0074,FreshMart Red Velvet Cake 1kg,Bakery,Cakes,FreshMart,1kg,47.03,60.1,21.75,4544628702343,Yes,2023-10-11,Active,S0029
+P0075,FreshMart Black Pepper 250g,Pantry,Spices,FreshMart,250g,15.53,24.45,36.48,6158397558971,No,2023-12-02,Active,S0052
+P0076,FreshMart Vanilla Ice Cream 500ml,Frozen Foods,Ice Cream,FreshMart,500ml,16.72,27.43,39.04,4393408366721,Yes,2023-03-17,Active,S0083
+P0077,FreshMart Brown Eggs 6 Pack 6 Pack,Dairy & Eggs,Eggs,FreshMart,6 Pack,13.8,20.47,32.58,1280470683159,Yes,2023-05-28,Active,S0082
+P0078,Lipton Earl Grey Tea 50 Bags,Beverages,Tea,Lipton,50 Bags,13.87,18.61,25.47,4276302690980,No,2024-07-08,Active,S0089
+P0079,FreshMart Lettuce 1kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,1kg,4.27,6.62,35.5,9415678463513,Yes,2023-03-19,Active,S0002
+P0080,London Dairy Mango Ice Cream 500ml,Frozen Foods,Ice Cream,London Dairy,500ml,23.93,32.42,26.19,4573716234299,Yes,2024-05-01,Active,S0092
+P0081,FreshMart Hamour Fillet 1kg,Meat & Seafood,Fish,FreshMart,1kg,38.04,52.53,27.58,8232307715536,Yes,2024-07-26,Active,S0096
+P0082,Nature Fresh Avocados 500g,Fruits & Vegetables,Fresh Fruits,Nature Fresh,500g,5.3,6.83,22.4,3554305918289,Yes,2023-05-03,Active,S0051
+P0083,KitKat Milk Chocolate 50g,Snacks,Chocolates,KitKat,50g,3.94,5.66,30.39,9082407027966,No,2023-07-05,Active,S0008
+P0084,Johnson's Fragrance Free Baby Wipes 80 Sheets,Baby Care,Baby Wipes,Johnson's,80 Sheets,10.0,13.27,24.64,943652643815,No,2022-03-05,Active,S0009
+P0085,FreshMart Sona Masoori Rice 1kg,Pantry,Rice,FreshMart,1kg,26.33,39.79,33.83,131375294548,No,2023-07-08,Active,S0052
+P0086,FreshMart Toilet Tissue 4 Pack,Household,Tissue,FreshMart,4 Pack,11.3,18.8,39.89,3856182309892,No,2021-08-26,Active,S0054
+P0087,FreshMart Cream Cheese 1kg,Dairy & Eggs,Cheese,FreshMart,1kg,14.86,24.65,39.72,4695866549341,Yes,2023-01-30,Active,S0087
+P0088,FreshMart Food Storage Bags 20 Bags,Household,Storage Bags,FreshMart,20 Bags,10.14,15.91,36.27,8924590079029,No,2023-06-26,Discontinued,S0075
+P0089,FreshMart Fruit Puree 400g,Baby Care,Baby Food,FreshMart,400g,12.68,18.16,30.18,2062826858768,Yes,2022-09-21,Active,S0009
+P0090,FreshMart Chicken Nuggets 500g,Frozen Foods,Frozen Chicken,FreshMart,500g,25.94,33.48,22.52,4263224114427,Yes,2022-10-29,Active,S0092
+P0091,Al Khaleej Brown Sugar 5kg,Pantry,Sugar,Al Khaleej,5kg,6.04,10.03,39.78,7209994563369,No,2024-06-18,Active,S0080
+P0092,Green Farm Carrots 500g,Fruits & Vegetables,Fresh Vegetables,Green Farm,500g,3.31,4.76,30.46,2769435507789,Yes,2023-12-19,Active,S0018
+P0093,Pantene Moisturizing Shampoo 700ml,Personal Care,Shampoo,Pantene,700ml,16.12,20.8,22.5,5917673636212,No,2023-04-16,Active,S0055
+P0094,FreshMart Medium Garbage Bags 50 Bags,Household,Garbage Bags,FreshMart,50 Bags,6.81,10.95,37.81,2165843717039,No,2023-01-24,Active,S0075
+P0095,L'usine Black Forest Cake 1kg,Bakery,Cakes,L'usine,1kg,26.75,42.09,36.45,308979271828,Yes,2022-04-22,Active,S0056
+P0096,Ariel Laundry Powder 3kg,Cleaning Supplies,Detergent,Ariel,3kg,18.51,27.53,32.76,859533143971,No,2022-09-03,Active,S0071
+P0097,FreshMart Full Cream Milk 1L,Dairy & Eggs,Milk,FreshMart,1L,3.01,4.36,30.96,1649496849213,Yes,2024-03-22,Active,S0077
+P0098,FreshMart Infant Cereal 800g,Baby Care,Baby Food,FreshMart,800g,19.89,28.37,29.89,1552596896752,Yes,2023-11-13,Active,S0009
+P0099,Almarai Cream Cheese 500g,Dairy & Eggs,Cheese,Almarai,500g,16.1,21.74,25.94,690432850344,Yes,2024-06-04,Discontinued,S0057
+P0100,FreshMart Lasagna Sheets 250g,Pantry,Pasta,FreshMart,250g,4.16,5.31,21.66,9626967039207,No,2022-12-23,Active,S0052
+P0101,FreshMart Lemon Floor Cleaner 1L,Cleaning Supplies,Floor Cleaner,FreshMart,1L,20.1,32.82,38.76,8492957482183,No,2023-09-16,Active,S0076
+P0102,Al Islami Whole Chicken 1kg,Meat & Seafood,Chicken,Al Islami,1kg,25.57,39.96,36.01,7098195778241,Yes,2023-03-12,Active,S0096
+P0103,FreshMart Onions 1kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,1kg,2.77,4.46,37.89,2398476781997,Yes,2022-10-22,Active,S0098
+P0104,FreshMart Blueberry Muffin 100g,Bakery,Pastries,FreshMart,100g,5.57,8.2,32.07,7365473738304,Yes,2022-03-03,Active,S0086
+P0105,Lipton Green Tea 50 Bags,Beverages,Tea,Lipton,50 Bags,7.67,11.91,35.6,4272381868395,No,2022-02-27,Active,S0089
+P0106,FreshMart Broccoli Florets 500g,Frozen Foods,Frozen Vegetables,FreshMart,500g,8.01,13.09,38.81,3043116037659,Yes,2023-10-05,Active,S0050
+P0107,FreshMart Chocolate Biscuits 500g,Snacks,Biscuits,FreshMart,500g,10.29,14.42,28.64,7394951658322,No,2023-11-13,Active,S0008
+P0108,Masafi Mineral Water 330ml,Beverages,Water,Masafi,330ml,3.58,5.84,38.7,3992783090897,Yes,2021-08-24,Active,S0089
+P0109,FreshMart Butter Croissant 100g,Bakery,Pastries,FreshMart,100g,7.77,9.91,21.59,7753080383558,Yes,2023-12-19,Active,S0006
+P0110,Green Farm Rosemary 250g,Fruits & Vegetables,Herbs,Green Farm,250g,2.48,3.45,28.12,6370825595901,Yes,2023-02-16,Active,S0033
+P0111,Colgate Fresh Mint Toothpaste 50ml,Personal Care,Toothpaste,Colgate,50ml,6.88,9.42,26.96,1590653944916,No,2023-12-14,Active,S0078
+P0112,Galaxy Hazelnut Chocolate 100g,Snacks,Chocolates,Galaxy,100g,4.63,6.89,32.8,9765034129035,No,2022-01-22,Active,S0008
+P0113,FreshMart Vegetable Puree 200g,Baby Care,Baby Food,FreshMart,200g,24.02,30.15,20.33,5928192100597,Yes,2022-01-10,Active,S0067
+P0114,FreshMart Icing Sugar 5kg,Pantry,Sugar,FreshMart,5kg,3.2,4.86,34.16,9029031112668,No,2023-12-25,Active,S0080
+P0115,FreshMart Butter Biscuits 500g,Snacks,Biscuits,FreshMart,500g,11.88,15.68,24.23,8976699391441,No,2023-01-03,Active,S0008
+P0116,FreshMart Chicken Wings 500g,Frozen Foods,Frozen Chicken,FreshMart,500g,27.35,34.89,21.61,3232100167490,Yes,2023-12-07,Active,S0050
+P0117,Mazza Ground Beef 1kg,Meat & Seafood,Beef,Mazza,1kg,49.39,72.8,32.16,9547227498506,Yes,2024-05-10,Active,S0045
+P0118,L'usine Blueberry Muffin 100g,Bakery,Pastries,L'usine,100g,10.91,16.18,32.57,8736872009026,Yes,2022-08-06,Active,S0005
+P0119,Al Islami Chicken Wings 500g,Frozen Foods,Frozen Chicken,Al Islami,500g,24.47,34.24,28.53,1676361605711,Yes,2023-12-24,Active,S0092
+P0120,Monster Classic Energy Drink 330ml,Beverages,Energy Drinks,Monster,330ml,8.71,11.42,23.73,9811521135109,No,2022-01-26,Active,S0089
+P0121,L'usine Butter Croissant 100g,Bakery,Pastries,L'usine,100g,5.09,7.18,29.11,2002602612061,Yes,2021-08-07,Active,S0029
+P0122,FreshMart Zip Lock Bags 50 Bags,Household,Storage Bags,FreshMart,50 Bags,9.22,13.98,34.05,4010971586126,No,2021-09-29,Active,S0036
+P0123,FreshMart Turmeric Powder 50g,Pantry,Spices,FreshMart,50g,4.78,7.86,39.19,6547229649893,No,2024-04-16,Active,S0062
+P0124,FreshMart Large Diapers Large Pack,Baby Care,Diapers,FreshMart,Large Pack,65.57,104.75,37.4,8652405753337,No,2023-12-18,Active,S0067
+P0125,Pampers Newborn Diapers Large Pack,Baby Care,Diapers,Pampers,Large Pack,27.12,39.22,30.85,3927850930585,No,2023-01-12,Active,S0028
+P0126,Mazza Beef Strips 500g,Meat & Seafood,Beef,Mazza,500g,32.0,49.76,35.69,4243962645162,Yes,2024-06-13,Active,S0003
+P0127,FreshMart Low Fat Milk 2L,Dairy & Eggs,Milk,FreshMart,2L,11.56,17.08,32.32,116649493797,Yes,2024-06-23,Active,S0069
+P0128,Al Islami Chicken Mince 500g,Meat & Seafood,Chicken,Al Islami,500g,25.02,41.11,39.14,1084403274281,Yes,2024-05-18,Active,S0093
+P0129,FreshMart Large Garbage Bags 50 Bags,Household,Garbage Bags,FreshMart,50 Bags,5.37,8.54,37.12,6464198672052,No,2022-12-11,Active,S0075
+P0130,Lux Herbal Soap 75g,Personal Care,Soap,Lux,75g,10.44,15.43,32.34,5663277724090,No,2024-02-24,Active,S0055
+P0131,FreshMart Baking Paper 10m,Household,Foil,FreshMart,10m,5.6,7.01,20.11,572968764527,No,2021-09-22,Active,S0036
+P0132,Al Islami Chicken Burger Patty 500g,Frozen Foods,Frozen Chicken,Al Islami,500g,11.87,15.13,21.55,4842916461935,Yes,2023-04-22,Active,S0058
+P0133,Ocean Fresh Hamour Fillet 1kg,Meat & Seafood,Fish,Ocean Fresh,1kg,17.97,27.83,35.43,491819717065,Yes,2022-11-25,Active,S0044
+P0134,Almarai Mango Yogurt 500g,Dairy & Eggs,Yogurt,Almarai,500g,7.41,12.12,38.86,7239446026012,Yes,2023-09-20,Active,S0047
+P0135,Al Khaleej White Sugar 5kg,Pantry,Sugar,Al Khaleej,5kg,9.86,12.5,21.12,3332937661656,No,2021-12-16,Active,S0052
+P0136,FreshMart Green Apple Dishwash 500ml,Cleaning Supplies,Dishwashing Liquid,FreshMart,500ml,16.05,22.61,29.01,6265555453044,No,2023-04-29,Discontinued,S0068
+P0137,Twinings Chamomile Tea 50 Bags,Beverages,Tea,Twinings,50 Bags,8.5,12.95,34.36,8953683887579,No,2024-02-01,Active,S0089
+P0138,FreshMart Small Garbage Bags 50 Bags,Household,Garbage Bags,FreshMart,50 Bags,7.71,11.94,35.43,5582731462524,No,2022-11-10,Active,S0075
+P0139,L'usine White Bread 400g,Bakery,Bread,L'usine,400g,5.12,8.04,36.32,507752572316,Yes,2024-07-06,Active,S0029
+P0140,FreshMart Chicken Strips 1kg,Frozen Foods,Frozen Chicken,FreshMart,1kg,30.16,39.21,23.08,7568566496536,Yes,2022-09-10,Active,S0083
+P0141,FreshMart Mangoes 2kg,Fruits & Vegetables,Fresh Fruits,FreshMart,2kg,10.22,16.66,38.66,8571407264019,Yes,2024-01-18,Active,S0018
+P0142,Ariel Laundry Liquid 1kg,Cleaning Supplies,Detergent,Ariel,1kg,20.13,26.56,24.21,4922207805492,No,2023-02-21,Active,S0071
+P0143,FreshMart Hazelnut Chocolate 50g,Snacks,Chocolates,FreshMart,50g,5.2,7.05,26.24,1341827484406,No,2023-05-22,Active,S0008
+P0144,Davidoff Coffee Beans 500g,Beverages,Coffee,Davidoff,500g,19.19,31.96,39.96,2789842185653,No,2022-04-12,Active,S0089
+P0145,Ocean Fresh Tuna Fillet 500g,Meat & Seafood,Fish,Ocean Fresh,500g,35.96,52.0,30.85,4568485797861,Yes,2024-05-03,Active,S0093
+P0146,Al Islami Chicken Nuggets 500g,Frozen Foods,Frozen Chicken,Al Islami,500g,13.3,20.21,34.19,5106372883168,Yes,2024-05-24,Active,S0010
+P0147,FreshMart Cling Wrap 50m,Household,Foil,FreshMart,50m,12.72,17.77,28.42,9674282675761,No,2024-05-08,Active,S0011
+P0148,Shan Turmeric Powder 100g,Pantry,Spices,Shan,100g,15.79,20.23,21.95,984976717769,No,2024-01-22,Active,S0062
+P0149,L'usine Red Velvet Cake 2kg,Bakery,Cakes,L'usine,2kg,68.36,86.29,20.78,3751580332117,Yes,2023-12-28,Active,S0005
+P0150,Nature Fresh Oranges 2kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,2kg,13.59,21.37,36.41,2822295458827,Yes,2023-10-15,Active,S0026
+P0151,FreshMart Parsley 100g,Fruits & Vegetables,Herbs,FreshMart,100g,0.81,1.22,33.61,4756796370945,Yes,2023-03-26,Active,S0073
+P0152,FreshMart Extra Large Diapers Small Pack,Baby Care,Diapers,FreshMart,Small Pack,47.85,69.18,30.83,8569387590839,No,2023-06-25,Active,S0041
+P0153,Persil Laundry Liquid 3kg,Cleaning Supplies,Detergent,Persil,3kg,36.7,48.47,24.28,9932783851108,No,2022-10-15,Active,S0068
+P0154,L'usine Chocolate Muffin 100g,Bakery,Pastries,L'usine,100g,5.64,9.37,39.81,3964252890192,Yes,2023-03-15,Active,S0006
+P0155,Green Farm Capsicum 500g,Fruits & Vegetables,Fresh Vegetables,Green Farm,500g,6.92,9.34,25.91,6401286465929,Yes,2023-06-07,Active,S0019
+P0156,London Dairy Chocolate Ice Cream 500ml,Frozen Foods,Ice Cream,London Dairy,500ml,14.39,18.24,21.11,1773726778957,Yes,2023-06-06,Active,S0083
+P0157,Vaseline Face Cream 100ml,Personal Care,Skincare,Vaseline,100ml,47.43,74.96,36.73,5400193464958,No,2023-12-01,Active,S0039
+P0158,FreshMart Mozzarella Cheese 1kg,Dairy & Eggs,Cheese,FreshMart,1kg,22.19,35.11,36.8,4998362193583,Yes,2024-02-09,Active,S0057
+P0159,Cerelac Infant Cereal 400g,Baby Care,Baby Food,Cerelac,400g,21.58,35.64,39.45,5867147420888,Yes,2023-08-30,Active,S0067
+P0160,FreshMart Daily Care Shampoo 700ml,Personal Care,Shampoo,FreshMart,700ml,30.52,40.95,25.47,7221896972285,No,2023-03-06,Active,S0055
+P0161,FreshMart Food Storage Bags 50 Bags,Household,Storage Bags,FreshMart,50 Bags,13.9,18.88,26.38,4014139408978,No,2024-04-04,Active,S0054
+P0162,FreshMart Face Cream 200ml,Personal Care,Skincare,FreshMart,200ml,46.84,66.43,29.49,516831743097,No,2022-09-17,Active,S0090
+P0163,Mazza Ground Beef 500g,Meat & Seafood,Beef,Mazza,500g,25.23,37.29,32.34,4338414015546,Yes,2021-07-26,Active,S0066
+P0164,Johnson's Sensitive Baby Wipes 80 Sheets,Baby Care,Baby Wipes,Johnson's,80 Sheets,6.83,9.25,26.16,2081306472706,No,2022-07-09,Active,S0028
+P0165,Americana Sweet Corn 1kg,Frozen Foods,Frozen Vegetables,Americana,1kg,10.07,12.9,21.94,6991186440138,Yes,2023-09-05,Active,S0027
+P0166,Noor Canola Oil 500ml,Pantry,Cooking Oil,Noor,500ml,27.2,40.96,33.59,6008906564620,No,2022-07-28,Active,S0062
+P0167,L'usine Blueberry Muffin 250g,Bakery,Pastries,L'usine,250g,6.64,10.65,37.65,8792249513404,Yes,2023-12-31,Active,S0023
+P0168,Oreo Digestive Biscuits 250g,Snacks,Biscuits,Oreo,250g,3.62,4.76,23.95,4212885082798,No,2021-10-04,Active,S0008
+P0169,Noor Olive Oil 1L,Pantry,Cooking Oil,Noor,1L,26.91,34.92,22.94,7916344811031,No,2023-08-17,Active,S0062
+P0170,FreshMart Garam Masala 100g,Pantry,Spices,FreshMart,100g,17.53,24.19,27.53,6691949247188,No,2023-08-18,Active,S0032
+P0171,Pepsi Cola 500ml,Beverages,Soft Drinks,Pepsi,500ml,5.84,9.29,37.14,8433419486004,No,2024-02-28,Active,S0089
+P0172,Green Farm Apples 500g,Fruits & Vegetables,Fresh Fruits,Green Farm,500g,15.15,20.58,26.38,5412258223721,Yes,2023-11-24,Active,S0019
+P0173,Lux Lemon Soap 125g,Personal Care,Soap,Lux,125g,13.07,18.36,28.81,496213438868,No,2024-03-29,Active,S0055
+P0174,FreshMart Penne 500g,Pantry,Pasta,FreshMart,500g,9.09,15.11,39.84,4710110713429,No,2022-09-10,Active,S0030
+P0175,Al Ain Farms Full Cream Milk 500ml,Dairy & Eggs,Milk,Al Ain Farms,500ml,10.12,12.88,21.43,4532888017598,Yes,2022-08-28,Active,S0074
+P0176,FreshMart Brown Sugar 5kg,Pantry,Sugar,FreshMart,5kg,3.11,4.34,28.34,4660681403086,No,2024-02-15,Active,S0040
+P0177,Red Bull Classic Energy Drink 250ml,Beverages,Energy Drinks,Red Bull,250ml,8.97,14.73,39.1,2630579131850,No,2022-11-01,Active,S0089
+P0178,FreshMart Green Tea 100 Bags,Beverages,Tea,FreshMart,100 Bags,12.69,19.98,36.49,568779232379,No,2023-01-11,Active,S0089
+P0179,FreshMart Turmeric Powder 250g,Pantry,Spices,FreshMart,250g,3.29,4.8,31.46,2952903818696,No,2023-10-30,Active,S0052
+P0180,Daawat Jasmine Rice 1kg,Pantry,Rice,Daawat,1kg,14.54,23.27,37.52,4654371264385,No,2023-02-10,Active,S0030
+P0181,Al Ain Farms Mango Yogurt 200g,Dairy & Eggs,Yogurt,Al Ain Farms,200g,9.77,13.65,28.42,7888727946930,Yes,2024-07-05,Active,S0016
+P0182,Nature Fresh Grapes 500g,Fruits & Vegetables,Fresh Fruits,Nature Fresh,500g,2.43,3.39,28.32,5402930561357,Yes,2023-03-14,Active,S0018
+P0183,Almarai Salted Butter 500g,Dairy & Eggs,Butter,Almarai,500g,10.03,12.7,21.02,5704623726280,Yes,2024-05-26,Active,S0088
+P0184,Green Farm Spinach 1kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,1kg,2.34,3.02,22.52,6462026043906,Yes,2024-04-01,Active,S0098
+P0185,Pringles Kettle Chips 100g,Snacks,Chips,Pringles,100g,10.98,17.31,36.57,5535072553482,No,2023-11-25,Active,S0008
+P0186,Puck Cream Cheese 200g,Dairy & Eggs,Cheese,Puck,200g,8.89,13.41,33.71,9098729098706,Yes,2023-12-02,Active,S0057
+P0187,FreshMart Chamomile Tea 100 Bags,Beverages,Tea,FreshMart,100 Bags,25.33,33.61,24.64,5207946140448,No,2022-12-10,Active,S0089
+P0188,FreshMart Large Garbage Bags 100 Bags,Household,Garbage Bags,FreshMart,100 Bags,8.49,12.53,32.24,2482451752413,No,2023-07-22,Active,S0075
+P0189,FreshMart Infant Cereal 400g,Baby Care,Baby Food,FreshMart,400g,10.58,14.86,28.8,1269753531509,Yes,2024-03-19,Active,S0028
+P0190,Igloo Mango Ice Cream 1L,Frozen Foods,Ice Cream,Igloo,1L,14.48,21.2,31.7,8925571070820,Yes,2022-07-22,Active,S0050
+P0191,India Gate Sona Masoori Rice 10kg,Pantry,Rice,India Gate,10kg,30.79,39.48,22.01,8580030004442,No,2023-08-26,Active,S0061
+P0192,Vaseline Face Wash 50ml,Personal Care,Skincare,Vaseline,50ml,22.16,35.99,38.43,7994060575215,No,2023-04-03,Active,S0015
+P0193,FreshMart Kitchen Towels 12 Pack,Household,Tissue,FreshMart,12 Pack,7.74,10.89,28.93,5132028161397,No,2022-08-11,Active,S0075
+P0194,Mazza Beef Steak 1kg,Meat & Seafood,Beef,Mazza,1kg,29.14,42.35,31.19,4509631970394,Yes,2023-09-06,Active,S0043
+P0195,Mazza Beef Mince 1kg,Meat & Seafood,Beef,Mazza,1kg,46.73,62.81,25.6,6247270581547,Yes,2023-05-14,Active,S0021
+P0196,Ocean Fresh Prawns 1kg,Meat & Seafood,Seafood,Ocean Fresh,1kg,38.31,56.9,32.67,7839110944118,Yes,2022-11-09,Active,S0045
+P0197,FreshMart Cookies & Cream Ice Cream 500ml,Frozen Foods,Ice Cream,FreshMart,500ml,23.01,37.56,38.74,4186269109145,Yes,2024-05-20,Active,S0092
+P0198,Americana Mixed Vegetables 1kg,Frozen Foods,Frozen Vegetables,Americana,1kg,13.22,17.33,23.72,8771669513560,Yes,2022-08-28,Active,S0058
+P0199,FreshMart Self Raising Flour 5kg,Pantry,Flour,FreshMart,5kg,7.64,11.9,35.8,4117404284434,No,2023-08-25,Active,S0030
+P0200,Oreo Digestive Biscuits 500g,Snacks,Biscuits,Oreo,500g,4.92,6.66,26.13,4906367465802,No,2023-07-31,Active,S0008
+P0201,India Gate Brown Rice 5kg,Pantry,Rice,India Gate,5kg,11.48,14.68,21.8,9189390652899,No,2022-05-25,Active,S0032
+P0202,Fine Kitchen Towels 1 Pack,Household,Tissue,Fine,1 Pack,7.44,12.31,39.56,4608255741394,No,2024-05-26,Active,S0075
+P0203,Igloo Chocolate Ice Cream 500ml,Frozen Foods,Ice Cream,Igloo,500ml,21.24,30.22,29.72,5764359054088,Yes,2023-10-29,Active,S0038
+P0204,FreshMart Parsley 250g,Fruits & Vegetables,Herbs,FreshMart,250g,2.32,3.51,33.9,4251747074885,Yes,2023-09-17,Active,S0099
+P0205,FreshMart Small Garbage Bags 100 Bags,Household,Garbage Bags,FreshMart,100 Bags,9.96,15.83,37.08,1680063657718,No,2024-04-06,Active,S0075
+P0206,FreshMart Almonds 500g,Snacks,Nuts,FreshMart,500g,7.84,10.39,24.54,2957239836918,No,2022-11-30,Active,S0008
+P0207,Cerelac Fruit Puree 400g,Baby Care,Baby Food,Cerelac,400g,14.34,21.9,34.52,780592722701,Yes,2021-12-08,Active,S0014
+P0208,Nescafe Cold Coffee 500g,Beverages,Coffee,Nescafe,500g,25.58,32.99,22.46,9834472160532,No,2023-10-23,Active,S0089
+P0209,Noor Sunflower Oil 1L,Pantry,Cooking Oil,Noor,1L,19.89,30.97,35.78,4206785692027,No,2024-03-02,Active,S0062
+P0210,KitKat Dark Chocolate 50g,Snacks,Chocolates,KitKat,50g,9.0,13.46,33.14,6206301984429,No,2023-05-20,Active,S0008
+P0211,Shan Cumin Powder 100g,Pantry,Spices,Shan,100g,10.3,16.38,37.12,5930855257395,No,2023-08-16,Active,S0080
+P0212,Al Islami Chicken Strips 500g,Frozen Foods,Frozen Chicken,Al Islami,500g,17.02,28.01,39.24,4000102420078,Yes,2022-08-10,Active,S0038
+P0213,Mazza Beef Steak 500g,Meat & Seafood,Beef,Mazza,500g,18.27,27.53,33.64,5172743982280,Yes,2024-05-29,Active,S0020
+P0214,Nivea Face Cream 50ml,Personal Care,Skincare,Nivea,50ml,18.93,25.61,26.08,6425085941330,No,2023-01-27,Active,S0048
+P0215,Davidoff Ground Coffee 200g,Beverages,Coffee,Davidoff,200g,13.6,17.79,23.55,8346053000812,No,2023-01-21,Active,S0089
+P0216,L'usine Cheesecake 500g,Bakery,Cakes,L'usine,500g,52.48,81.6,35.69,4743157932188,Yes,2021-12-28,Active,S0091
+P0217,Modern Bakery Whole Wheat Bread 600g,Bakery,Bread,Modern Bakery,600g,2.92,4.24,31.13,4747929786337,Yes,2021-11-28,Active,S0086
+P0218,Ocean Fresh King Fish 500g,Meat & Seafood,Fish,Ocean Fresh,500g,28.61,43.62,34.41,9107482137543,Yes,2021-09-23,Active,S0096
+P0219,Dove Beauty Soap 75g,Personal Care,Soap,Dove,75g,5.13,6.76,24.11,5839652150864,No,2024-04-08,Active,S0048
+P0220,Shan Cumin Powder 250g,Pantry,Spices,Shan,250g,11.97,18.99,36.97,5233543031438,No,2022-10-10,Active,S0061
+P0221,Colgate Sensitive Toothpaste 150ml,Personal Care,Toothpaste,Colgate,150ml,12.27,16.48,25.55,6480519250242,No,2021-08-23,Active,S0065
+P0222,FreshMart Newborn Diapers Small Pack,Baby Care,Diapers,FreshMart,Small Pack,33.62,43.75,23.15,2513034572330,No,2024-04-01,Active,S0041
+P0223,FreshMart Potato Chips 200g,Snacks,Chips,FreshMart,200g,1.93,3.05,36.72,8529567057477,No,2023-02-20,Active,S0008
+P0224,Green Farm Coriander 250g,Fruits & Vegetables,Herbs,Green Farm,250g,2.16,3.45,37.39,1580130972686,Yes,2024-07-03,Active,S0018
+P0225,Pringles Potato Chips 100g,Snacks,Chips,Pringles,100g,8.39,11.77,28.72,7149986501989,No,2021-10-19,Active,S0008
+P0226,FreshMart Danish Pastry 250g,Bakery,Pastries,FreshMart,250g,12.15,15.8,23.1,8420999783586,Yes,2021-11-30,Active,S0081
+P0227,Pampers Extra Large Diapers Large Pack,Baby Care,Diapers,Pampers,Large Pack,72.15,102.25,29.44,4238135986128,No,2022-07-08,Active,S0031
+P0228,FreshMart Shrimp 1kg,Meat & Seafood,Seafood,FreshMart,1kg,41.08,62.94,34.73,3824477130049,Yes,2023-05-29,Active,S0020
+P0229,Almarai Unsalted Butter 250g,Dairy & Eggs,Butter,Almarai,250g,15.82,20.1,21.29,7525601705626,Yes,2024-05-12,Active,S0057
+P0230,FreshMart White Chocolate 50g,Snacks,Chocolates,FreshMart,50g,14.13,18.46,23.46,2071976866219,No,2023-12-31,Active,S0008
+P0231,FreshMart Vanilla Ice Cream 1L,Frozen Foods,Ice Cream,FreshMart,1L,9.41,14.58,35.46,9792961563465,Yes,2023-10-07,Active,S0083
+P0232,Americana Mixed Vegetables 500g,Frozen Foods,Frozen Vegetables,Americana,500g,11.67,15.93,26.74,8435231374187,Yes,2023-06-01,Active,S0038
+P0233,FreshMart Zip Lock Bags 20 Bags,Household,Storage Bags,FreshMart,20 Bags,5.68,7.89,28.01,5162261268041,No,2022-11-19,Active,S0075
+P0234,Lux Moisturizing Soap 75g,Personal Care,Soap,Lux,75g,13.88,17.66,21.4,8901417559858,No,2023-04-06,Active,S0048
+P0235,FreshMart Coriander 250g,Fruits & Vegetables,Herbs,FreshMart,250g,4.42,6.32,30.06,625389295207,Yes,2023-06-03,Active,S0072
+P0236,Green Farm Rosemary 100g,Fruits & Vegetables,Herbs,Green Farm,100g,2.54,3.93,35.37,4314638044401,Yes,2024-04-21,Active,S0098
+P0237,Head & Shoulders Moisturizing Shampoo 400ml,Personal Care,Shampoo,Head & Shoulders,400ml,20.29,27.54,26.33,1801920540756,No,2024-05-24,Active,S0090
+P0238,Fine Facial Tissue 4 Pack,Household,Tissue,Fine,4 Pack,10.04,15.3,34.38,9581589091418,No,2023-01-13,Active,S0054
+P0239,FreshMart Lavender Floor Cleaner 500ml,Cleaning Supplies,Floor Cleaner,FreshMart,500ml,9.03,11.58,22.02,3917324715206,No,2023-02-04,Active,S0097
+P0240,FreshMart Plain Yogurt 200g,Dairy & Eggs,Yogurt,FreshMart,200g,4.45,6.6,32.58,8510828658113,Yes,2022-12-21,Active,S0042
+P0241,Persil Detergent Pods 500g,Cleaning Supplies,Detergent,Persil,500g,34.35,42.96,20.04,4802811058081,No,2024-05-26,Active,S0012
+P0242,FreshMart Milk Chocolate 200g,Snacks,Chocolates,FreshMart,200g,17.6,26.94,34.67,55437422413,No,2023-07-04,Active,S0008
+P0243,Barilla Penne 250g,Pantry,Pasta,Barilla,250g,7.53,10.74,29.89,2116555660168,No,2022-12-08,Active,S0040
+P0244,FreshMart Moisturizing Soap 150g,Personal Care,Soap,FreshMart,150g,8.51,10.79,21.13,9649929797465,No,2022-07-23,Active,S0015
+P0245,FreshMart Lemon Soap 150g,Personal Care,Soap,FreshMart,150g,10.73,14.7,27.01,7329764002536,No,2023-04-04,Active,S0048
+P0246,McVitie's Digestive Biscuits 100g,Snacks,Biscuits,McVitie's,100g,15.42,19.51,20.96,804929719452,No,2023-10-03,Active,S0008
+P0247,FreshMart Prawns 500g,Meat & Seafood,Seafood,FreshMart,500g,36.73,50.16,26.77,4652340939364,Yes,2023-04-01,Active,S0020
+P0248,Cerelac Baby Formula 800g,Baby Care,Baby Food,Cerelac,800g,24.39,33.51,27.22,8281453272806,Yes,2024-07-22,Active,S0014
+P0249,FreshMart Sensitive Toothpaste 150ml,Personal Care,Toothpaste,FreshMart,150ml,5.8,8.14,28.75,281489678861,No,2023-11-01,Active,S0078
+P0250,FreshMart Cling Wrap 10m,Household,Foil,FreshMart,10m,10.91,15.25,28.46,5247970865337,No,2022-02-05,Active,S0054
+P0251,Pampers Medium Diapers Small Pack,Baby Care,Diapers,Pampers,Small Pack,81.97,107.59,23.81,2321775425231,No,2024-02-25,Active,S0067
+P0252,FreshMart Sparkling Water 500ml,Beverages,Water,FreshMart,500ml,5.05,6.32,20.09,4493088912338,Yes,2022-04-25,Active,S0089
+P0253,Green Farm Pineapple 2kg,Fruits & Vegetables,Fresh Fruits,Green Farm,2kg,12.25,19.64,37.63,4726829547781,Yes,2022-10-31,Active,S0002
+P0254,FreshMart Kitchen Towels 1 Pack,Household,Tissue,FreshMart,1 Pack,4.35,5.49,20.77,4638009841674,No,2024-04-23,Active,S0011
+P0255,Modern Bakery Garlic Bread 800g,Bakery,Bread,Modern Bakery,800g,6.15,8.86,30.59,3802217507276,Yes,2022-09-24,Active,S0005
+P0256,FreshMart Aluminium Foil 20m,Household,Foil,FreshMart,20m,8.93,13.97,36.08,5707970992575,No,2022-12-08,Active,S0036
+P0257,FreshMart Baking Paper 20m,Household,Foil,FreshMart,20m,12.76,16.75,23.82,3772737237949,No,2024-05-30,Active,S0036
+P0258,FreshMart Beef Cubes 1kg,Meat & Seafood,Beef,FreshMart,1kg,32.27,42.97,24.9,3954552717244,Yes,2022-03-28,Active,S0043
+P0259,Lipton Chamomile Tea 25 Bags,Beverages,Tea,Lipton,25 Bags,24.3,32.96,26.27,2013119025305,No,2022-11-05,Active,S0089
+P0260,FreshMart Fragrance Free Baby Wipes 40 Sheets,Baby Care,Baby Wipes,FreshMart,40 Sheets,7.8,10.01,22.08,5993240913351,No,2022-08-17,Discontinued,S0100
+P0261,FreshMart Cumin Powder 250g,Pantry,Spices,FreshMart,250g,10.09,15.83,36.26,5469361402277,No,2022-08-26,Active,S0030
+P0262,Vaseline Body Lotion 50ml,Personal Care,Skincare,Vaseline,50ml,14.48,22.98,36.99,9045473559083,No,2024-04-11,Active,S0048
+P0263,Al Ain Farms White Eggs 12 Pack 24 Pack,Dairy & Eggs,Eggs,Al Ain Farms,24 Pack,13.25,17.91,26.02,8179801843993,Yes,2023-12-24,Active,S0082
+P0264,Mai Dubai Sparkling Water 500ml,Beverages,Water,Mai Dubai,500ml,5.8,8.74,33.64,9562660627627,Yes,2023-03-01,Active,S0089
+P0265,Dettol Lemon Floor Cleaner 1L,Cleaning Supplies,Floor Cleaner,Dettol,1L,9.31,15.19,38.71,5320491409393,No,2024-04-05,Active,S0012
+P0266,Cerelac Infant Cereal 800g,Baby Care,Baby Food,Cerelac,800g,22.54,35.24,36.04,9752546770060,Yes,2023-05-09,Active,S0022
+P0267,Modern Bakery White Bread 400g,Bakery,Bread,Modern Bakery,400g,7.14,9.77,26.92,7181497168886,Yes,2023-04-22,Active,S0007
+P0268,FreshMart Antibacterial Soap 75g,Personal Care,Soap,FreshMart,75g,5.86,7.78,24.68,6068966114012,No,2024-01-09,Active,S0055
+P0269,FreshMart Toilet Tissue 12 Pack,Household,Tissue,FreshMart,12 Pack,4.21,5.34,21.16,1354639017687,No,2021-10-13,Active,S0011
+P0270,Modern Bakery Garlic Bread 600g,Bakery,Bread,Modern Bakery,600g,4.42,5.77,23.4,5114133667278,Yes,2022-06-24,Active,S0023
+P0271,FreshMart Beef Mince 1kg,Meat & Seafood,Beef,FreshMart,1kg,17.93,23.58,23.96,9864775731481,Yes,2022-06-01,Active,S0021
+P0272,Nadec Chocolate Milk 500ml,Dairy & Eggs,Milk,Nadec,500ml,3.49,4.52,22.79,5420736443844,Yes,2023-11-17,Active,S0069
+P0273,Green Farm Parsley 250g,Fruits & Vegetables,Herbs,Green Farm,250g,1.7,2.8,39.29,7856130931799,Yes,2023-02-11,Active,S0026
+P0274,FreshMart Beef Strips 500g,Meat & Seafood,Beef,FreshMart,500g,42.26,56.81,25.61,1422925404432,Yes,2022-11-10,Active,S0053
+P0275,FreshMart Disinfectant Floor Cleaner 500ml,Cleaning Supplies,Floor Cleaner,FreshMart,500ml,21.41,30.31,29.36,7807216166376,No,2023-05-07,Active,S0068
+P0276,FreshMart Moisturizing Soap 125g,Personal Care,Soap,FreshMart,125g,10.65,16.41,35.1,6456295805068,No,2024-05-01,Active,S0078
+P0277,L'usine Cheesecake 2kg,Bakery,Cakes,L'usine,2kg,34.82,46.9,25.76,2744798560985,Yes,2024-02-10,Active,S0004
+P0278,Pampers Large Diapers Small Pack,Baby Care,Diapers,Pampers,Small Pack,41.7,53.83,22.53,2814980281483,No,2022-11-18,Active,S0028
+P0279,Vaseline Body Lotion 200ml,Personal Care,Skincare,Vaseline,200ml,46.51,70.6,34.12,1975936324294,No,2023-10-08,Active,S0024
+P0280,FreshMart Vanilla Cake 500g,Bakery,Cakes,FreshMart,500g,51.87,82.25,36.94,7393905990174,Yes,2023-03-02,Active,S0056
+P0281,FreshMart Cheesecake 500g,Bakery,Cakes,FreshMart,500g,85.43,117.71,27.42,8208564489541,Yes,2023-07-29,Active,S0056
+P0282,Pantene Daily Care Shampoo 700ml,Personal Care,Shampoo,Pantene,700ml,26.51,34.93,24.11,7847760353020,No,2021-09-30,Active,S0013
+P0283,KitKat Wafer Chocolate 200g,Snacks,Chocolates,KitKat,200g,13.9,18.81,26.1,5111633790789,No,2023-10-25,Active,S0008
+P0284,FreshMart Brown Eggs 6 Pack 12 Pack,Dairy & Eggs,Eggs,FreshMart,12 Pack,10.77,14.78,27.13,4008882946429,Yes,2023-03-05,Active,S0042
+P0285,FreshMart Herbal Soap 125g,Personal Care,Soap,FreshMart,125g,2.6,3.88,32.99,3960804976727,No,2021-12-30,Discontinued,S0055
+P0286,Al Ain Farms Brown Eggs 12 Pack 24 Pack,Dairy & Eggs,Eggs,Al Ain Farms,24 Pack,6.64,10.66,37.71,9976906604899,Yes,2022-12-07,Active,S0034
+P0287,L'usine Vanilla Cake 500g,Bakery,Cakes,L'usine,500g,53.63,86.76,38.19,9474607345221,Yes,2023-11-07,Active,S0004
+P0288,FreshMart Rosemary 100g,Fruits & Vegetables,Herbs,FreshMart,100g,3.49,5.69,38.66,9406686489589,Yes,2023-02-21,Active,S0026
+P0289,Pampers Small Diapers Medium Pack,Baby Care,Diapers,Pampers,Medium Pack,75.49,102.14,26.09,6678389040500,No,2022-01-03,Active,S0067
+P0290,Galaxy White Chocolate 100g,Snacks,Chocolates,Galaxy,100g,18.69,25.22,25.89,3968873126036,No,2022-08-18,Active,S0008
+P0291,FreshMart Cashews 250g,Snacks,Nuts,FreshMart,250g,43.2,58.06,25.59,9310248467338,No,2024-02-10,Active,S0008
+P0292,Colgate Whitening Toothpaste 50ml,Personal Care,Toothpaste,Colgate,50ml,15.93,23.5,32.21,7553785679532,No,2024-01-11,Active,S0017
+P0293,Oreo Butter Biscuits 500g,Snacks,Biscuits,Oreo,500g,13.46,20.65,34.82,7792834381082,No,2021-08-27,Active,S0008
+P0294,FreshMart Peanuts 500g,Snacks,Nuts,FreshMart,500g,30.22,44.93,32.74,7675428068487,No,2022-03-03,Active,S0008
+P0295,Pampers Medium Diapers Medium Pack,Baby Care,Diapers,Pampers,Medium Pack,71.68,96.3,25.57,5712129082953,No,2021-10-15,Active,S0031
+P0296,Lurpak Unsalted Butter 250g,Dairy & Eggs,Butter,Lurpak,250g,21.42,26.97,20.58,6526521185971,Yes,2022-07-11,Discontinued,S0001
+P0297,Shan Red Chilli Powder 250g,Pantry,Spices,Shan,250g,11.62,15.45,24.79,1548987659648,No,2023-04-06,Active,S0040
+P0298,Bayara Pistachios 250g,Snacks,Nuts,Bayara,250g,36.59,47.77,23.4,2719276064361,No,2024-06-05,Active,S0008
+P0299,FreshMart Cookies & Cream Ice Cream 1L,Frozen Foods,Ice Cream,FreshMart,1L,19.32,25.03,22.81,3696121571795,Yes,2023-01-28,Active,S0094
+P0300,Shan Red Chilli Powder 100g,Pantry,Spices,Shan,100g,3.13,4.76,34.24,9640360530703,No,2021-12-16,Active,S0032
+P0301,Lipton Earl Grey Tea 25 Bags,Beverages,Tea,Lipton,25 Bags,12.68,17.84,28.92,3452293434869,No,2024-04-18,Active,S0089
+P0302,FreshMart Danish Pastry 100g,Bakery,Pastries,FreshMart,100g,10.95,15.91,31.18,6229542367578,Yes,2022-05-13,Active,S0070
+P0303,Igloo Chocolate Ice Cream 1L,Frozen Foods,Ice Cream,Igloo,1L,13.51,21.79,38.0,7574736153055,Yes,2021-12-05,Active,S0010
+P0304,FreshMart Laundry Liquid 1kg,Cleaning Supplies,Detergent,FreshMart,1kg,14.04,22.8,38.42,3625552027274,No,2024-02-22,Active,S0085
+P0305,Sensodyne Fresh Mint Toothpaste 150ml,Personal Care,Toothpaste,Sensodyne,150ml,4.52,6.29,28.14,7564698728873,No,2023-05-28,Active,S0013
+P0306,KitKat Hazelnut Chocolate 50g,Snacks,Chocolates,KitKat,50g,4.67,7.42,37.06,9701012977656,No,2021-12-30,Active,S0008
+P0307,Americana Chicken Wings 500g,Frozen Foods,Frozen Chicken,Americana,500g,15.87,22.45,29.31,5235035811672,Yes,2022-06-16,Active,S0092
+P0308,FreshMart Whitening Toothpaste 100ml,Personal Care,Toothpaste,FreshMart,100ml,6.78,11.24,39.68,9742215701761,No,2022-09-20,Active,S0065
+P0309,Almarai Chocolate Milk 1L,Dairy & Eggs,Milk,Almarai,1L,8.69,14.39,39.61,4327221760404,Yes,2022-12-20,Active,S0069
+P0310,Cerelac Infant Cereal 200g,Baby Care,Baby Food,Cerelac,200g,16.52,27.12,39.09,7453967968259,Yes,2023-02-05,Active,S0009
+P0311,Bayara Mixed Nuts 250g,Snacks,Nuts,Bayara,250g,10.76,14.57,26.15,7384627553006,No,2024-02-25,Active,S0008
+P0312,FreshMart Chocolate Muffin 250g,Bakery,Pastries,FreshMart,250g,8.65,13.16,34.27,6654748678140,Yes,2024-01-23,Active,S0004
+P0313,FreshMart Anti-Grease Dishwash 1L,Cleaning Supplies,Dishwashing Liquid,FreshMart,1L,7.34,9.41,22.0,6679758404343,No,2022-10-12,Active,S0068
+P0314,FreshMart Oranges 2kg,Fruits & Vegetables,Fresh Fruits,FreshMart,2kg,10.77,14.58,26.13,4904948765655,Yes,2021-07-28,Active,S0098
+P0315,Fine Toilet Tissue 12 Pack,Household,Tissue,Fine,12 Pack,7.69,10.87,29.25,4974168421587,No,2023-07-02,Active,S0036
+P0316,Almarai Mixed Fruit Juice 1L,Beverages,Juices,Almarai,1L,3.41,5.63,39.43,825161119961,Yes,2023-10-15,Active,S0089
+P0317,FreshMart Disinfectant Floor Cleaner 2L,Cleaning Supplies,Floor Cleaner,FreshMart,2L,14.67,18.65,21.34,7385759426237,No,2024-05-27,Active,S0076
+P0318,Green Farm Pineapple 500g,Fruits & Vegetables,Fresh Fruits,Green Farm,500g,2.97,4.3,30.93,206631472265,Yes,2021-08-04,Active,S0025
+P0319,Almarai Cream Cheese 1kg,Dairy & Eggs,Cheese,Almarai,1kg,27.74,40.25,31.08,5769785630875,Yes,2024-02-22,Active,S0064
+P0320,Green Farm Bananas 1kg,Fruits & Vegetables,Fresh Fruits,Green Farm,1kg,12.18,15.63,22.07,5246565388107,Yes,2021-12-07,Active,S0033
+P0321,FreshMart Vegetable Chips 50g,Snacks,Chips,FreshMart,50g,3.13,4.35,28.05,8188896609681,No,2023-11-18,Active,S0008
+P0322,Johnson's Sensitive Baby Wipes 40 Sheets,Baby Care,Baby Wipes,Johnson's,40 Sheets,6.73,8.44,20.26,7708172113285,No,2022-11-03,Active,S0041
+P0323,FreshMart Sweet Corn 500g,Frozen Foods,Frozen Vegetables,FreshMart,500g,9.74,12.49,22.02,8393369299409,Yes,2021-10-02,Active,S0027
+P0324,Bayara Pistachios 100g,Snacks,Nuts,Bayara,100g,13.7,18.97,27.78,9907218625876,No,2023-02-09,Active,S0008
+P0325,President Cheddar Cheese 1kg,Dairy & Eggs,Cheese,President,1kg,25.62,42.09,39.13,5607114486710,Yes,2022-05-10,Active,S0042
+P0326,FreshMart Coffee Beans 100g,Beverages,Coffee,FreshMart,100g,19.97,31.04,35.66,1687040608589,No,2023-03-16,Active,S0089
+P0327,Fairy Lemon Dishwash 500ml,Cleaning Supplies,Dishwashing Liquid,Fairy,500ml,22.42,28.77,22.07,3299978081914,No,2022-09-14,Active,S0076
+P0328,Al Khaleej Brown Sugar 1kg,Pantry,Sugar,Al Khaleej,1kg,3.93,6.38,38.4,9266072492247,No,2021-07-27,Active,S0040
+P0329,FreshMart Cinnamon Roll 250g,Bakery,Pastries,FreshMart,250g,10.51,14.15,25.72,1695959833855,Yes,2023-02-19,Active,S0004
+P0330,Modern Bakery Dinner Rolls 600g,Bakery,Bread,Modern Bakery,600g,7.17,10.07,28.8,4523454079645,Yes,2023-04-28,Active,S0006
+P0331,FreshMart Face Wash 200ml,Personal Care,Skincare,FreshMart,200ml,33.44,46.71,28.41,9172404353844,No,2023-08-16,Active,S0065
+P0332,FreshMart Basil 250g,Fruits & Vegetables,Herbs,FreshMart,250g,2.53,3.21,21.18,3006202422944,Yes,2022-11-08,Active,S0019
+P0333,Lux Antibacterial Soap 150g,Personal Care,Soap,Lux,150g,12.93,17.78,27.28,5426153602048,No,2021-12-13,Active,S0024
+P0334,FreshMart Burger Buns 600g,Bakery,Bread,FreshMart,600g,6.45,10.51,38.63,1044907158364,Yes,2023-02-10,Discontinued,S0091
+P0335,FreshMart Vegetable Puree 800g,Baby Care,Baby Food,FreshMart,800g,15.59,22.65,31.17,1824550953086,Yes,2024-08-01,Active,S0031
+P0336,FreshMart Digestive Biscuits 500g,Snacks,Biscuits,FreshMart,500g,3.48,5.12,32.03,6146727198126,No,2024-03-11,Active,S0008
+P0337,Oreo Marie Biscuits 100g,Snacks,Biscuits,Oreo,100g,15.49,21.35,27.45,5231103480337,No,2021-09-20,Discontinued,S0008
+P0338,FreshMart Beef Strips 1kg,Meat & Seafood,Beef,FreshMart,1kg,54.45,71.35,23.69,4024184056697,Yes,2022-10-06,Active,S0045
+P0339,Galaxy Hazelnut Chocolate 200g,Snacks,Chocolates,Galaxy,200g,10.02,15.79,36.54,6653021987924,No,2024-04-19,Active,S0008
+P0340,Masafi Still Water 1.5L,Beverages,Water,Masafi,1.5L,5.56,8.37,33.57,835521394228,Yes,2023-05-15,Active,S0089
+P0341,FreshMart Chocolate Milk 2L,Dairy & Eggs,Milk,FreshMart,2L,4.77,6.53,26.95,2501964919790,Yes,2024-03-28,Active,S0001
+P0342,Americana Frozen Peas 500g,Frozen Foods,Frozen Vegetables,Americana,500g,13.72,21.03,34.76,367909561545,Yes,2023-09-16,Active,S0027
+P0343,Galaxy Wafer Chocolate 50g,Snacks,Chocolates,Galaxy,50g,11.32,14.76,23.31,7743570526596,No,2022-07-27,Active,S0008
+P0344,FreshMart Hot Dog Buns 400g,Bakery,Bread,FreshMart,400g,9.63,13.49,28.61,7525134231739,Yes,2023-04-09,Active,S0086
+P0345,Masafi Sparkling Water 1L,Beverages,Water,Masafi,1L,5.66,7.26,22.04,2856349632994,Yes,2024-02-24,Discontinued,S0089
+P0346,Vaseline Sunscreen 50ml,Personal Care,Skincare,Vaseline,50ml,54.98,70.8,22.34,1522371138537,No,2023-05-02,Active,S0024
+P0347,Monster Sugar Free Energy Drink 500ml,Beverages,Energy Drinks,Monster,500ml,6.15,9.96,38.25,5942219641658,No,2023-03-21,Active,S0089
+P0348,Daawat Long Grain Rice 10kg,Pantry,Rice,Daawat,10kg,28.4,44.44,36.09,7382612347258,No,2022-05-04,Active,S0080
+P0349,Green Farm Strawberries 1kg,Fruits & Vegetables,Fresh Fruits,Green Farm,1kg,16.2,21.17,23.48,714622128669,Yes,2024-04-11,Active,S0018
+P0350,FreshMart Aloe Vera Baby Wipes 40 Sheets,Baby Care,Baby Wipes,FreshMart,40 Sheets,19.98,26.68,25.11,5214152727622,No,2024-04-30,Active,S0014
+P0351,Masafi Still Water 330ml,Beverages,Water,Masafi,330ml,2.94,4.42,33.48,1396515619110,Yes,2022-12-26,Active,S0089
+P0352,Pringles Corn Chips 50g,Snacks,Chips,Pringles,50g,2.63,4.25,38.12,4078514394713,No,2023-02-02,Discontinued,S0008
+P0353,FreshMart Medium Diapers Large Pack,Baby Care,Diapers,FreshMart,Large Pack,29.07,37.4,22.27,2436301536180,No,2023-12-10,Active,S0041
+P0354,FreshMart Chocolate Ice Cream 500ml,Frozen Foods,Ice Cream,FreshMart,500ml,22.25,35.71,37.69,9435074664789,Yes,2022-09-12,Active,S0092
+P0355,Johnson's Aloe Vera Baby Wipes 40 Sheets,Baby Care,Baby Wipes,Johnson's,40 Sheets,17.85,22.92,22.12,3835411780787,No,2022-05-01,Active,S0041
+P0356,Ariel Laundry Powder 1kg,Cleaning Supplies,Detergent,Ariel,1kg,42.11,55.77,24.49,865794920756,No,2024-03-03,Active,S0071
+P0357,Nature Fresh Oranges 1kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,1kg,2.23,3.5,36.29,4288052650640,Yes,2023-11-22,Active,S0079
+P0358,Lurpak Unsalted Butter 500g,Dairy & Eggs,Butter,Lurpak,500g,9.96,14.01,28.91,2119870085494,Yes,2021-07-26,Active,S0001
+P0359,Noor Sunflower Oil 5L,Pantry,Cooking Oil,Noor,5L,15.85,22.81,30.51,4392397460700,No,2023-08-23,Active,S0030
+P0360,FreshMart Salmon Fillet 1kg,Meat & Seafood,Fish,FreshMart,1kg,47.03,68.64,31.48,9434196249409,Yes,2023-12-26,Active,S0096
+P0361,Pantene Herbal Shampoo 400ml,Personal Care,Shampoo,Pantene,400ml,20.03,31.93,37.27,2026268342834,No,2022-08-09,Active,S0048
+P0362,Nature Fresh Lettuce 1kg,Fruits & Vegetables,Fresh Vegetables,Nature Fresh,1kg,12.85,18.44,30.31,6823484597996,Yes,2022-12-11,Active,S0099
+P0363,Davidoff Instant Coffee 500g,Beverages,Coffee,Davidoff,500g,20.01,26.74,25.17,1187400453816,No,2023-07-25,Active,S0089
+P0364,FreshMart Cling Wrap 20m,Household,Foil,FreshMart,20m,10.19,16.78,39.27,2166053675652,No,2023-06-22,Active,S0075
+P0365,Pepsi Cola 330ml,Beverages,Soft Drinks,Pepsi,330ml,8.03,11.79,31.89,6907898252969,No,2022-02-26,Active,S0089
+P0366,FreshMart Salted Butter 100g,Dairy & Eggs,Butter,FreshMart,100g,16.06,23.51,31.69,9908779908941,Yes,2023-05-04,Active,S0087
+P0367,FreshMart Cola 330ml,Beverages,Soft Drinks,FreshMart,330ml,5.23,6.7,21.94,2796525170998,No,2021-11-08,Active,S0089
+P0368,Head & Shoulders Anti-Dandruff Shampoo 400ml,Personal Care,Shampoo,Head & Shoulders,400ml,23.28,37.89,38.56,6376964423525,No,2023-05-30,Active,S0017
+P0369,FreshMart Lemon Soap 125g,Personal Care,Soap,FreshMart,125g,7.63,10.89,29.94,3220655657443,No,2024-06-09,Active,S0013
+P0370,FreshMart Butter Croissant 250g,Bakery,Pastries,FreshMart,250g,6.86,8.86,22.57,6067101747726,Yes,2023-10-29,Discontinued,S0007
+P0371,FreshMart Lemon Floor Cleaner 500ml,Cleaning Supplies,Floor Cleaner,FreshMart,500ml,25.38,33.68,24.64,4667904879482,No,2023-04-07,Active,S0063
+P0372,FreshMart Lemon Floor Cleaner 2L,Cleaning Supplies,Floor Cleaner,FreshMart,2L,15.69,25.72,39.0,2397634695701,No,2022-11-28,Active,S0059
+P0373,Lux Antibacterial Soap 125g,Personal Care,Soap,Lux,125g,7.25,9.15,20.77,6779077498242,No,2023-03-22,Active,S0017
+P0374,FreshMart Freezer Bags 50 Bags,Household,Storage Bags,FreshMart,50 Bags,13.2,19.66,32.86,252417347364,No,2023-11-14,Active,S0036
+P0375,Ariel Laundry Liquid 3kg,Cleaning Supplies,Detergent,Ariel,3kg,30.62,42.79,28.44,6056498615480,No,2023-06-08,Active,S0012
+P0376,Lays Corn Chips 50g,Snacks,Chips,Lays,50g,4.08,6.49,37.13,6281131006039,No,2022-10-04,Active,S0008
+P0377,Masafi Mineral Water 1L,Beverages,Water,Masafi,1L,0.98,1.6,38.75,5972734290536,Yes,2024-06-05,Active,S0089
+P0378,FreshMart Multigrain Bread 600g,Bakery,Bread,FreshMart,600g,10.71,14.4,25.62,2112382650501,Yes,2021-12-23,Active,S0081
+P0379,Al Islami Chicken Breast 500g,Frozen Foods,Frozen Chicken,Al Islami,500g,18.54,28.24,34.35,2576893789479,Yes,2023-06-11,Active,S0027
+P0380,FreshMart Cucumbers 500g,Fruits & Vegetables,Fresh Vegetables,FreshMart,500g,10.37,16.93,38.75,8266851212548,Yes,2024-04-27,Active,S0049
+P0381,FreshMart Pineapple Juice 1L,Beverages,Juices,FreshMart,1L,5.18,7.46,30.56,1498602656364,Yes,2022-10-14,Active,S0089
+P0382,FreshMart Freezer Bags 20 Bags,Household,Storage Bags,FreshMart,20 Bags,6.79,11.05,38.55,6514264344526,No,2023-05-13,Active,S0011
+P0383,FreshMart Salmon Fillet 500g,Meat & Seafood,Fish,FreshMart,500g,31.52,40.81,22.76,5882390181614,Yes,2023-09-24,Active,S0066
+P0384,FreshMart Cream Biscuits 100g,Snacks,Biscuits,FreshMart,100g,3.87,5.81,33.39,8408549710626,No,2024-07-02,Active,S0008
+P0385,FreshMart Sweet Corn 1kg,Frozen Foods,Frozen Vegetables,FreshMart,1kg,12.02,16.5,27.15,6257363534855,Yes,2023-07-18,Active,S0050
+P0386,FreshMart Small Garbage Bags 20 Bags,Household,Garbage Bags,FreshMart,20 Bags,8.32,11.29,26.31,3778100776251,No,2022-09-09,Active,S0054
+P0387,Green Farm Apples 1kg,Fruits & Vegetables,Fresh Fruits,Green Farm,1kg,17.1,24.77,30.96,526054170594,Yes,2021-09-20,Active,S0033
+P0388,L'usine Chocolate Croissant 100g,Bakery,Pastries,L'usine,100g,4.46,5.93,24.79,8754621585164,Yes,2023-06-21,Active,S0056
+P0389,FreshMart Mint 100g,Fruits & Vegetables,Herbs,FreshMart,100g,3.33,4.92,32.32,6620292730023,Yes,2024-06-22,Active,S0033
+P0390,FreshMart Ground Beef 1kg,Meat & Seafood,Beef,FreshMart,1kg,48.3,70.45,31.44,4491782191431,Yes,2023-11-10,Active,S0044
+P0391,Igloo Strawberry Ice Cream 500ml,Frozen Foods,Ice Cream,Igloo,500ml,15.66,25.16,37.76,8909012860348,Yes,2024-01-19,Active,S0094
+P0392,Almarai Greek Yogurt 500g,Dairy & Eggs,Yogurt,Almarai,500g,4.61,6.23,26.0,7104109465487,Yes,2022-08-12,Active,S0001
+P0393,Al Islami Chicken Thigh 2kg,Meat & Seafood,Chicken,Al Islami,2kg,21.99,35.35,37.79,9819218901518,Yes,2024-06-26,Active,S0045
+P0394,Al Islami Chicken Thigh 500g,Meat & Seafood,Chicken,Al Islami,500g,27.07,38.91,30.43,6785812252765,Yes,2022-03-09,Active,S0066
+P0395,Fine Kitchen Towels 12 Pack,Household,Tissue,Fine,12 Pack,4.05,6.19,34.57,8824303031576,No,2021-12-13,Active,S0036
+P0396,Green Farm Watermelon 1kg,Fruits & Vegetables,Fresh Fruits,Green Farm,1kg,8.83,11.26,21.58,7296487469567,Yes,2024-02-09,Active,S0025
+P0397,Nature Fresh Papaya 2kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,2kg,2.83,4.06,30.3,8791006319297,Yes,2023-10-06,Active,S0079
+P0398,Sensodyne Sensitive Toothpaste 100ml,Personal Care,Toothpaste,Sensodyne,100ml,11.55,16.87,31.54,5298548610231,No,2021-11-29,Active,S0039
+P0399,Ocean Fresh Hamour Fillet 500g,Meat & Seafood,Fish,Ocean Fresh,500g,31.15,42.13,26.06,1051940797535,Yes,2023-11-28,Active,S0096
+P0400,FreshMart Fusilli 250g,Pantry,Pasta,FreshMart,250g,11.52,18.54,37.86,8207874630728,No,2023-06-05,Active,S0061
+P0401,FreshMart Herbal Toothpaste 100ml,Personal Care,Toothpaste,FreshMart,100ml,14.58,18.66,21.86,438597196552,No,2023-06-21,Active,S0039
+P0402,Almarai Unsalted Butter 100g,Dairy & Eggs,Butter,Almarai,100g,22.89,29.04,21.18,7675111800790,Yes,2022-07-09,Active,S0064
+P0403,FreshMart Cauliflower 1kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,1kg,4.53,6.8,33.38,2823906275307,Yes,2023-04-13,Active,S0051
+P0404,Green Farm Capsicum 2kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,2kg,11.56,15.59,25.85,7981947487358,Yes,2022-10-28,Active,S0051
+P0405,Fairy Anti-Grease Dishwash 1L,Cleaning Supplies,Dishwashing Liquid,Fairy,1L,19.2,24.47,21.54,2944013358438,No,2023-09-26,Active,S0012
+P0406,Lux Beauty Soap 75g,Personal Care,Soap,Lux,75g,8.5,12.04,29.4,5161528406684,No,2023-01-16,Active,S0055
+P0407,McVitie's Marie Biscuits 500g,Snacks,Biscuits,McVitie's,500g,12.94,17.28,25.12,56221267005,No,2022-10-23,Active,S0008
+P0408,L'usine Hot Dog Buns 600g,Bakery,Bread,L'usine,600g,7.04,10.47,32.76,3742691140791,Yes,2023-02-06,Active,S0023
+P0409,Masafi Sparkling Water 1.5L,Beverages,Water,Masafi,1.5L,3.91,5.0,21.8,7675308916648,Yes,2022-06-28,Active,S0089
+P0410,FreshMart Potato Chips 100g,Snacks,Chips,FreshMart,100g,2.69,3.5,23.14,1460898967530,No,2023-05-21,Active,S0008
+P0411,Igloo Cookies & Cream Ice Cream 500ml,Frozen Foods,Ice Cream,Igloo,500ml,17.52,22.8,23.16,5418597765021,Yes,2022-12-28,Active,S0083
+P0412,Daawat Sona Masoori Rice 1kg,Pantry,Rice,Daawat,1kg,36.06,53.55,32.66,3636017123967,No,2024-07-20,Active,S0062
+P0413,FreshMart Corn Chips 50g,Snacks,Chips,FreshMart,50g,3.74,6.07,38.39,3797782953224,No,2022-01-23,Active,S0008
+P0414,Almarai Garlic Butter 500g,Dairy & Eggs,Butter,Almarai,500g,14.52,20.8,30.19,1753386486072,Yes,2022-05-12,Discontinued,S0001
+P0415,Sadia Chicken Mince 2kg,Meat & Seafood,Chicken,Sadia,2kg,30.44,39.43,22.8,3562519928833,Yes,2024-04-12,Active,S0096
+P0416,London Dairy Chocolate Ice Cream 1L,Frozen Foods,Ice Cream,London Dairy,1L,21.01,28.74,26.9,1938229664088,Yes,2021-08-26,Active,S0027
+P0417,Ocean Fresh Crab 500g,Meat & Seafood,Seafood,Ocean Fresh,500g,20.46,28.46,28.11,2504628000001,Yes,2024-06-07,Active,S0045
+P0418,Nadec Fresh Milk 500ml,Dairy & Eggs,Milk,Nadec,500ml,3.75,4.98,24.7,2691698225509,Yes,2023-05-07,Active,S0016
+P0419,Lacnor Orange Juice 500ml,Beverages,Juices,Lacnor,500ml,13.73,17.57,21.86,5808180037466,Yes,2023-08-31,Active,S0089
+P0420,Persil Laundry Liquid 500g,Cleaning Supplies,Detergent,Persil,500g,29.31,45.92,36.17,1784290584844,No,2022-06-15,Active,S0012
+P0421,FreshMart Bananas 1kg,Fruits & Vegetables,Fresh Fruits,FreshMart,1kg,8.24,10.74,23.28,9114967833951,Yes,2022-10-02,Active,S0051
+P0422,FreshMart Lavender Floor Cleaner 1L,Cleaning Supplies,Floor Cleaner,FreshMart,1L,10.58,14.94,29.18,7111690273599,No,2021-12-21,Active,S0097
+P0423,India Gate Brown Rice 10kg,Pantry,Rice,India Gate,10kg,26.53,35.93,26.16,3948756939250,No,2022-11-21,Active,S0061
+P0424,FreshMart Multigrain Bread 800g,Bakery,Bread,FreshMart,800g,5.25,7.69,31.73,839612703579,Yes,2022-08-01,Active,S0007
+P0425,FreshMart Garlic Bread 600g,Bakery,Bread,FreshMart,600g,8.41,13.06,35.6,7670028452155,Yes,2024-04-03,Active,S0086
+P0426,FreshMart Tortilla Chips 200g,Snacks,Chips,FreshMart,200g,8.5,12.37,31.29,9186742706859,No,2023-09-18,Active,S0008
+P0427,Al Baker All Purpose Flour 5kg,Pantry,Flour,Al Baker,5kg,17.13,23.83,28.12,8133623622785,No,2023-10-16,Active,S0032
+P0428,Almarai Mozzarella Cheese 1kg,Dairy & Eggs,Cheese,Almarai,1kg,8.8,11.44,23.08,1911551952290,Yes,2024-03-06,Active,S0082
+P0429,Persil Laundry Liquid 1kg,Cleaning Supplies,Detergent,Persil,1kg,19.98,30.9,35.34,4373408231311,No,2023-08-01,Active,S0063
+P0430,Ocean Fresh Shrimp 500g,Meat & Seafood,Seafood,Ocean Fresh,500g,55.66,89.97,38.13,9904224376587,Yes,2023-08-27,Active,S0045
+P0431,Noor Corn Oil 500ml,Pantry,Cooking Oil,Noor,500ml,28.69,41.4,30.7,4134609725715,No,2023-02-24,Active,S0040
+P0432,FreshMart Black Forest Cake 1kg,Bakery,Cakes,FreshMart,1kg,22.3,34.68,35.7,3222909413447,Yes,2023-12-13,Active,S0056
+P0433,Lays Tortilla Chips 50g,Snacks,Chips,Lays,50g,6.52,9.18,28.98,4109373887693,No,2024-06-25,Active,S0008
+P0434,FreshMart Green Tea 50 Bags,Beverages,Tea,FreshMart,50 Bags,13.29,16.94,21.55,6782285875460,No,2022-11-15,Active,S0089
+P0435,FreshMart Processed Cheese Slices 1kg,Dairy & Eggs,Cheese,FreshMart,1kg,7.25,10.14,28.5,9716717205829,Yes,2022-09-23,Active,S0077
+P0436,FreshMart Milk Chocolate 100g,Snacks,Chocolates,FreshMart,100g,21.07,29.75,29.18,7712737804594,No,2023-01-14,Active,S0008
+P0437,Vaseline Hand Cream 200ml,Personal Care,Skincare,Vaseline,200ml,28.37,44.1,35.67,2143163734509,No,2023-02-10,Active,S0035
+P0438,FreshMart Laundry Powder 1kg,Cleaning Supplies,Detergent,FreshMart,1kg,30.02,47.33,36.57,5940961977582,No,2024-07-13,Active,S0012
+P0439,Barilla Lasagna Sheets 250g,Pantry,Pasta,Barilla,250g,6.35,9.43,32.66,7327333078142,No,2023-03-15,Active,S0040
+P0440,FreshMart Black Pepper 50g,Pantry,Spices,FreshMart,50g,9.21,13.29,30.7,4884525683049,No,2021-12-28,Active,S0052
+P0441,L'usine Danish Pastry 250g,Bakery,Pastries,L'usine,250g,10.84,13.79,21.39,1660614724687,Yes,2023-08-28,Active,S0005
+P0442,FreshMart Infant Cereal 200g,Baby Care,Baby Food,FreshMart,200g,29.18,37.54,22.27,7684764564850,Yes,2024-07-22,Active,S0009
+P0443,Oreo Chocolate Biscuits 250g,Snacks,Biscuits,Oreo,250g,5.23,8.3,36.99,2630066960857,No,2022-08-12,Active,S0008
+P0444,Nivea Face Cream 100ml,Personal Care,Skincare,Nivea,100ml,53.11,76.84,30.88,8853701544081,No,2021-10-07,Active,S0078
+P0445,Al Islami Chicken Mince 1kg,Meat & Seafood,Chicken,Al Islami,1kg,21.63,33.44,35.32,1566483679700,Yes,2023-01-02,Active,S0003
+P0446,Ocean Fresh Tilapia Fillet 500g,Meat & Seafood,Fish,Ocean Fresh,500g,28.23,40.6,30.47,7696619646635,Yes,2024-05-20,Active,S0093
+P0447,Modern Bakery Burger Buns 600g,Bakery,Bread,Modern Bakery,600g,2.9,4.16,30.29,6161983651116,Yes,2023-04-07,Active,S0070
+P0448,FreshMart Green Tea 25 Bags,Beverages,Tea,FreshMart,25 Bags,12.15,17.3,29.77,8657224139881,No,2022-06-12,Active,S0089
+P0449,Green Farm Spinach 2kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,2kg,12.53,17.8,29.61,8563639556567,Yes,2022-10-15,Active,S0072
+P0450,Coca-Cola Lemon Lime Soda 1L,Beverages,Soft Drinks,Coca-Cola,1L,6.88,10.81,36.36,2996724791363,No,2024-07-06,Active,S0089
+P0451,Davidoff Ground Coffee 100g,Beverages,Coffee,Davidoff,100g,19.3,30.17,36.03,5063763248527,No,2022-11-28,Active,S0089
+P0452,India Gate Jasmine Rice 1kg,Pantry,Rice,India Gate,1kg,12.27,16.15,24.02,6821640900000,No,2022-01-01,Active,S0040
+P0453,FreshMart Coriander 100g,Fruits & Vegetables,Herbs,FreshMart,100g,1.47,2.35,37.45,6304053266951,Yes,2023-12-15,Active,S0073
+P0454,FreshMart Green Apple Dishwash 1L,Cleaning Supplies,Dishwashing Liquid,FreshMart,1L,19.47,29.51,34.02,5051122371412,No,2023-06-25,Active,S0085
+P0455,FreshMart Whole Chicken 2kg,Meat & Seafood,Chicken,FreshMart,2kg,26.93,38.53,30.11,6984225419356,Yes,2024-03-17,Active,S0096
+P0456,FreshMart Large Garbage Bags 20 Bags,Household,Garbage Bags,FreshMart,20 Bags,5.73,8.9,35.62,7302580728750,No,2024-04-13,Active,S0011
+P0457,FreshMart Long Grain Rice 10kg,Pantry,Rice,FreshMart,10kg,8.59,12.69,32.31,7321112235016,No,2021-10-15,Active,S0062
+P0458,FreshMart Anti-Grease Dishwash 500ml,Cleaning Supplies,Dishwashing Liquid,FreshMart,500ml,7.9,10.15,22.17,6837694560312,No,2024-01-27,Active,S0059
+P0459,FreshMart Peanuts 100g,Snacks,Nuts,FreshMart,100g,15.15,22.83,33.64,6484414551534,No,2021-09-15,Active,S0008
+P0460,Al Khaleej Icing Sugar 5kg,Pantry,Sugar,Al Khaleej,5kg,6.05,8.35,27.54,866661539897,No,2023-05-20,Active,S0062
+P0461,FreshMart Long Grain Rice 1kg,Pantry,Rice,FreshMart,1kg,44.22,59.87,26.14,270261374084,No,2022-07-18,Active,S0080
+P0462,FreshMart Toilet Tissue 1 Pack,Household,Tissue,FreshMart,1 Pack,10.08,16.65,39.46,2874175903194,No,2022-10-02,Active,S0036
+P0463,Almarai Processed Cheese Slices 1kg,Dairy & Eggs,Cheese,Almarai,1kg,7.26,10.71,32.21,8476517701921,Yes,2022-03-25,Active,S0074
+P0464,FreshMart Skimmed Milk 500ml,Dairy & Eggs,Milk,FreshMart,500ml,2.95,4.2,29.76,6558892089107,Yes,2023-08-25,Discontinued,S0037
+P0465,FreshMart Chicken Burger Patty 500g,Frozen Foods,Frozen Chicken,FreshMart,500g,29.29,38.02,22.96,2134771761377,Yes,2022-01-27,Active,S0027
+P0466,FreshMart Chocolate Ice Cream 1L,Frozen Foods,Ice Cream,FreshMart,1L,31.15,39.78,21.69,3568878956098,Yes,2022-01-03,Active,S0092
+P0467,Green Farm Lettuce 2kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,2kg,7.32,9.26,20.95,8245275757736,Yes,2022-01-26,Active,S0019
+P0468,Nature Fresh Bananas 2kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,2kg,14.99,20.14,25.57,8802293716833,Yes,2022-12-05,Active,S0033
+P0469,FreshMart Fragrance Free Baby Wipes 80 Sheets,Baby Care,Baby Wipes,FreshMart,80 Sheets,7.0,10.81,35.25,5756484238532,No,2022-12-21,Active,S0067
+P0470,FreshMart Moisturizing Shampoo 700ml,Personal Care,Shampoo,FreshMart,700ml,24.05,32.23,25.38,5182791000683,No,2022-11-21,Active,S0055
+P0471,FreshMart Lettuce 2kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,2kg,13.9,18.95,26.65,883750489246,Yes,2022-04-30,Active,S0051
+P0472,Twinings Black Tea 50 Bags,Beverages,Tea,Twinings,50 Bags,13.91,21.5,35.3,8958779423662,No,2022-12-26,Active,S0089
+P0473,Al Baker Whole Wheat Flour 5kg,Pantry,Flour,Al Baker,5kg,6.97,9.12,23.57,2349373290938,No,2022-09-18,Active,S0061
+P0474,Nature Fresh Carrots 500g,Fruits & Vegetables,Fresh Vegetables,Nature Fresh,500g,13.6,19.93,31.76,2170675501756,Yes,2024-04-24,Active,S0099
+P0475,Americana Broccoli Florets 500g,Frozen Foods,Frozen Vegetables,Americana,500g,19.61,24.99,21.53,1031360313065,Yes,2021-11-18,Active,S0027
+P0476,Monster Sugar Free Energy Drink 330ml,Beverages,Energy Drinks,Monster,330ml,10.43,13.68,23.76,4125773111435,No,2024-01-20,Active,S0089
+P0477,Sadia Chicken Drumsticks 2kg,Meat & Seafood,Chicken,Sadia,2kg,22.59,33.02,31.59,7966705794893,Yes,2023-02-12,Active,S0044
+P0478,Nature Fresh Onions 2kg,Fruits & Vegetables,Fresh Vegetables,Nature Fresh,2kg,10.73,16.97,36.77,6334707409229,Yes,2023-10-27,Active,S0033
+P0479,Dove Moisturizing Soap 75g,Personal Care,Soap,Dove,75g,10.25,16.27,37.0,9781038342331,No,2023-10-14,Active,S0078
+P0480,FreshMart Brown Eggs 12 Pack 12 Pack,Dairy & Eggs,Eggs,FreshMart,12 Pack,10.42,15.12,31.08,3485796670441,Yes,2023-03-07,Active,S0069
+P0481,FreshMart Spaghetti 1kg,Pantry,Pasta,FreshMart,1kg,4.24,5.44,22.06,7009832937815,No,2022-08-18,Active,S0080
+P0482,FreshMart Strawberry Ice Cream 500ml,Frozen Foods,Ice Cream,FreshMart,500ml,19.92,31.38,36.52,5219179682688,Yes,2023-09-23,Discontinued,S0038
+P0483,Dettol Lemon Floor Cleaner 2L,Cleaning Supplies,Floor Cleaner,Dettol,2L,13.66,18.77,27.22,5588274840881,No,2023-10-06,Active,S0076
+P0484,FreshMart Bananas 500g,Fruits & Vegetables,Fresh Fruits,FreshMart,500g,3.46,4.84,28.51,1675208216868,Yes,2024-06-17,Active,S0060
+P0485,Sensodyne Herbal Toothpaste 100ml,Personal Care,Toothpaste,Sensodyne,100ml,10.76,15.97,32.62,2222348623927,No,2023-03-25,Active,S0055
+P0486,Nature Fresh Mangoes 500g,Fruits & Vegetables,Fresh Fruits,Nature Fresh,500g,10.71,17.27,37.98,3256458148109,Yes,2023-05-25,Discontinued,S0002
+P0487,Galaxy Milk Chocolate 50g,Snacks,Chocolates,Galaxy,50g,18.06,28.39,36.39,8842518073570,No,2023-12-20,Active,S0008
+P0488,Fairy Anti-Grease Dishwash 500ml,Cleaning Supplies,Dishwashing Liquid,Fairy,500ml,14.05,21.47,34.56,4200379823217,No,2023-12-02,Active,S0068
+P0489,Lipton Masala Tea 100 Bags,Beverages,Tea,Lipton,100 Bags,20.36,32.56,37.47,799000081040,No,2021-10-24,Active,S0089
+P0490,L'usine Red Velvet Cake 500g,Bakery,Cakes,L'usine,500g,76.64,111.51,31.27,1780493876328,Yes,2023-07-21,Active,S0056
+P0491,Pampers Small Diapers Large Pack,Baby Care,Diapers,Pampers,Large Pack,81.13,105.83,23.34,7221908032198,No,2024-01-12,Active,S0022
+P0492,Davidoff Cold Coffee 100g,Beverages,Coffee,Davidoff,100g,34.82,48.85,28.72,2016697105049,No,2023-03-30,Active,S0089
+P0493,Mai Dubai Mineral Water 500ml,Beverages,Water,Mai Dubai,500ml,5.22,6.68,21.86,501557990689,Yes,2022-11-18,Active,S0089
+P0494,Puck Cream Cheese 500g,Dairy & Eggs,Cheese,Puck,500g,12.97,21.05,38.38,4570909993155,Yes,2022-03-24,Active,S0034
+P0495,Fairy Green Apple Dishwash 500ml,Cleaning Supplies,Dishwashing Liquid,Fairy,500ml,11.85,15.37,22.9,1540868501091,No,2024-06-28,Active,S0012
+P0496,Americana Chicken Strips 500g,Frozen Foods,Frozen Chicken,Americana,500g,20.32,29.45,31.0,3703231877522,Yes,2023-04-19,Active,S0092
+P0497,FreshMart Grapes 1kg,Fruits & Vegetables,Fresh Fruits,FreshMart,1kg,14.59,21.01,30.56,4210968362881,Yes,2023-07-04,Active,S0051
+P0498,FreshMart Baby Formula 400g,Baby Care,Baby Food,FreshMart,400g,15.89,25.58,37.88,4062517755466,Yes,2023-03-19,Active,S0041
+P0499,FreshMart Low Fat Milk 500ml,Dairy & Eggs,Milk,FreshMart,500ml,2.95,4.42,33.26,5861377634596,Yes,2022-02-09,Active,S0077
+P0500,FreshMart Long Grain Rice 5kg,Pantry,Rice,FreshMart,5kg,18.45,28.05,34.22,2428326899319,No,2022-03-29,Active,S0061
+P0501,FreshMart Strawberry Yogurt 200g,Dairy & Eggs,Yogurt,FreshMart,200g,14.89,19.8,24.8,8664611008002,Yes,2023-10-29,Active,S0057
+P0502,FreshMart Moisturizing Shampoo 200ml,Personal Care,Shampoo,FreshMart,200ml,15.5,24.73,37.32,1433974227347,No,2024-06-04,Active,S0055
+P0503,FreshMart Herbal Toothpaste 150ml,Personal Care,Toothpaste,FreshMart,150ml,4.98,6.62,24.77,9578002703966,No,2021-10-13,Active,S0065
+P0504,FreshMart Garlic Butter 500g,Dairy & Eggs,Butter,FreshMart,500g,11.33,17.87,36.6,6175854682628,Yes,2021-08-21,Active,S0069
+P0505,FreshMart Chicken Strips 500g,Frozen Foods,Frozen Chicken,FreshMart,500g,14.71,21.85,32.68,9629749886907,Yes,2024-06-12,Active,S0092
+P0506,FreshMart Medium Diapers Medium Pack,Baby Care,Diapers,FreshMart,Medium Pack,30.74,42.81,28.19,1063141870399,No,2021-09-20,Active,S0028
+P0507,Lacnor Orange Juice 2L,Beverages,Juices,Lacnor,2L,7.27,11.09,34.45,4372956944315,Yes,2021-12-25,Active,S0089
+P0508,Ariel Laundry Powder 500g,Cleaning Supplies,Detergent,Ariel,500g,26.22,35.2,25.51,7274538058670,No,2023-02-18,Active,S0071
+P0509,Pampers Large Diapers Medium Pack,Baby Care,Diapers,Pampers,Medium Pack,62.0,78.95,21.47,1626452271967,No,2022-08-26,Active,S0022
+P0510,FreshMart Ground Coffee 200g,Beverages,Coffee,FreshMart,200g,17.33,26.03,33.42,953749093232,No,2024-04-30,Active,S0089
+P0511,Americana Chicken Nuggets 1kg,Frozen Foods,Frozen Chicken,Americana,1kg,12.13,17.21,29.52,7398005019015,Yes,2023-04-15,Active,S0058
+P0512,Al Islami Chicken Breast 1kg,Meat & Seafood,Chicken,Al Islami,1kg,31.87,40.24,20.8,9666645375821,Yes,2022-06-17,Active,S0045
+P0513,FreshMart Basil 100g,Fruits & Vegetables,Herbs,FreshMart,100g,1.35,1.94,30.41,1842862053454,Yes,2022-11-30,Active,S0099
+P0514,President Cheddar Cheese 200g,Dairy & Eggs,Cheese,President,200g,9.05,12.11,25.27,5613250282925,Yes,2024-02-08,Active,S0042
+P0515,FreshMart Onions 500g,Fruits & Vegetables,Fresh Vegetables,FreshMart,500g,2.68,3.86,30.57,6780980700278,Yes,2021-11-22,Active,S0026
+P0516,FreshMart Red Velvet Cake 2kg,Bakery,Cakes,FreshMart,2kg,38.25,60.99,37.28,8484775191033,Yes,2023-04-27,Active,S0029
+P0517,Twinings Earl Grey Tea 50 Bags,Beverages,Tea,Twinings,50 Bags,22.47,33.83,33.58,6354084661454,No,2023-01-08,Discontinued,S0089
+P0518,FreshMart Tuna Fillet 1kg,Meat & Seafood,Fish,FreshMart,1kg,39.48,59.76,33.94,784704050188,Yes,2022-06-19,Active,S0021
+P0519,FreshMart Orange Soda 330ml,Beverages,Soft Drinks,FreshMart,330ml,8.34,13.8,39.57,3928151069592,No,2022-09-20,Active,S0089
+P0520,Lays Corn Chips 100g,Snacks,Chips,Lays,100g,9.24,14.08,34.38,1992210208521,No,2023-03-14,Active,S0008
+P0521,FreshMart Cheesecake 1kg,Bakery,Cakes,FreshMart,1kg,27.79,41.77,33.47,8569640422419,Yes,2024-07-15,Active,S0004
+P0522,Bayara Peanuts 250g,Snacks,Nuts,Bayara,250g,8.65,12.35,29.96,6641168674951,No,2022-12-26,Active,S0008
+P0523,FreshMart Detergent Pods 500g,Cleaning Supplies,Detergent,FreshMart,500g,38.59,59.51,35.15,3793932733876,No,2024-01-29,Active,S0063
+P0524,FreshMart Hand Cream 200ml,Personal Care,Skincare,FreshMart,200ml,23.82,29.94,20.44,469223637767,No,2022-10-11,Active,S0090
+P0525,Masafi Still Water 1L,Beverages,Water,Masafi,1L,0.83,1.16,28.45,2798505621100,Yes,2024-01-22,Active,S0089
+P0526,Al Islami Chicken Breast 2kg,Meat & Seafood,Chicken,Al Islami,2kg,26.23,38.41,31.71,5715103607289,Yes,2022-06-21,Active,S0043
+P0527,FreshMart Newborn Diapers Medium Pack,Baby Care,Diapers,FreshMart,Medium Pack,39.83,59.95,33.56,5138315096182,No,2023-10-11,Active,S0041
+P0528,L'usine Garlic Bread 400g,Bakery,Bread,L'usine,400g,9.42,13.0,27.54,2548607230256,Yes,2023-04-14,Active,S0091
+P0529,Lays Tortilla Chips 200g,Snacks,Chips,Lays,200g,8.17,12.22,33.14,3062585132610,No,2023-03-18,Active,S0008
+P0530,Monster Tropical Energy Drink 500ml,Beverages,Energy Drinks,Monster,500ml,5.58,8.35,33.17,5848370637007,No,2021-10-13,Active,S0089
+P0531,Ariel Detergent Pods 500g,Cleaning Supplies,Detergent,Ariel,500g,19.26,30.07,35.95,2029599168920,No,2022-10-16,Active,S0076
+P0532,FreshMart Dark Chocolate 100g,Snacks,Chocolates,FreshMart,100g,12.5,20.1,37.81,2270499171,No,2022-08-02,Active,S0008
+P0533,Pepsi Diet Cola 1L,Beverages,Soft Drinks,Pepsi,1L,5.22,8.25,36.73,2648952328865,No,2024-06-24,Discontinued,S0089
+P0534,FreshMart Moisturizing Shampoo 400ml,Personal Care,Shampoo,FreshMart,400ml,7.44,12.15,38.77,3206191516963,No,2022-08-16,Active,S0055
+P0535,FreshMart Chocolate Biscuits 250g,Snacks,Biscuits,FreshMart,250g,9.94,13.6,26.91,4713562077866,No,2023-09-13,Active,S0008
+P0536,FreshMart Vanilla Yogurt 1kg,Dairy & Eggs,Yogurt,FreshMart,1kg,11.2,14.13,20.74,1717631105927,Yes,2022-01-19,Active,S0088
+P0537,Fairy Lemon Dishwash 1L,Cleaning Supplies,Dishwashing Liquid,Fairy,1L,13.32,17.34,23.18,2695501199629,No,2021-09-16,Active,S0068
+P0538,FreshMart Strawberries 2kg,Fruits & Vegetables,Fresh Fruits,FreshMart,2kg,3.43,4.93,30.43,1441717348204,Yes,2023-10-14,Active,S0060
+P0539,FreshMart Olive Oil 5L,Pantry,Cooking Oil,FreshMart,5L,9.47,15.5,38.9,6642243349825,No,2022-11-30,Active,S0030
+P0540,Green Farm Carrots 2kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,2kg,11.88,18.05,34.18,5768400517256,Yes,2024-03-17,Active,S0019
+P0541,FreshMart Orange Soda 1L,Beverages,Soft Drinks,FreshMart,1L,10.31,14.86,30.62,9603201186965,No,2021-12-20,Active,S0089
+P0542,Mai Dubai Sparkling Water 1.5L,Beverages,Water,Mai Dubai,1.5L,7.99,10.03,20.34,1061896369922,Yes,2023-02-02,Active,S0089
+P0543,Pepsi Cola 1L,Beverages,Soft Drinks,Pepsi,1L,3.99,6.1,34.59,7132142617631,No,2022-11-15,Active,S0089
+P0544,FreshMart Whitening Toothpaste 50ml,Personal Care,Toothpaste,FreshMart,50ml,6.41,9.58,33.09,1747347410992,No,2023-07-25,Active,S0024
+P0545,FreshMart Fruit Puree 800g,Baby Care,Baby Food,FreshMart,800g,14.49,21.88,33.78,9457715540597,Yes,2023-06-17,Active,S0041
+P0546,FreshMart Fusilli 500g,Pantry,Pasta,FreshMart,500g,9.21,12.65,27.19,9274078845165,No,2023-10-11,Active,S0052
+P0547,FreshMart Face Cream 100ml,Personal Care,Skincare,FreshMart,100ml,31.04,50.64,38.7,1065589313964,No,2023-05-26,Active,S0095
+P0548,FreshMart Chicken Burger Patty 1kg,Frozen Foods,Frozen Chicken,FreshMart,1kg,17.79,28.09,36.67,5877614778992,Yes,2023-07-28,Active,S0010
+P0549,Igloo Vanilla Ice Cream 1L,Frozen Foods,Ice Cream,Igloo,1L,25.86,39.6,34.7,3770897407127,Yes,2021-09-05,Active,S0094
+P0550,Nivea Body Lotion 200ml,Personal Care,Skincare,Nivea,200ml,15.2,24.65,38.34,6892352374564,No,2023-02-08,Active,S0015
+P0551,FreshMart Chicken Thigh 2kg,Meat & Seafood,Chicken,FreshMart,2kg,8.76,13.01,32.67,2902519466132,Yes,2022-09-27,Active,S0043
+P0552,FreshMart Dark Chocolate 200g,Snacks,Chocolates,FreshMart,200g,10.23,15.77,35.13,8999151166883,No,2022-03-28,Active,S0008
+P0553,Pantene Moisturizing Shampoo 200ml,Personal Care,Shampoo,Pantene,200ml,14.98,23.0,34.87,9079955015460,No,2023-04-27,Active,S0048
+P0554,Dettol Disinfectant Floor Cleaner 2L,Cleaning Supplies,Floor Cleaner,Dettol,2L,10.04,15.96,37.09,9043234664724,No,2022-10-06,Active,S0012
+P0555,FreshMart Hand Cream 100ml,Personal Care,Skincare,FreshMart,100ml,20.79,31.7,34.42,1202996663446,No,2024-05-28,Active,S0015
+P0556,Barilla Spaghetti 250g,Pantry,Pasta,Barilla,250g,3.1,4.84,35.95,6732880851413,No,2022-07-09,Active,S0061
+P0557,FreshMart Laundry Powder 3kg,Cleaning Supplies,Detergent,FreshMart,3kg,26.49,34.81,23.9,7325262781553,No,2024-02-16,Active,S0059
+P0558,Davidoff Instant Coffee 100g,Beverages,Coffee,Davidoff,100g,38.38,48.91,21.53,4733978165308,No,2023-08-22,Active,S0089
+P0559,FreshMart Ground Beef 500g,Meat & Seafood,Beef,FreshMart,500g,40.74,63.37,35.71,4885212999917,Yes,2022-10-29,Active,S0044
+P0560,FreshMart Mineral Water 1L,Beverages,Water,FreshMart,1L,1.96,2.67,26.59,7614295622453,Yes,2023-09-08,Active,S0089
+P0561,Lays Vegetable Chips 50g,Snacks,Chips,Lays,50g,6.71,9.64,30.39,9050115459904,No,2023-07-23,Active,S0008
+P0562,Green Farm Tomatoes 1kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,1kg,8.17,11.13,26.59,9313999214039,Yes,2023-11-08,Active,S0049
+P0563,FreshMart Basmati Rice 1kg,Pantry,Rice,FreshMart,1kg,19.53,31.59,38.18,3067864376297,No,2024-03-24,Active,S0032
+P0564,FreshMart Chicken Nuggets 1kg,Frozen Foods,Frozen Chicken,FreshMart,1kg,26.17,34.82,24.84,5770064147229,Yes,2023-02-03,Active,S0027
+P0565,Vaseline Face Cream 50ml,Personal Care,Skincare,Vaseline,50ml,14.09,22.46,37.27,8729934496186,No,2022-10-02,Active,S0017
+P0566,Nature Fresh Cucumbers 1kg,Fruits & Vegetables,Fresh Vegetables,Nature Fresh,1kg,5.18,7.53,31.21,8281864129225,Yes,2024-05-22,Active,S0049
+P0567,FreshMart Tilapia Fillet 500g,Meat & Seafood,Fish,FreshMart,500g,42.7,66.89,36.16,9005541972770,Yes,2023-11-08,Active,S0045
+P0568,Daawat Basmati Rice 1kg,Pantry,Rice,Daawat,1kg,35.88,53.9,33.43,3363180068756,No,2023-08-12,Active,S0052
+P0569,FreshMart Large Diapers Small Pack,Baby Care,Diapers,FreshMart,Small Pack,40.62,53.94,24.69,864928237500,No,2022-09-23,Active,S0041
+P0570,FreshMart Cheesecake 2kg,Bakery,Cakes,FreshMart,2kg,24.53,38.4,36.12,5707901823824,Yes,2023-09-24,Active,S0029
+P0571,FreshMart Chocolate Cake 500g,Bakery,Cakes,FreshMart,500g,20.42,31.2,34.55,5668320012100,Yes,2022-11-26,Active,S0070
+P0572,FreshMart Cinnamon Roll 100g,Bakery,Pastries,FreshMart,100g,2.77,4.57,39.39,3983387849202,Yes,2023-03-18,Active,S0029
+P0573,FreshMart Squid 1kg,Meat & Seafood,Seafood,FreshMart,1kg,39.78,65.84,39.58,8638267450331,Yes,2021-11-10,Active,S0045
+P0574,Al Baker Whole Wheat Flour 1kg,Pantry,Flour,Al Baker,1kg,15.83,20.53,22.89,4957574093715,No,2023-08-05,Active,S0061
+P0575,Lays Tortilla Chips 100g,Snacks,Chips,Lays,100g,9.39,12.84,26.87,361186432123,No,2024-06-12,Active,S0008
+P0576,Persil Laundry Powder 3kg,Cleaning Supplies,Detergent,Persil,3kg,38.07,48.53,21.55,3753983794295,No,2021-10-17,Active,S0085
+P0577,Al Ain Farms Vanilla Yogurt 500g,Dairy & Eggs,Yogurt,Al Ain Farms,500g,2.6,3.34,22.16,2925017937171,Yes,2023-08-30,Active,S0082
+P0578,FreshMart Broccoli Florets 1kg,Frozen Foods,Frozen Vegetables,FreshMart,1kg,11.93,18.6,35.86,1291130364127,Yes,2021-10-24,Active,S0050
+P0579,Al Khaleej Icing Sugar 1kg,Pantry,Sugar,Al Khaleej,1kg,12.16,16.51,26.35,6083299607635,No,2021-08-08,Discontinued,S0040
+P0580,Almarai Fresh Milk 2L,Dairy & Eggs,Milk,Almarai,2L,9.76,15.62,37.52,7306879218168,Yes,2022-12-17,Active,S0037
+P0581,Oreo Cream Biscuits 100g,Snacks,Biscuits,Oreo,100g,9.65,13.08,26.22,4019528894424,No,2022-06-16,Active,S0008
+P0582,FreshMart Kettle Chips 100g,Snacks,Chips,FreshMart,100g,9.44,15.23,38.02,9809881636237,No,2022-09-17,Active,S0008
+P0583,FreshMart Watermelon 1kg,Fruits & Vegetables,Fresh Fruits,FreshMart,1kg,13.86,19.94,30.49,9412672094316,Yes,2023-09-10,Active,S0033
+P0584,KitKat White Chocolate 100g,Snacks,Chocolates,KitKat,100g,13.6,20.96,35.11,3827875943877,No,2023-03-31,Active,S0008
+P0585,Shan Garam Masala 100g,Pantry,Spices,Shan,100g,2.52,3.22,21.74,693596034209,No,2024-04-09,Active,S0032
+P0586,Sensodyne Fresh Mint Toothpaste 100ml,Personal Care,Toothpaste,Sensodyne,100ml,17.8,24.43,27.14,9423536637532,No,2024-04-21,Active,S0055
+P0587,Ocean Fresh Mussels 500g,Meat & Seafood,Seafood,Ocean Fresh,500g,32.72,42.13,22.34,8499684186728,Yes,2023-08-02,Active,S0043
+P0588,FreshMart Extra Large Diapers Large Pack,Baby Care,Diapers,FreshMart,Large Pack,52.3,77.18,32.24,4840059713218,No,2024-04-28,Active,S0067
+P0589,FreshMart Kettle Chips 50g,Snacks,Chips,FreshMart,50g,4.24,5.78,26.64,1669891148476,No,2022-11-18,Active,S0008
+P0590,FreshMart Shrimp 500g,Meat & Seafood,Seafood,FreshMart,500g,28.3,40.13,29.48,4346972672576,Yes,2024-02-03,Active,S0020
+P0591,Al Ain Farms Chocolate Milk 2L,Dairy & Eggs,Milk,Al Ain Farms,2L,5.04,8.22,38.69,9944816541146,Yes,2023-05-03,Active,S0069
+P0592,FreshMart Lemon Soap 75g,Personal Care,Soap,FreshMart,75g,6.93,8.86,21.78,6662355300828,No,2022-10-09,Active,S0095
+P0593,FreshMart Aluminium Foil 10m,Household,Foil,FreshMart,10m,6.49,9.92,34.58,6234618093909,No,2024-04-24,Active,S0075
+P0594,Nescafe Coffee Beans 500g,Beverages,Coffee,Nescafe,500g,31.36,50.87,38.35,3687048552936,No,2021-08-26,Discontinued,S0089
+P0595,Shan Black Pepper 100g,Pantry,Spices,Shan,100g,3.42,5.52,38.04,4661227233990,No,2023-02-11,Discontinued,S0061
+P0596,Pampers Newborn Diapers Medium Pack,Baby Care,Diapers,Pampers,Medium Pack,50.59,84.12,39.86,7433091067554,No,2021-12-15,Active,S0046
+P0597,Pringles Corn Chips 100g,Snacks,Chips,Pringles,100g,12.72,17.61,27.77,4779384861298,No,2024-01-04,Discontinued,S0008
+P0598,Almarai Apple Juice 1L,Beverages,Juices,Almarai,1L,14.67,21.26,31.0,4884209568525,Yes,2021-11-05,Active,S0089
+P0599,FreshMart Chocolate Cake 1kg,Bakery,Cakes,FreshMart,1kg,62.06,80.53,22.94,4972463614321,Yes,2022-11-25,Active,S0005
+P0600,Coca-Cola Lemon Lime Soda 330ml,Beverages,Soft Drinks,Coca-Cola,330ml,9.41,13.13,28.33,218120659712,No,2024-02-09,Active,S0089
+P0601,Green Farm Coriander 100g,Fruits & Vegetables,Herbs,Green Farm,100g,3.52,4.57,22.98,8998801255847,Yes,2023-01-30,Active,S0019
+P0602,FreshMart Black Pepper 100g,Pantry,Spices,FreshMart,100g,5.64,7.9,28.61,8393308425425,No,2022-10-06,Active,S0080
+P0603,FreshMart Whole Wheat Flour 1kg,Pantry,Flour,FreshMart,1kg,10.38,15.07,31.12,7963482541993,No,2024-01-25,Active,S0062
+P0604,Lurpak Salted Butter 100g,Dairy & Eggs,Butter,Lurpak,100g,9.0,13.05,31.03,6965240679277,Yes,2022-05-17,Active,S0016
+P0605,Modern Bakery Burger Buns 400g,Bakery,Bread,Modern Bakery,400g,10.82,13.56,20.21,3807892001095,Yes,2022-12-09,Discontinued,S0086
+P0606,FreshMart Butter Biscuits 100g,Snacks,Biscuits,FreshMart,100g,6.16,8.61,28.46,5026834712730,No,2024-05-29,Active,S0008
+P0607,FreshMart Chocolate Croissant 100g,Bakery,Pastries,FreshMart,100g,8.29,11.44,27.53,123952555746,Yes,2024-02-19,Active,S0086
+P0608,FreshMart White Bread 600g,Bakery,Bread,FreshMart,600g,4.29,6.71,36.07,3366483002465,Yes,2021-08-25,Active,S0086
+P0609,Fine Toilet Tissue 4 Pack,Household,Tissue,Fine,4 Pack,7.03,11.24,37.46,9487505178945,No,2023-04-18,Discontinued,S0054
+P0610,Al Ain Farms White Eggs 12 Pack 12 Pack,Dairy & Eggs,Eggs,Al Ain Farms,12 Pack,9.83,13.23,25.7,5365085148166,Yes,2022-07-21,Active,S0074
+P0611,Shan Black Pepper 50g,Pantry,Spices,Shan,50g,6.56,10.75,38.98,4208274205657,No,2023-04-14,Active,S0061
+P0612,FreshMart Body Lotion 50ml,Personal Care,Skincare,FreshMart,50ml,48.16,63.2,23.8,6969778316284,No,2023-08-08,Active,S0078
+P0613,Nature Fresh Grapes 2kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,2kg,2.06,2.59,20.46,2411449020234,Yes,2021-10-31,Active,S0025
+P0614,Sadia Chicken Mince 500g,Meat & Seafood,Chicken,Sadia,500g,25.64,36.35,29.46,6068285300455,Yes,2023-12-04,Active,S0020
+P0615,London Dairy Cookies & Cream Ice Cream 1L,Frozen Foods,Ice Cream,London Dairy,1L,27.87,40.37,30.96,8643757833945,Yes,2023-08-04,Active,S0092
+P0616,Green Farm Bananas 2kg,Fruits & Vegetables,Fresh Fruits,Green Farm,2kg,13.28,17.79,25.35,7266424239768,Yes,2022-08-29,Active,S0049
+P0617,Al Ain Farms Strawberry Yogurt 200g,Dairy & Eggs,Yogurt,Al Ain Farms,200g,9.44,13.43,29.71,9041343315896,Yes,2023-03-05,Active,S0057
+P0618,L'usine Dinner Rolls 600g,Bakery,Bread,L'usine,600g,6.8,10.78,36.92,2241028474192,Yes,2024-03-05,Active,S0086
+P0619,FreshMart White Sugar 5kg,Pantry,Sugar,FreshMart,5kg,10.01,16.48,39.26,9335039865612,No,2022-09-28,Active,S0080
+P0620,Mai Dubai Still Water 1.5L,Beverages,Water,Mai Dubai,1.5L,1.2,1.84,34.78,9925551869795,Yes,2024-05-07,Active,S0089
+P0621,FreshMart Organic Eggs 6 Pack 6 Pack,Dairy & Eggs,Eggs,FreshMart,6 Pack,14.7,24.02,38.8,8441170933217,Yes,2021-10-14,Active,S0016
+P0622,FreshMart Whole Wheat Flour 5kg,Pantry,Flour,FreshMart,5kg,17.05,23.52,27.51,8811087647888,No,2023-10-04,Active,S0032
+P0623,Almarai Full Cream Milk 1L,Dairy & Eggs,Milk,Almarai,1L,4.32,5.42,20.3,7666566978424,Yes,2023-09-20,Active,S0001
+P0624,FreshMart Cumin Powder 100g,Pantry,Spices,FreshMart,100g,10.24,14.94,31.46,9824625126737,No,2023-01-22,Active,S0061
+P0625,Fine Kitchen Towels 4 Pack,Household,Tissue,Fine,4 Pack,4.52,5.84,22.6,6739328521266,No,2023-07-15,Active,S0036
+P0626,Bayara Peanuts 500g,Snacks,Nuts,Bayara,500g,11.32,15.48,26.87,187952444387,No,2023-12-08,Active,S0008
+P0627,Persil Laundry Powder 500g,Cleaning Supplies,Detergent,Persil,500g,13.98,20.94,33.24,3690640944306,No,2022-11-05,Active,S0059
+P0628,Dove Antibacterial Soap 150g,Personal Care,Soap,Dove,150g,3.23,5.15,37.28,7047162328644,No,2022-05-24,Active,S0078
+P0629,FreshMart Sunscreen 200ml,Personal Care,Skincare,FreshMart,200ml,18.53,28.63,35.28,7209675562445,No,2023-05-21,Active,S0065
+P0630,FreshMart Sensitive Baby Wipes 40 Sheets,Baby Care,Baby Wipes,FreshMart,40 Sheets,10.67,15.6,31.6,8666773648119,No,2022-08-27,Active,S0022
+P0631,Vaseline Hand Cream 50ml,Personal Care,Skincare,Vaseline,50ml,60.74,78.27,22.4,7336369534751,No,2023-08-16,Active,S0048
+P0632,Americana Chicken Breast 1kg,Frozen Foods,Frozen Chicken,Americana,1kg,17.8,24.41,27.08,9012022108948,Yes,2024-06-30,Discontinued,S0038
+P0633,Green Farm Oranges 2kg,Fruits & Vegetables,Fresh Fruits,Green Farm,2kg,16.65,22.82,27.04,9027715537233,Yes,2023-09-17,Active,S0002
+P0634,L'usine Black Forest Cake 500g,Bakery,Cakes,L'usine,500g,29.72,47.42,37.33,7044644309542,Yes,2022-09-12,Active,S0023
+P0635,Nadec Chocolate Milk 2L,Dairy & Eggs,Milk,Nadec,2L,7.89,10.73,26.47,5639373307499,Yes,2021-12-01,Active,S0074
+P0636,FreshMart Low Fat Milk 1L,Dairy & Eggs,Milk,FreshMart,1L,10.38,14.67,29.24,9971178611835,Yes,2022-06-11,Active,S0087
+P0637,Galaxy Milk Chocolate 100g,Snacks,Chocolates,Galaxy,100g,6.1,8.35,26.95,2046398401690,No,2022-05-20,Active,S0008
+P0638,FreshMart Orange Juice 2L,Beverages,Juices,FreshMart,2L,13.6,17.87,23.89,2390670994616,Yes,2023-05-16,Active,S0089
+P0639,Lurpak Salted Butter 500g,Dairy & Eggs,Butter,Lurpak,500g,17.27,23.1,25.24,8373433586116,Yes,2023-03-17,Active,S0047
+P0640,FreshMart Vanilla Yogurt 500g,Dairy & Eggs,Yogurt,FreshMart,500g,6.63,9.15,27.54,3457272266424,Yes,2022-12-25,Active,S0001
+P0641,FreshMart Chocolate Croissant 250g,Bakery,Pastries,FreshMart,250g,11.13,17.92,37.89,1815175270832,Yes,2022-12-03,Active,S0023
+P0642,FreshMart Mussels 500g,Meat & Seafood,Seafood,FreshMart,500g,39.48,55.29,28.59,6284282180467,Yes,2024-03-08,Active,S0096
+P0643,Lurpak Garlic Butter 100g,Dairy & Eggs,Butter,Lurpak,100g,7.83,10.24,23.54,2269609675905,Yes,2024-01-10,Active,S0034
+P0644,FreshMart Garlic Bread 800g,Bakery,Bread,FreshMart,800g,4.19,6.01,30.28,4705203678440,Yes,2023-08-22,Active,S0006
+P0645,Almarai Plain Yogurt 500g,Dairy & Eggs,Yogurt,Almarai,500g,2.38,3.05,21.97,1773895671790,Yes,2023-01-22,Active,S0016
+P0646,FreshMart Canola Oil 2L,Pantry,Cooking Oil,FreshMart,2L,28.71,43.67,34.26,2010083390590,No,2023-03-13,Active,S0080
+P0647,Dettol Lavender Floor Cleaner 500ml,Cleaning Supplies,Floor Cleaner,Dettol,500ml,15.08,23.5,35.83,9350935717193,No,2024-01-31,Active,S0097
+P0648,FreshMart Orange Juice 500ml,Beverages,Juices,FreshMart,500ml,12.22,19.56,37.53,2266011301941,Yes,2021-11-10,Active,S0089
+P0649,Al Islami Chicken Strips 1kg,Frozen Foods,Frozen Chicken,Al Islami,1kg,14.9,21.44,30.5,4074529253694,Yes,2023-11-24,Active,S0050
+P0650,London Dairy Mango Ice Cream 1L,Frozen Foods,Ice Cream,London Dairy,1L,34.01,44.45,23.49,7491668198728,Yes,2023-08-29,Active,S0038
+P0651,Nature Fresh Pineapple 1kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,1kg,18.4,23.51,21.74,473223915657,Yes,2024-01-24,Active,S0079
+P0652,Al Ain Farms White Eggs 6 Pack 12 Pack,Dairy & Eggs,Eggs,Al Ain Farms,12 Pack,7.79,12.08,35.51,4735683036898,Yes,2023-02-01,Active,S0034
+P0653,FreshMart Marie Biscuits 500g,Snacks,Biscuits,FreshMart,500g,10.44,13.54,22.9,1388694420076,No,2023-10-17,Active,S0008
+P0654,Green Farm Basil 100g,Fruits & Vegetables,Herbs,Green Farm,100g,1.67,2.12,21.23,4960027678940,Yes,2023-01-23,Active,S0026
+P0655,Nadec Skimmed Milk 500ml,Dairy & Eggs,Milk,Nadec,500ml,6.22,8.5,26.82,1138891050947,Yes,2023-12-18,Active,S0088
+P0656,Lurpak Garlic Butter 250g,Dairy & Eggs,Butter,Lurpak,250g,9.07,14.7,38.3,6381310822020,Yes,2024-06-07,Active,S0042
+P0657,Pepsi Lemon Lime Soda 2L,Beverages,Soft Drinks,Pepsi,2L,11.35,14.79,23.26,7811891611489,No,2023-02-11,Active,S0089
+P0658,Al Baker Self Raising Flour 1kg,Pantry,Flour,Al Baker,1kg,13.24,17.14,22.75,9698184763890,No,2023-01-20,Active,S0030
+P0659,Americana Frozen Peas 1kg,Frozen Foods,Frozen Vegetables,Americana,1kg,11.1,14.53,23.61,7279341490693,Yes,2023-02-01,Active,S0038
+P0660,L'usine White Bread 600g,Bakery,Bread,L'usine,600g,3.78,5.53,31.65,5406649158693,Yes,2023-01-08,Active,S0056
+P0661,Nadec Low Fat Milk 500ml,Dairy & Eggs,Milk,Nadec,500ml,9.3,13.91,33.14,9845269404166,Yes,2021-12-24,Active,S0082
+P0662,Lux Lemon Soap 150g,Personal Care,Soap,Lux,150g,12.51,18.16,31.11,8521193048195,No,2022-12-04,Active,S0039
+P0663,L'usine Burger Buns 400g,Bakery,Bread,L'usine,400g,6.75,8.99,24.92,360528747314,Yes,2023-12-05,Active,S0004
+P0664,Colgate Herbal Toothpaste 50ml,Personal Care,Toothpaste,Colgate,50ml,9.35,12.81,27.01,4874463483818,No,2021-09-06,Active,S0035
+P0665,India Gate Sona Masoori Rice 1kg,Pantry,Rice,India Gate,1kg,9.99,16.11,37.99,7095026168646,No,2022-11-06,Active,S0062
+P0666,FreshMart Bananas 2kg,Fruits & Vegetables,Fresh Fruits,FreshMart,2kg,16.35,24.34,32.83,7992984470241,Yes,2023-11-19,Active,S0098
+P0667,Green Farm Onions 500g,Fruits & Vegetables,Fresh Vegetables,Green Farm,500g,12.91,18.18,28.99,9090678106051,Yes,2023-02-27,Active,S0098
+P0668,Oreo Butter Biscuits 100g,Snacks,Biscuits,Oreo,100g,10.02,14.24,29.63,2787778325181,No,2022-02-05,Active,S0008
+P0669,Nadec Full Cream Milk 500ml,Dairy & Eggs,Milk,Nadec,500ml,3.91,6.17,36.63,8691834667051,Yes,2022-09-02,Active,S0001
+P0670,FreshMart Tomatoes 1kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,1kg,10.38,13.44,22.77,8069708920340,Yes,2023-03-10,Active,S0026
+P0671,FreshMart Sensitive Toothpaste 50ml,Personal Care,Toothpaste,FreshMart,50ml,13.9,19.34,28.13,1573691246518,No,2021-08-25,Active,S0090
+P0672,Almarai Apple Juice 500ml,Beverages,Juices,Almarai,500ml,4.94,6.23,20.71,4249598912616,Yes,2021-08-06,Active,S0089
+P0673,FreshMart Corn Oil 500ml,Pantry,Cooking Oil,FreshMart,500ml,13.37,21.78,38.61,1888483496386,No,2022-09-06,Active,S0062
+P0674,Mazza Beef Strips 1kg,Meat & Seafood,Beef,Mazza,1kg,31.59,43.76,27.81,3481756469292,Yes,2022-02-07,Active,S0045
+P0675,FreshMart Corn Chips 100g,Snacks,Chips,FreshMart,100g,9.82,13.59,27.74,1275171737126,No,2023-09-08,Active,S0008
+P0676,FreshMart Lasagna Sheets 500g,Pantry,Pasta,FreshMart,500g,10.07,16.2,37.84,9537780735651,No,2023-08-16,Active,S0080
+P0677,FreshMart Kitchen Towels 4 Pack,Household,Tissue,FreshMart,4 Pack,13.39,19.05,29.71,8248999727016,No,2024-04-07,Active,S0036
+P0678,Persil Laundry Powder 1kg,Cleaning Supplies,Detergent,Persil,1kg,10.82,16.2,33.21,3139268867340,No,2021-08-26,Active,S0076
+P0679,FreshMart Canola Oil 500ml,Pantry,Cooking Oil,FreshMart,500ml,39.38,51.01,22.8,8692289727420,No,2024-03-22,Active,S0040
+P0680,Ocean Fresh Mussels 1kg,Meat & Seafood,Seafood,Ocean Fresh,1kg,81.63,104.11,21.59,8387261508936,Yes,2023-04-10,Discontinued,S0003
+P0681,Oreo Marie Biscuits 250g,Snacks,Biscuits,Oreo,250g,9.01,13.22,31.85,1315341106861,No,2023-02-10,Active,S0008
+P0682,Cerelac Baby Formula 200g,Baby Care,Baby Food,Cerelac,200g,23.06,33.35,30.85,811414629028,Yes,2022-10-01,Active,S0031
+P0683,Sensodyne Herbal Toothpaste 50ml,Personal Care,Toothpaste,Sensodyne,50ml,16.01,23.17,30.9,1492207996566,No,2021-09-12,Active,S0015
+P0684,FreshMart Facial Tissue 4 Pack,Household,Tissue,FreshMart,4 Pack,11.9,18.43,35.43,1715732154783,No,2023-06-12,Active,S0054
+P0685,Ocean Fresh Squid 500g,Meat & Seafood,Seafood,Ocean Fresh,500g,86.5,108.89,20.56,6977101071892,Yes,2021-08-06,Active,S0045
+P0686,Head & Shoulders Moisturizing Shampoo 200ml,Personal Care,Shampoo,Head & Shoulders,200ml,21.11,31.09,32.1,4142986178000,No,2022-03-15,Active,S0015
+P0687,FreshMart Medium Garbage Bags 100 Bags,Household,Garbage Bags,FreshMart,100 Bags,5.7,8.04,29.1,929468482329,No,2022-01-14,Active,S0075
+P0688,Dettol Lavender Floor Cleaner 2L,Cleaning Supplies,Floor Cleaner,Dettol,2L,21.87,28.34,22.83,6231937017524,No,2024-04-20,Active,S0085
+P0689,FreshMart Kettle Chips 200g,Snacks,Chips,FreshMart,200g,12.39,17.47,29.08,7512193314008,No,2024-04-11,Active,S0008
+P0690,FreshMart Beef Mince 500g,Meat & Seafood,Beef,FreshMart,500g,17.06,28.25,39.61,5069334791362,Yes,2024-01-09,Active,S0044
+P0691,Pringles Potato Chips 200g,Snacks,Chips,Pringles,200g,9.65,14.25,32.28,4909870561061,No,2023-07-04,Active,S0008
+P0692,FreshMart Mango Ice Cream 500ml,Frozen Foods,Ice Cream,FreshMart,500ml,9.76,13.36,26.95,3846223802437,Yes,2021-10-26,Active,S0094
+P0693,Almarai Pineapple Juice 2L,Beverages,Juices,Almarai,2L,13.88,19.24,27.86,691618490156,Yes,2021-11-17,Active,S0089
+P0694,Pampers Extra Large Diapers Medium Pack,Baby Care,Diapers,Pampers,Medium Pack,84.66,117.31,27.83,4945080988984,No,2023-07-18,Active,S0084
+P0695,FreshMart Sensitive Toothpaste 100ml,Personal Care,Toothpaste,FreshMart,100ml,10.51,13.74,23.51,9472273848640,No,2024-06-15,Active,S0090
+P0696,FreshMart Salted Butter 250g,Dairy & Eggs,Butter,FreshMart,250g,18.88,28.01,32.6,3880911111074,Yes,2023-12-05,Active,S0034
+P0697,FreshMart Oranges 500g,Fruits & Vegetables,Fresh Fruits,FreshMart,500g,18.88,23.7,20.34,3540905372385,Yes,2023-10-14,Active,S0098
+P0698,Barilla Macaroni 500g,Pantry,Pasta,Barilla,500g,11.23,18.52,39.36,8676912951321,No,2023-01-12,Active,S0062
+P0699,L'usine Whole Wheat Bread 600g,Bakery,Bread,L'usine,600g,5.88,8.71,32.49,9693256262592,Yes,2021-09-25,Active,S0006
+P0700,FreshMart Frozen Peas 500g,Frozen Foods,Frozen Vegetables,FreshMart,500g,11.7,18.09,35.32,6175147204025,Yes,2023-06-08,Active,S0083
+P0701,Nivea Face Wash 200ml,Personal Care,Skincare,Nivea,200ml,36.49,47.03,22.41,4836019815146,No,2022-04-11,Active,S0039
+P0702,FreshMart Olive Oil 2L,Pantry,Cooking Oil,FreshMart,2L,11.8,14.89,20.75,9619460512223,No,2024-04-21,Active,S0032
+P0703,FreshMart Olive Oil 500ml,Pantry,Cooking Oil,FreshMart,500ml,17.73,26.67,33.52,8268574114192,No,2023-11-15,Active,S0052
+P0704,Lacnor Apple Juice 2L,Beverages,Juices,Lacnor,2L,11.56,17.47,33.83,3136307244711,Yes,2023-09-05,Active,S0089
+P0705,FreshMart Fresh Milk 500ml,Dairy & Eggs,Milk,FreshMart,500ml,8.87,14.12,37.18,1704750499228,Yes,2024-06-23,Active,S0088
+P0706,Sadia Chicken Breast 1kg,Meat & Seafood,Chicken,Sadia,1kg,17.63,23.58,25.23,3268997196909,Yes,2023-07-28,Active,S0093
+P0707,FreshMart Laundry Liquid 500g,Cleaning Supplies,Detergent,FreshMart,500g,41.05,53.35,23.06,1438650323993,No,2024-04-08,Active,S0085
+P0708,FreshMart King Fish 500g,Meat & Seafood,Fish,FreshMart,500g,46.85,63.13,25.79,4539997877204,Yes,2024-04-27,Active,S0044
+P0709,Al Islami Chicken Drumsticks 500g,Meat & Seafood,Chicken,Al Islami,500g,14.31,22.6,36.68,3492285637960,Yes,2023-02-11,Active,S0093
+P0710,FreshMart Frozen Peas 1kg,Frozen Foods,Frozen Vegetables,FreshMart,1kg,6.75,10.0,32.5,8232473005493,Yes,2022-11-08,Active,S0058
+P0711,FreshMart Sona Masoori Rice 5kg,Pantry,Rice,FreshMart,5kg,20.3,27.85,27.11,6358769771223,No,2023-06-22,Active,S0032
+P0712,FreshMart Lavender Floor Cleaner 2L,Cleaning Supplies,Floor Cleaner,FreshMart,2L,14.42,21.46,32.81,6118401343702,No,2023-01-05,Active,S0059
+P0713,FreshMart Cola 2L,Beverages,Soft Drinks,FreshMart,2L,4.09,6.23,34.35,2529092149520,No,2022-10-10,Active,S0089
+P0714,Almarai Salted Butter 250g,Dairy & Eggs,Butter,Almarai,250g,12.44,16.86,26.22,9662818928443,Yes,2024-06-13,Active,S0047
+P0715,Coca-Cola Orange Soda 2L,Beverages,Soft Drinks,Coca-Cola,2L,11.63,14.65,20.61,2289751473938,No,2023-09-09,Active,S0089
+P0716,Almarai Mango Juice 2L,Beverages,Juices,Almarai,2L,13.29,20.06,33.75,3762006135229,Yes,2023-04-05,Active,S0089
+P0717,FreshMart Small Diapers Medium Pack,Baby Care,Diapers,FreshMart,Medium Pack,89.67,119.31,24.84,1496070084085,No,2022-05-23,Active,S0067
+P0718,FreshMart Herbal Shampoo 700ml,Personal Care,Shampoo,FreshMart,700ml,25.7,33.82,24.01,8091686023195,No,2023-01-12,Active,S0095
+P0719,FreshMart Dinner Rolls 800g,Bakery,Bread,FreshMart,800g,9.16,13.45,31.9,7196796588662,Yes,2024-01-05,Discontinued,S0006
+P0720,FreshMart Crab 1kg,Meat & Seafood,Seafood,FreshMart,1kg,29.87,41.55,28.11,4960162895882,Yes,2022-03-17,Active,S0021
+P0721,FreshMart Medium Diapers Small Pack,Baby Care,Diapers,FreshMart,Small Pack,53.18,82.78,35.76,8117554082269,No,2023-08-30,Active,S0084
+P0722,Ocean Fresh Squid 1kg,Meat & Seafood,Seafood,Ocean Fresh,1kg,42.16,63.94,34.06,7800742966427,Yes,2022-01-27,Active,S0043
+P0723,Colgate Herbal Toothpaste 100ml,Personal Care,Toothpaste,Colgate,100ml,17.98,23.14,22.3,5174920921921,No,2024-02-10,Active,S0013
+P0724,L'usine Red Velvet Cake 1kg,Bakery,Cakes,L'usine,1kg,62.33,89.71,30.52,4852065961156,Yes,2021-12-12,Active,S0081
+P0725,FreshMart Sunflower Oil 500ml,Pantry,Cooking Oil,FreshMart,500ml,29.91,48.44,38.25,8950801778894,No,2024-01-16,Active,S0032
+P0726,Sadia Chicken Thigh 1kg,Meat & Seafood,Chicken,Sadia,1kg,15.42,23.99,35.72,8019302111156,Yes,2023-01-14,Active,S0096
+P0727,FreshMart Onions 2kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,2kg,4.18,6.72,37.8,3080141809455,Yes,2023-09-12,Active,S0033
+P0728,FreshMart Potatoes 500g,Fruits & Vegetables,Fresh Vegetables,FreshMart,500g,5.54,8.98,38.31,2448484196259,Yes,2022-08-01,Active,S0019
+P0729,Pantene Hair Fall Control Shampoo 200ml,Personal Care,Shampoo,Pantene,200ml,29.17,43.96,33.64,7256045390719,No,2023-12-17,Active,S0015
+P0730,Al Islami Whole Chicken 2kg,Meat & Seafood,Chicken,Al Islami,2kg,28.08,41.86,32.92,3780843447145,Yes,2024-04-26,Active,S0044
+P0731,FreshMart Instant Coffee 500g,Beverages,Coffee,FreshMart,500g,17.09,23.2,26.34,7592641509996,No,2024-02-26,Active,S0089
+P0732,FreshMart Chocolate Cake 2kg,Bakery,Cakes,FreshMart,2kg,27.35,37.78,27.61,6839143913335,Yes,2023-06-30,Active,S0091
+P0733,FreshMart Chocolate Milk 500ml,Dairy & Eggs,Milk,FreshMart,500ml,9.5,12.78,25.67,4898769865734,Yes,2024-01-24,Active,S0077
+P0734,FreshMart Chocolate Milk 1L,Dairy & Eggs,Milk,FreshMart,1L,6.68,10.97,39.11,4398798699473,Yes,2022-08-30,Active,S0082
+P0735,Green Farm Parsley 100g,Fruits & Vegetables,Herbs,Green Farm,100g,1.33,1.86,28.49,8144301922585,Yes,2022-12-10,Active,S0025
+P0736,Green Farm Mint 100g,Fruits & Vegetables,Herbs,Green Farm,100g,3.99,5.34,25.28,9533915925980,Yes,2023-10-20,Active,S0026
+P0737,India Gate Jasmine Rice 5kg,Pantry,Rice,India Gate,5kg,42.26,52.98,20.23,3359381021294,No,2022-09-13,Active,S0040
+P0738,FreshMart Corn Chips 200g,Snacks,Chips,FreshMart,200g,2.98,4.11,27.49,6886234694291,No,2022-03-30,Active,S0008
+P0739,McVitie's Butter Biscuits 100g,Snacks,Biscuits,McVitie's,100g,8.71,12.1,28.02,72034995270,No,2022-10-07,Active,S0008
+P0740,FreshMart Extra Large Diapers Medium Pack,Baby Care,Diapers,FreshMart,Medium Pack,34.59,48.21,28.25,3083210496891,No,2024-03-23,Active,S0067
+P0741,Monster Tropical Energy Drink 330ml,Beverages,Energy Drinks,Monster,330ml,13.44,17.44,22.94,5453159079123,No,2024-02-17,Active,S0089
+P0742,FreshMart Blueberry Muffin 250g,Bakery,Pastries,FreshMart,250g,3.51,4.81,27.03,6851139126116,Yes,2022-01-18,Active,S0005
+P0743,Bayara Peanuts 100g,Snacks,Nuts,Bayara,100g,42.26,54.07,21.84,7032688693413,No,2024-06-20,Active,S0008
+P0744,FreshMart Vegetable Chips 200g,Snacks,Chips,FreshMart,200g,4.15,6.32,34.34,8784715684374,No,2023-05-31,Active,S0008
+P0745,FreshMart Antibacterial Soap 150g,Personal Care,Soap,FreshMart,150g,3.07,3.9,21.28,773370535501,No,2022-08-01,Active,S0055
+P0746,Almarai Apple Juice 2L,Beverages,Juices,Almarai,2L,5.91,9.0,34.33,7308241127634,Yes,2023-10-26,Active,S0089
+P0747,FreshMart Sensitive Baby Wipes 80 Sheets,Baby Care,Baby Wipes,FreshMart,80 Sheets,6.74,9.43,28.53,1212531337015,No,2023-07-04,Active,S0014
+P0748,FreshMart Medium Garbage Bags 20 Bags,Household,Garbage Bags,FreshMart,20 Bags,8.29,10.9,23.94,6569238528112,No,2023-06-14,Active,S0054
+P0749,Head & Shoulders Daily Care Shampoo 200ml,Personal Care,Shampoo,Head & Shoulders,200ml,11.49,15.76,27.09,8130852670693,No,2022-09-03,Active,S0090
+P0750,Pepsi Ginger Ale 500ml,Beverages,Soft Drinks,Pepsi,500ml,10.69,13.46,20.58,9936712152748,No,2023-01-18,Active,S0089
+P0751,Vaseline Face Wash 200ml,Personal Care,Skincare,Vaseline,200ml,11.63,15.69,25.88,516714884107,No,2024-07-26,Active,S0024
+P0752,Sadia Chicken Breast 2kg,Meat & Seafood,Chicken,Sadia,2kg,14.65,18.33,20.08,8307379161847,Yes,2023-12-08,Active,S0044
+P0753,FreshMart Beef Cubes 500g,Meat & Seafood,Beef,FreshMart,500g,51.42,69.57,26.09,5825998579193,Yes,2024-06-23,Active,S0093
+P0754,Head & Shoulders Herbal Shampoo 200ml,Personal Care,Shampoo,Head & Shoulders,200ml,20.73,31.14,33.43,8791335845016,No,2023-04-21,Active,S0017
+P0755,Lays Vegetable Chips 200g,Snacks,Chips,Lays,200g,3.4,5.52,38.41,1436838530355,No,2024-03-01,Discontinued,S0008
+P0756,FreshMart Basmati Rice 5kg,Pantry,Rice,FreshMart,5kg,25.25,31.69,20.32,1134672872159,No,2023-07-03,Active,S0030
+P0757,FreshMart Detergent Pods 1kg,Cleaning Supplies,Detergent,FreshMart,1kg,33.65,44.01,23.54,8618802086812,No,2023-12-28,Active,S0071
+P0758,Pantene Herbal Shampoo 700ml,Personal Care,Shampoo,Pantene,700ml,22.8,36.36,37.29,8559837849563,No,2024-05-05,Active,S0017
+P0759,Nature Fresh Cucumbers 2kg,Fruits & Vegetables,Fresh Vegetables,Nature Fresh,2kg,13.3,16.81,20.88,5103459487554,Yes,2023-03-13,Active,S0072
+P0760,Green Farm Mint 250g,Fruits & Vegetables,Herbs,Green Farm,250g,1.47,1.92,23.44,8282196546575,Yes,2024-02-22,Active,S0098
+P0761,Galaxy Dark Chocolate 200g,Snacks,Chocolates,Galaxy,200g,14.23,21.77,34.63,5461909872214,No,2021-08-20,Active,S0008
+P0762,Lacnor Mango Juice 2L,Beverages,Juices,Lacnor,2L,14.64,21.01,30.32,36113909169,Yes,2022-02-03,Active,S0089
+P0763,FreshMart White Eggs 6 Pack 12 Pack,Dairy & Eggs,Eggs,FreshMart,12 Pack,17.49,26.91,35.01,852890185561,Yes,2022-04-08,Active,S0074
+P0764,Al Islami Whole Chicken 500g,Meat & Seafood,Chicken,Al Islami,500g,30.36,38.43,21.0,5439128558875,Yes,2023-12-11,Active,S0066
+P0765,Sadia Chicken Thigh 500g,Meat & Seafood,Chicken,Sadia,500g,21.5,32.74,34.33,4426475568351,Yes,2022-09-07,Active,S0021
+P0766,FreshMart White Sugar 1kg,Pantry,Sugar,FreshMart,1kg,10.34,15.9,34.97,8078437487406,No,2022-08-27,Active,S0080
+P0767,Modern Bakery Dinner Rolls 400g,Bakery,Bread,Modern Bakery,400g,3.93,6.0,34.5,2641273318096,Yes,2024-04-29,Active,S0004
+P0768,Almarai Vanilla Yogurt 1kg,Dairy & Eggs,Yogurt,Almarai,1kg,6.23,9.95,37.39,4778470253405,Yes,2022-10-31,Active,S0069
+P0769,FreshMart Chicken Mince 1kg,Meat & Seafood,Chicken,FreshMart,1kg,24.31,35.74,31.98,4046792208961,Yes,2022-11-18,Active,S0045
+P0770,Al Ain Farms Plain Yogurt 200g,Dairy & Eggs,Yogurt,Al Ain Farms,200g,9.96,16.19,38.48,457372419440,Yes,2024-05-04,Active,S0037
+P0771,L'usine Cheesecake 1kg,Bakery,Cakes,L'usine,1kg,35.09,46.07,23.83,3437584651620,Yes,2024-03-24,Active,S0070
+P0772,FreshMart Chicken Wings 1kg,Frozen Foods,Frozen Chicken,FreshMart,1kg,11.61,15.59,25.53,2357124083142,Yes,2022-09-29,Discontinued,S0094
+P0773,India Gate Long Grain Rice 1kg,Pantry,Rice,India Gate,1kg,20.15,25.65,21.44,30994937105,No,2021-12-09,Active,S0032
+P0774,McVitie's Cream Biscuits 500g,Snacks,Biscuits,McVitie's,500g,14.12,20.63,31.56,3889864568973,No,2024-06-30,Active,S0008
+P0775,FreshMart Laundry Liquid 3kg,Cleaning Supplies,Detergent,FreshMart,3kg,32.09,42.8,25.02,7939323885830,No,2023-04-23,Active,S0068
+P0776,FreshMart Chocolate Muffin 100g,Bakery,Pastries,FreshMart,100g,4.8,6.98,31.23,9694130557780,Yes,2024-06-22,Active,S0081
+P0777,Pantene Anti-Dandruff Shampoo 200ml,Personal Care,Shampoo,Pantene,200ml,18.27,27.78,34.23,2318129872070,No,2022-11-08,Active,S0065
+P0778,Lurpak Salted Butter 250g,Dairy & Eggs,Butter,Lurpak,250g,12.83,18.46,30.5,1761961719880,Yes,2021-08-05,Active,S0001
+P0779,Green Farm Watermelon 500g,Fruits & Vegetables,Fresh Fruits,Green Farm,500g,9.94,14.18,29.9,1707816966832,Yes,2021-11-11,Active,S0049
+P0780,Al Ain Farms Skimmed Milk 2L,Dairy & Eggs,Milk,Al Ain Farms,2L,10.35,13.55,23.62,2772208171001,Yes,2023-11-05,Active,S0016
+P0781,Noor Sunflower Oil 500ml,Pantry,Cooking Oil,Noor,500ml,8.75,13.73,36.27,4346768682567,No,2021-11-06,Discontinued,S0062
+P0782,FreshMart Vanilla Yogurt 200g,Dairy & Eggs,Yogurt,FreshMart,200g,10.68,17.11,37.58,7959536181666,Yes,2024-04-13,Active,S0016
+P0783,Cerelac Vegetable Puree 800g,Baby Care,Baby Food,Cerelac,800g,20.41,26.02,21.56,1612977299357,Yes,2024-05-30,Active,S0084
+P0784,FreshMart Hair Fall Control Shampoo 400ml,Personal Care,Shampoo,FreshMart,400ml,24.63,37.43,34.2,1486800809095,No,2021-11-15,Active,S0065
+P0785,Green Farm Tomatoes 500g,Fruits & Vegetables,Fresh Vegetables,Green Farm,500g,3.48,4.99,30.26,9603664062554,Yes,2024-03-20,Active,S0073
+P0786,FreshMart Tilapia Fillet 1kg,Meat & Seafood,Fish,FreshMart,1kg,36.05,52.76,31.67,8274763087703,Yes,2022-03-22,Active,S0003
+P0787,Persil Detergent Pods 3kg,Cleaning Supplies,Detergent,Persil,3kg,17.31,23.28,25.64,8391761497737,No,2023-10-27,Active,S0085
+P0788,FreshMart Fruit Puree 200g,Baby Care,Baby Food,FreshMart,200g,27.17,38.96,30.26,6599844685893,Yes,2023-06-12,Active,S0041
+P0789,McVitie's Marie Biscuits 250g,Snacks,Biscuits,McVitie's,250g,12.89,19.96,35.42,3633609663849,No,2022-06-23,Active,S0008
+P0790,L'usine Cinnamon Roll 250g,Bakery,Pastries,L'usine,250g,3.36,4.4,23.64,4329436419153,Yes,2024-01-19,Active,S0007
+P0791,Green Farm Carrots 1kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,1kg,12.4,18.77,33.94,7696283365085,Yes,2024-07-07,Active,S0026
+P0792,FreshMart Sona Masoori Rice 10kg,Pantry,Rice,FreshMart,10kg,9.01,14.75,38.92,7669817526955,No,2021-12-03,Active,S0061
+P0793,FreshMart Crab 500g,Meat & Seafood,Seafood,FreshMart,500g,47.88,75.23,36.36,5885164161676,Yes,2023-05-07,Active,S0044
+P0794,FreshMart Whole Wheat Bread 600g,Bakery,Bread,FreshMart,600g,11.17,14.42,22.54,7019287804853,Yes,2022-07-03,Active,S0023
+P0795,FreshMart Cream Cheese 500g,Dairy & Eggs,Cheese,FreshMart,500g,16.06,23.42,31.43,313374265594,Yes,2022-12-24,Active,S0047
+P0796,L'usine Vanilla Cake 1kg,Bakery,Cakes,L'usine,1kg,89.92,119.82,24.95,6452721769713,Yes,2022-10-26,Active,S0070
+P0797,FreshMart Whole Chicken 1kg,Meat & Seafood,Chicken,FreshMart,1kg,22.43,29.83,24.81,6012103296956,Yes,2022-10-09,Active,S0053
+P0798,Almarai Fresh Milk 1L,Dairy & Eggs,Milk,Almarai,1L,12.43,16.16,23.08,4579741641347,Yes,2022-10-25,Active,S0047
+P0799,Almarai Processed Cheese Slices 200g,Dairy & Eggs,Cheese,Almarai,200g,8.66,13.07,33.74,5424223770161,Yes,2023-12-02,Active,S0037
+P0800,Nature Fresh Strawberries 1kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,1kg,9.54,13.79,30.82,8328357190420,Yes,2022-11-09,Active,S0049
+P0801,Coca-Cola Diet Cola 1L,Beverages,Soft Drinks,Coca-Cola,1L,8.24,11.91,30.81,1354511826604,No,2023-05-27,Active,S0089
+P0802,Galaxy Wafer Chocolate 200g,Snacks,Chocolates,Galaxy,200g,6.09,9.92,38.61,7636267037560,No,2023-10-12,Active,S0008
+P0803,FreshMart Squid 500g,Meat & Seafood,Seafood,FreshMart,500g,51.18,70.7,27.61,1119545654339,Yes,2023-05-17,Active,S0053
+P0804,FreshMart Fresh Milk 2L,Dairy & Eggs,Milk,FreshMart,2L,2.82,4.07,30.71,8585865645457,Yes,2023-10-19,Active,S0074
+P0805,FreshMart Almonds 250g,Snacks,Nuts,FreshMart,250g,29.84,38.14,21.76,6853513182831,No,2023-05-06,Active,S0008
+P0806,Mazza Beef Mince 500g,Meat & Seafood,Beef,Mazza,500g,18.51,27.64,33.03,4033326762402,Yes,2024-03-31,Active,S0093
+P0807,Pepsi Cola 2L,Beverages,Soft Drinks,Pepsi,2L,3.41,4.71,27.6,6881848097513,No,2024-05-19,Active,S0089
+P0808,FreshMart Icing Sugar 1kg,Pantry,Sugar,FreshMart,1kg,9.76,13.28,26.51,5449591287400,No,2024-01-21,Discontinued,S0080
+P0809,Al Islami Chicken Wings 1kg,Frozen Foods,Frozen Chicken,Al Islami,1kg,16.24,23.02,29.45,5364637747406,Yes,2024-02-21,Active,S0050
+P0810,FreshMart Beauty Soap 75g,Personal Care,Soap,FreshMart,75g,3.6,4.78,24.69,9894151931075,No,2024-02-21,Active,S0048
+P0811,FreshMart Strawberry Yogurt 1kg,Dairy & Eggs,Yogurt,FreshMart,1kg,9.58,15.68,38.9,3783016593779,Yes,2022-01-31,Active,S0042
+P0812,Lacnor Mango Juice 250ml,Beverages,Juices,Lacnor,250ml,16.18,20.33,20.41,6492321809969,Yes,2021-08-31,Active,S0089
+P0813,FreshMart Beef Steak 1kg,Meat & Seafood,Beef,FreshMart,1kg,19.78,25.89,23.6,1180771238426,Yes,2023-02-09,Active,S0093
+P0814,Lays Kettle Chips 200g,Snacks,Chips,Lays,200g,10.46,13.58,22.97,4176302802294,No,2022-09-29,Active,S0008
+P0815,Nature Fresh Bananas 1kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,1kg,18.45,23.78,22.41,4830425348991,Yes,2023-02-10,Active,S0079
+P0816,Vaseline Hand Cream 100ml,Personal Care,Skincare,Vaseline,100ml,56.6,76.42,25.94,3700576113995,No,2022-08-08,Active,S0017
+P0817,Galaxy Dark Chocolate 100g,Snacks,Chocolates,Galaxy,100g,19.17,26.08,26.5,986440301498,No,2024-03-20,Active,S0008
+P0818,Nescafe Instant Coffee 500g,Beverages,Coffee,Nescafe,500g,31.24,40.1,22.09,3115917751970,No,2022-11-08,Active,S0089
+P0819,Cerelac Vegetable Puree 200g,Baby Care,Baby Food,Cerelac,200g,8.33,13.64,38.93,261029450348,Yes,2022-03-13,Active,S0022
+P0820,Colgate Herbal Toothpaste 150ml,Personal Care,Toothpaste,Colgate,150ml,17.78,22.31,20.3,349728146448,No,2024-05-23,Active,S0035
+P0821,FreshMart Rosemary 250g,Fruits & Vegetables,Herbs,FreshMart,250g,2.44,3.67,33.51,394813318231,Yes,2023-06-23,Active,S0049
+P0822,Pampers Medium Diapers Large Pack,Baby Care,Diapers,Pampers,Large Pack,47.96,73.32,34.59,1856784746882,No,2024-05-13,Active,S0041
+P0823,FreshMart Cream Biscuits 500g,Snacks,Biscuits,FreshMart,500g,4.06,6.57,38.2,5034088665689,No,2024-01-27,Active,S0008
+P0824,Almarai Pineapple Juice 1L,Beverages,Juices,Almarai,1L,7.74,9.89,21.74,9582160088407,Yes,2024-05-21,Active,S0089
+P0825,FreshMart Red Chilli Powder 250g,Pantry,Spices,FreshMart,250g,7.4,11.16,33.69,9809957284904,No,2024-07-02,Active,S0032
+P0826,Vaseline Face Cream 200ml,Personal Care,Skincare,Vaseline,200ml,24.18,31.46,23.14,6828684716956,No,2024-03-20,Active,S0035
+P0827,Bayara Cashews 250g,Snacks,Nuts,Bayara,250g,17.68,23.8,25.71,1658035507163,No,2021-10-06,Active,S0008
+P0828,Green Farm Cucumbers 1kg,Fruits & Vegetables,Fresh Vegetables,Green Farm,1kg,5.07,6.83,25.77,662458462795,Yes,2023-01-27,Active,S0079
+P0829,FreshMart Sparkling Water 1.5L,Beverages,Water,FreshMart,1.5L,4.76,7.85,39.36,1004196554193,Yes,2023-12-09,Active,S0089
+P0830,FreshMart Chamomile Tea 50 Bags,Beverages,Tea,FreshMart,50 Bags,16.08,24.56,34.53,9689676025596,No,2023-02-01,Active,S0089
+P0831,London Dairy Strawberry Ice Cream 1L,Frozen Foods,Ice Cream,London Dairy,1L,22.13,34.24,35.37,245166528559,Yes,2023-03-31,Active,S0083
+P0832,India Gate Basmati Rice 5kg,Pantry,Rice,India Gate,5kg,9.1,12.74,28.57,159782046017,No,2023-06-04,Active,S0030
+P0833,FreshMart Tortilla Chips 50g,Snacks,Chips,FreshMart,50g,3.16,4.05,21.98,5550948589549,No,2021-12-06,Active,S0008
+P0834,FreshMart Cauliflower Florets 1kg,Frozen Foods,Frozen Vegetables,FreshMart,1kg,7.27,9.39,22.58,3517148176384,Yes,2022-11-23,Active,S0092
+P0835,Barilla Spaghetti 1kg,Pantry,Pasta,Barilla,1kg,13.47,17.55,23.25,6840751525599,No,2024-03-05,Active,S0040
+P0836,FreshMart Chocolate Biscuits 100g,Snacks,Biscuits,FreshMart,100g,9.54,15.31,37.69,1253607637080,No,2023-11-30,Active,S0008
+P0837,Al Ain Farms Vanilla Yogurt 1kg,Dairy & Eggs,Yogurt,Al Ain Farms,1kg,13.4,18.04,25.72,2624880958138,Yes,2021-12-10,Discontinued,S0001
+P0838,Almarai Cream Cheese 200g,Dairy & Eggs,Cheese,Almarai,200g,16.45,23.51,30.03,1025624306597,Yes,2023-06-05,Active,S0074
+P0839,FreshMart Mixed Nuts 250g,Snacks,Nuts,FreshMart,250g,12.56,18.34,31.52,2328896696120,No,2022-01-18,Active,S0008
+P0840,Al Baker All Purpose Flour 1kg,Pantry,Flour,Al Baker,1kg,11.69,18.66,37.35,5521323040856,No,2024-07-20,Active,S0062
+P0841,FreshMart Whitening Toothpaste 150ml,Personal Care,Toothpaste,FreshMart,150ml,8.86,11.42,22.42,5733577004564,No,2023-12-18,Active,S0090
+P0842,Shan Turmeric Powder 50g,Pantry,Spices,Shan,50g,8.52,11.2,23.93,9336823613631,No,2023-08-04,Active,S0062
+P0843,FreshMart Potatoes 1kg,Fruits & Vegetables,Fresh Vegetables,FreshMart,1kg,12.32,17.56,29.84,9864646574247,Yes,2023-01-14,Active,S0060
+P0844,FreshMart Macaroni 250g,Pantry,Pasta,FreshMart,250g,3.09,4.38,29.45,2801672462299,No,2024-01-22,Active,S0030
+P0845,L'usine Chocolate Muffin 250g,Bakery,Pastries,L'usine,250g,10.18,14.21,28.36,6553230412029,Yes,2022-12-22,Active,S0029
+P0846,Puck Processed Cheese Slices 200g,Dairy & Eggs,Cheese,Puck,200g,23.76,32.25,26.33,9532846468443,Yes,2022-01-10,Active,S0016
+P0847,Nature Fresh Strawberries 2kg,Fruits & Vegetables,Fresh Fruits,Nature Fresh,2kg,12.27,18.77,34.63,6366447365152,Yes,2022-08-04,Active,S0079
+P0848,Al Ain Farms Greek Yogurt 1kg,Dairy & Eggs,Yogurt,Al Ain Farms,1kg,9.69,12.95,25.17,2326076485564,Yes,2024-05-04,Active,S0069
+P0849,FreshMart Peanuts 250g,Snacks,Nuts,FreshMart,250g,37.26,52.52,29.06,3239407895552,No,2023-03-07,Active,S0008
+P0850,FreshMart Mango Juice 2L,Beverages,Juices,FreshMart,2L,9.64,15.1,36.16,261646887398,Yes,2021-09-02,Active,S0089
+P0851,Almarai Feta Cheese 500g,Dairy & Eggs,Cheese,Almarai,500g,17.87,27.9,35.95,5072728056701,Yes,2022-06-06,Active,S0074
+P0852,FreshMart Strawberries 1kg,Fruits & Vegetables,Fresh Fruits,FreshMart,1kg,14.46,20.56,29.67,4413059116695,Yes,2024-04-29,Active,S0019
+P0853,FreshMart Ginger Ale 330ml,Beverages,Soft Drinks,FreshMart,330ml,9.76,13.47,27.54,6391480974764,No,2024-03-08,Active,S0089
+P0854,Nescafe Cold Coffee 100g,Beverages,Coffee,Nescafe,100g,17.15,24.9,31.12,7134969482157,No,2023-06-06,Active,S0089
+P0855,FreshMart White Eggs 12 Pack 24 Pack,Dairy & Eggs,Eggs,FreshMart,24 Pack,21.14,32.07,34.08,3558644388109,Yes,2024-03-21,Active,S0037
+P0856,Nivea Hand Cream 100ml,Personal Care,Skincare,Nivea,100ml,34.88,50.88,31.45,3178334749838,No,2023-06-07,Active,S0065
+P0857,Sensodyne Herbal Toothpaste 150ml,Personal Care,Toothpaste,Sensodyne,150ml,13.91,22.38,37.85,4857408830175,No,2024-02-06,Active,S0065
+P0858,Al Ain Farms White Eggs 6 Pack 24 Pack,Dairy & Eggs,Eggs,Al Ain Farms,24 Pack,13.74,18.35,25.12,5210149553052,Yes,2023-02-04,Active,S0037
+P0859,Nature Fresh Strawberries 500g,Fruits & Vegetables,Fresh Fruits,Nature Fresh,500g,8.18,12.7,35.59,121319953815,Yes,2022-11-19,Active,S0079
+P0860,Head & Shoulders Hair Fall Control Shampoo 200ml,Personal Care,Shampoo,Head & Shoulders,200ml,19.41,31.11,37.61,1814917566134,No,2022-12-12,Active,S0090
+P0861,FreshMart Still Water 1L,Beverages,Water,FreshMart,1L,2.96,3.96,25.25,8461082989096,Yes,2024-04-15,Active,S0089
+P0862,Modern Bakery Hot Dog Buns 400g,Bakery,Bread,Modern Bakery,400g,3.7,6.07,39.04,2333120720335,Yes,2023-10-11,Active,S0007
+P0863,FreshMart Spaghetti 250g,Pantry,Pasta,FreshMart,250g,11.99,15.79,24.07,532618827361,No,2023-08-26,Active,S0080
+P0864,Mai Dubai Mineral Water 1L,Beverages,Water,Mai Dubai,1L,1.4,1.77,20.9,1394335185181,Yes,2023-07-20,Active,S0089
+P0865,Oreo Digestive Biscuits 100g,Snacks,Biscuits,Oreo,100g,7.51,12.44,39.63,8661558213766,No,2021-10-10,Active,S0008
+P0866,Lays Kettle Chips 50g,Snacks,Chips,Lays,50g,9.54,14.79,35.5,32982152460,No,2022-09-30,Active,S0008
+P0867,Sensodyne Sensitive Toothpaste 150ml,Personal Care,Toothpaste,Sensodyne,150ml,9.59,15.62,38.6,1501021532062,No,2022-11-25,Active,S0039
+P0868,Mai Dubai Still Water 330ml,Beverages,Water,Mai Dubai,330ml,5.21,8.67,39.91,1495699210660,Yes,2023-01-23,Active,S0089
+P0869,FreshMart Mixed Fruit Juice 250ml,Beverages,Juices,FreshMart,250ml,5.11,7.47,31.59,4734473694195,Yes,2024-06-25,Active,S0089
+P0870,Almarai Cheddar Cheese 500g,Dairy & Eggs,Cheese,Almarai,500g,7.78,12.14,35.91,4076641663528,Yes,2021-10-23,Active,S0001
+P0871,FreshMart Butter Biscuits 250g,Snacks,Biscuits,FreshMart,250g,7.87,10.09,22.0,5303878013772,No,2023-02-12,Active,S0008
+P0872,FreshMart Fresh Mint Toothpaste 100ml,Personal Care,Toothpaste,FreshMart,100ml,7.34,10.79,31.97,7998503498420,No,2022-02-18,Active,S0035
+P0873,FreshMart Cream Cheese 200g,Dairy & Eggs,Cheese,FreshMart,200g,21.38,31.71,32.58,2830169004278,Yes,2023-09-27,Active,S0077
+P0874,FreshMart Potato Chips 50g,Snacks,Chips,FreshMart,50g,10.56,14.81,28.7,2094239283806,No,2023-05-14,Active,S0008
+P0875,FreshMart Vanilla Cake 1kg,Bakery,Cakes,FreshMart,1kg,31.53,40.12,21.41,9768647551781,Yes,2023-04-29,Active,S0056
+P0876,Dove Moisturizing Soap 150g,Personal Care,Soap,Dove,150g,14.1,17.97,21.54,2161210197343,No,2024-05-02,Active,S0024
+P0877,FreshMart Skimmed Milk 1L,Dairy & Eggs,Milk,FreshMart,1L,11.19,17.89,37.45,4768846603439,Yes,2023-10-13,Active,S0064
+P0878,FreshMart Apple Juice 500ml,Beverages,Juices,FreshMart,500ml,5.35,6.7,20.15,2291545142999,Yes,2022-07-31,Active,S0089
+P0879,Lux Lemon Soap 75g,Personal Care,Soap,Lux,75g,11.87,17.6,32.56,9499199454779,No,2023-10-09,Active,S0065
+P0880,FreshMart Wafer Chocolate 50g,Snacks,Chocolates,FreshMart,50g,7.85,12.62,37.8,8394279782241,No,2023-08-22,Discontinued,S0008
+P0881,FreshMart Mango Yogurt 200g,Dairy & Eggs,Yogurt,FreshMart,200g,3.41,4.87,29.98,1429347748977,Yes,2023-02-20,Active,S0088
+P0882,Masafi Mineral Water 1.5L,Beverages,Water,Masafi,1.5L,6.27,7.87,20.33,4346064036613,Yes,2023-02-13,Discontinued,S0089
+P0883,FreshMart Facial Tissue 1 Pack,Household,Tissue,FreshMart,1 Pack,9.46,15.33,38.29,6086371819681,No,2024-01-31,Active,S0075
+P0884,Twinings Black Tea 100 Bags,Beverages,Tea,Twinings,100 Bags,19.07,24.94,23.54,3734525345229,No,2023-02-03,Active,S0089
+P0885,FreshMart Classic Energy Drink 500ml,Beverages,Energy Drinks,FreshMart,500ml,9.89,14.87,33.49,8213981649287,No,2024-01-30,Active,S0089
+P0886,FreshMart Daily Care Shampoo 200ml,Personal Care,Shampoo,FreshMart,200ml,20.44,31.9,35.92,1134036942979,No,2022-07-27,Active,S0055
+P0887,Al Islami Chicken Thigh 1kg,Meat & Seafood,Chicken,Al Islami,1kg,26.4,43.85,39.79,2823815055373,Yes,2023-07-07,Active,S0003
+P0888,FreshMart Burger Buns 800g,Bakery,Bread,FreshMart,800g,8.41,12.48,32.61,6928497735028,Yes,2024-04-17,Active,S0006
+P0889,FreshMart Vegetable Puree 400g,Baby Care,Baby Food,FreshMart,400g,12.41,19.6,36.68,8301621787960,Yes,2023-12-12,Active,S0014
+P0890,Al Khaleej White Sugar 1kg,Pantry,Sugar,Al Khaleej,1kg,12.5,16.32,23.41,3720958450494,No,2024-02-02,Active,S0052
+P0891,FreshMart Carrots 500g,Fruits & Vegetables,Fresh Vegetables,FreshMart,500g,4.15,5.9,29.66,2859804261425,Yes,2023-09-06,Active,S0073
+P0892,Nescafe Coffee Beans 200g,Beverages,Coffee,Nescafe,200g,22.98,32.03,28.25,4344840884038,No,2024-07-18,Active,S0089
+P0893,FreshMart Mixed Vegetables 500g,Frozen Foods,Frozen Vegetables,FreshMart,500g,11.57,15.18,23.78,9147360429308,Yes,2023-06-28,Active,S0083
+P0894,Daawat Brown Rice 1kg,Pantry,Rice,Daawat,1kg,42.18,58.75,28.2,8327554747949,No,2021-08-20,Active,S0032
+P0895,Green Farm Oranges 500g,Fruits & Vegetables,Fresh Fruits,Green Farm,500g,2.14,3.25,34.15,4798855440992,Yes,2023-04-19,Active,S0099
+P0896,Coca-Cola Cola 500ml,Beverages,Soft Drinks,Coca-Cola,500ml,2.3,3.03,24.09,2099254668881,No,2023-08-07,Active,S0089
+P0897,FreshMart Prawns 1kg,Meat & Seafood,Seafood,FreshMart,1kg,49.82,81.96,39.21,6937280519486,Yes,2022-08-13,Active,S0066
+P0898,Pampers Small Diapers Small Pack,Baby Care,Diapers,Pampers,Small Pack,49.77,81.09,38.62,4384089405434,No,2023-04-05,Active,S0009
+P0899,Dove Beauty Soap 125g,Personal Care,Soap,Dove,125g,8.52,12.04,29.24,610275534300,No,2022-06-05,Active,S0017
+P0900,Shan Turmeric Powder 250g,Pantry,Spices,Shan,250g,8.44,14.02,39.8,4541163870827,No,2022-01-22,Active,S0080

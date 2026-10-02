@@ -1,0 +1,101 @@
+supplier_id,supplier_name,supplier_type,category,city,emirate,contact_person,email,phone,contract_start_date,payment_terms,status
+S0001,Fresh Dairy Trading LLC - Trading LLC,International,Dairy & Eggs,Al Ain,Abu Dhabi,Ralph Hale,qcarroll@thomas.com,6738074519,2016-08-26,45 Days,Inactive
+S0002,Dubai Fresh Foods - Retail Supply Division,International,Fruits & Vegetables,Abu Dhabi,Abu Dhabi,Ryan Robertson,stewartstephanie@thomas.net,405-717-7864x668,2025-03-06,30 Days,Inactive
+S0003,Gulf Meat Suppliers - Trading LLC,International,Meat & Seafood,Fujairah,Fujairah,Leah Robbins,aprildaniel@mcclure.com,001-994-926-3445,2023-09-18,45 Days,Active
+S0004,Modern Bakery LLC - Commercial Division,Local,Bakery,Dubai,Dubai,Richard Nelson,vanessa23@simmons.com,+1-259-365-5561x23826,2018-08-30,30 Days,Inactive
+S0005,Golden Bakery Trading - Wholesale Partner,International,Bakery,Fujairah,Fujairah,Kelsey Turner,shelia79@bowen.com,001-855-342-9387x764,2021-01-05,60 Days,Active
+S0006,L'usine Supplier - Food Trading,International,Bakery,Ajman,Ajman,Miguel Ramirez,kjenkins@stewart.biz,001-465-387-4749x89335,2017-04-22,30 Days,Inactive
+S0007,Modern Bakery LLC - Retail Supply Division,Local,Bakery,Umm Al Quwain,Umm Al Quwain,Scott Kirby,brandimyers@marquez-martin.net,(837)572-9196x686,2020-03-28,30 Days,Inactive
+S0008,Mondelez UAE - UAE Branch,International,Snacks,Fujairah,Fujairah,Madison Olson,jessica01@smith.net,5304164550,2018-07-11,60 Days,Inactive
+S0009,Johnson & Johnson UAE - Regional Supplier,International,Baby Care,Dubai,Dubai,Donna Harris,strevino@gilbert.biz,555.895.7552,2017-01-23,45 Days,Active
+S0010,Polar Foods - UAE Branch,Local,Frozen Foods,Al Ain,Abu Dhabi,Maxwell Mccullough,petersoncarrie@ortiz-green.net,640-626-9831x210,2017-03-25,30 Days,Inactive
+S0011,Household Supplies LLC - UAE Branch,International,Household,Sharjah,Sharjah,Christopher Smith,kholmes@lutz-mullins.net,(957)920-4089,2022-02-18,45 Days,Active
+S0012,Home Care Trading - Food Trading,Local,Cleaning Supplies,Al Ain,Abu Dhabi,Nicholas Rivas,brittany24@kent-dixon.org,325.883.5321x317,2018-04-16,60 Days,Inactive
+S0013,Procter & Gamble UAE - Commercial Division,International,Personal Care,Ras Al Khaimah,Ras Al Khaimah,Stephanie Brown,elliottleslie@mitchell-brown.com,983-755-6510,2020-06-19,30 Days,Active
+S0014,Nestle Baby Care - Commercial Division,International,Baby Care,Dubai,Dubai,Gabriela Brown,kellyhutchinson@nixon.com,944-266-7808x9238,2016-08-21,45 Days,Inactive
+S0015,Beauty Care Trading - Trading LLC,Local,Personal Care,Umm Al Quwain,Umm Al Quwain,Gary Mcclain,williamwatkins@keller.biz,873-871-9298x950,2017-01-17,30 Days,Active
+S0016,Almarai UAE - UAE Branch,International,Dairy & Eggs,Dubai,Dubai,Nicholas Lane,ihowell@wilson.org,530.696.2871x053,2016-08-09,60 Days,Inactive
+S0017,Procter & Gamble UAE - Food Trading,International,Personal Care,Dubai,Dubai,Jerry Cooper,samantha54@bennett.biz,001-437-310-3465,2018-10-09,60 Days,Active
+S0018,Green Valley Suppliers - Trading LLC,International,Fruits & Vegetables,Sharjah,Sharjah,Karen Hardin MD,sarah28@murphy.com,967.826.2854x87370,2018-06-12,45 Days,Inactive
+S0019,Fresh Produce Trading LLC - Wholesale Partner,International,Fruits & Vegetables,Ajman,Ajman,Nicole Farmer,larry73@jimenez.com,001-491-471-3832x30109,2023-04-30,30 Days,Inactive
+S0020,Ocean Fresh Trading - Wholesale Partner,International,Meat & Seafood,Dubai,Dubai,Casey Willis,katherinegomez@wilkins.com,001-600-571-5590,2023-06-04,30 Days,Inactive
+S0021,Ocean Fresh Trading - UAE Branch,International,Meat & Seafood,Ajman,Ajman,Bill Walters,itownsend@perry.com,001-953-616-4702x970,2019-09-05,60 Days,Inactive
+S0022,Nestle Baby Care - Distribution Division,Local,Baby Care,Abu Dhabi,Abu Dhabi,Nancy Noble,tylerkrause@castillo.info,(523)589-4591x8300,2023-11-09,60 Days,Active
+S0023,Modern Bakery LLC - UAE Branch,International,Bakery,Sharjah,Sharjah,Zachary Roberts,heididickerson@barnett.com,+1-910-555-4547x027,2022-10-19,30 Days,Active
+S0024,Beauty Care Trading - Distribution Division,International,Personal Care,Umm Al Quwain,Umm Al Quwain,William Rojas,patty56@ray-newman.org,001-208-950-9542,2023-06-02,60 Days,Active
+S0025,Dubai Fresh Foods - Commercial Division,Local,Fruits & Vegetables,Ajman,Ajman,Paul Reynolds,cindy51@perez.com,739.509.5715x391,2024-12-21,45 Days,Active
+S0026,Green Valley Suppliers - Regional Supplier,Local,Fruits & Vegetables,Al Ain,Abu Dhabi,David Williams,ygutierrez@gallegos.com,(420)247-5998,2019-06-03,60 Days,Inactive
+S0027,Frozen Food Trading LLC - Food Trading,International,Frozen Foods,Dubai,Dubai,Jonathan Mccarthy,josephhart@sharp.com,760.955.6507,2025-02-23,45 Days,Active
+S0028,Nestle Baby Care - Trading LLC,Local,Baby Care,Ajman,Ajman,Allen Thomas,castrojohn@murray.biz,932-702-3222x780,2023-05-14,30 Days,Inactive
+S0029,Modern Bakery LLC - Distribution Division,International,Bakery,Al Ain,Abu Dhabi,Brooke Zuniga,natalie69@yu-allen.net,+1-684-493-3975x963,2019-02-09,30 Days,Active
+S0030,Foodco Trading - Regional Supplier,International,Pantry,Ras Al Khaimah,Ras Al Khaimah,Jack Oconnell,taylorfisher@stein.com,7234180692,2021-07-19,45 Days,Active
+S0031,Johnson & Johnson UAE - Wholesale Partner,Local,Baby Care,Ras Al Khaimah,Ras Al Khaimah,Michael Grant,scott27@bryant.org,(914)340-2316,2019-09-28,30 Days,Inactive
+S0032,Gulf Pantry Suppliers - UAE Branch,Local,Pantry,Sharjah,Sharjah,Jonathon Chan,imiller@kane-cook.com,001-455-321-6558,2022-04-20,30 Days,Inactive
+S0033,Fresh Produce Trading LLC - Trading LLC,Local,Fruits & Vegetables,Sharjah,Sharjah,Johnny Collins,tannerchristine@strickland.com,(661)383-2782,2023-03-25,30 Days,Active
+S0034,Almarai UAE - Trading LLC,Local,Dairy & Eggs,Ras Al Khaimah,Ras Al Khaimah,Betty Walker MD,matthewlewis@parker-quinn.com,+1-484-825-5357x428,2023-01-15,45 Days,Inactive
+S0035,Procter & Gamble UAE - Trading LLC,Local,Personal Care,Umm Al Quwain,Umm Al Quwain,William West,maciascraig@lyons.com,+1-346-390-7780x08178,2019-06-08,45 Days,Active
+S0036,Home Essentials Trading - Regional Supplier,Local,Household,Ras Al Khaimah,Ras Al Khaimah,Andrew Lawson,julieparks@lindsey-franklin.biz,394-434-6776,2019-08-30,30 Days,Inactive
+S0037,Al Ain Farms - Trading LLC,Local,Dairy & Eggs,Umm Al Quwain,Umm Al Quwain,Heather Hughes,rogermartinez@houston-huber.org,+1-934-554-5360,2023-12-12,30 Days,Inactive
+S0038,Al Kabeer UAE - UAE Branch,International,Frozen Foods,Ras Al Khaimah,Ras Al Khaimah,William King,luis67@johnson-cooper.com,304.645.0676x938,2022-05-01,45 Days,Active
+S0039,Unilever UAE - UAE Branch,International,Personal Care,Abu Dhabi,Abu Dhabi,Patrick Bass,kayla00@ritter-johnston.biz,001-919-718-9774x48526,2017-02-01,60 Days,Inactive
+S0040,National Food Products - Regional Supplier,Local,Pantry,Abu Dhabi,Abu Dhabi,Thomas Davis,katrina90@fischer.com,472-941-5799x3660,2020-01-13,60 Days,Inactive
+S0041,Nestle Baby Care - UAE Branch,Local,Baby Care,Ras Al Khaimah,Ras Al Khaimah,Elizabeth Baldwin,pruittbradley@alvarado-lawrence.com,(897)865-9591,2025-07-09,45 Days,Inactive
+S0042,Al Ain Farms - Regional Supplier,International,Dairy & Eggs,Ajman,Ajman,Jennifer Townsend,timothy91@black.com,(434)680-9299x200,2024-04-18,45 Days,Inactive
+S0043,JBS Foods UAE - Distribution Division,International,Meat & Seafood,Ras Al Khaimah,Ras Al Khaimah,William Pitts,christophermcclain@bauer.com,338-332-2132,2022-06-07,30 Days,Inactive
+S0044,JBS Foods UAE - Commercial Division,International,Meat & Seafood,Ras Al Khaimah,Ras Al Khaimah,Bernard Lamb,sanchezjames@martinez-stewart.com,953.244.1846x05841,2017-11-21,45 Days,Inactive
+S0045,Al Islami Foods - Regional Supplier,International,Meat & Seafood,Dubai,Dubai,Steve Harmon,ravila@gomez.com,001-970-380-3561x74658,2016-11-27,60 Days,Inactive
+S0046,Baby Products Trading - Trading LLC,International,Baby Care,Umm Al Quwain,Umm Al Quwain,Kevin Rodriguez,sararichardson@smith-cook.com,001-571-239-9345x0204,2017-06-09,45 Days,Inactive
+S0047,National Dairy Company - Food Trading,Local,Dairy & Eggs,Ajman,Ajman,Rebecca Lozano,kingkimberly@boyd-gibson.net,(328)395-2268x48797,2021-04-02,45 Days,Inactive
+S0048,Unilever UAE - Distribution Division,International,Personal Care,Al Ain,Abu Dhabi,Joseph Kline,wpatterson@coleman.org,+1-955-923-2779x0702,2018-12-28,30 Days,Inactive
+S0049,Fresh Produce Trading LLC - Retail Supply Division,Local,Fruits & Vegetables,Sharjah,Sharjah,Emily Porter,pcraig@watkins-woods.com,5849321784,2021-08-07,45 Days,Inactive
+S0050,Frozen Food Trading LLC - UAE Branch,Local,Frozen Foods,Dubai,Dubai,Anthony Davenport,christinaowens@taylor-graham.net,826.483.5024x24128,2016-09-21,60 Days,Active
+S0051,Fresh Produce Trading LLC - Commercial Division,International,Fruits & Vegetables,Al Ain,Abu Dhabi,Carla Hunter,cromero@cobb-frazier.com,+1-425-328-3359x893,2025-05-11,45 Days,Inactive
+S0052,Gulf Pantry Suppliers - Food Trading,International,Pantry,Al Ain,Abu Dhabi,Steven Snow,davidsnyder@graham.com,517-822-2145x3295,2024-11-04,45 Days,Inactive
+S0053,Ocean Fresh Trading - Food Trading,International,Meat & Seafood,Al Ain,Abu Dhabi,George Obrien II,brittany12@jenkins.com,001-761-789-1386,2018-05-02,60 Days,Inactive
+S0054,Household Supplies LLC - Commercial Division,International,Household,Ajman,Ajman,Austin Snyder,ihicks@boyer-reeves.info,(915)673-8847,2019-05-16,45 Days,Active
+S0055,Unilever UAE - Regional Supplier,Local,Personal Care,Sharjah,Sharjah,Brenda Hopkins,uruiz@morgan.com,001-282-442-5125x24217,2024-07-03,45 Days,Active
+S0056,L'usine Supplier - Trading LLC,International,Bakery,Fujairah,Fujairah,Rachel Turner,vwade@fisher.com,(754)739-0138x321,2024-04-13,60 Days,Active
+S0057,Fresh Dairy Trading LLC - Distribution Division,International,Dairy & Eggs,Abu Dhabi,Abu Dhabi,Lori Hernandez,karijones@patterson-white.com,(650)909-2125x676,2017-09-16,60 Days,Active
+S0058,Polar Foods - Regional Supplier,International,Frozen Foods,Umm Al Quwain,Umm Al Quwain,Craig Nicholson,bradleykyle@nunez.com,001-753-665-3932x78161,2019-02-20,60 Days,Inactive
+S0059,Clean Solutions LLC - Commercial Division,Local,Cleaning Supplies,Ras Al Khaimah,Ras Al Khaimah,Lisa Perez,ericpatton@tanner.com,534.735.6926x1439,2024-07-09,60 Days,Active
+S0060,Green Valley Suppliers - Commercial Division,Local,Fruits & Vegetables,Ras Al Khaimah,Ras Al Khaimah,Mr. Jason Miller,waynecallahan@mcpherson.biz,406.797.4802x6724,2021-12-23,30 Days,Active
+S0061,Foodco Trading - Distribution Division,Local,Pantry,Umm Al Quwain,Umm Al Quwain,Charles Dominguez,patriciamiller@spencer-pineda.info,+1-293-317-3262x2785,2021-03-16,30 Days,Inactive
+S0062,National Food Products - Food Trading,International,Pantry,Ajman,Ajman,David Hernandez,cohenjoseph@mcintosh.com,001-934-744-6965x132,2018-11-16,60 Days,Inactive
+S0063,Henkel UAE - UAE Branch,Local,Cleaning Supplies,Umm Al Quwain,Umm Al Quwain,Sarah Chan,bmedina@berg.com,401-797-2925,2020-09-07,60 Days,Active
+S0064,Almarai UAE - Commercial Division,Local,Dairy & Eggs,Al Ain,Abu Dhabi,Angela Lewis,sarah08@thomas.org,690.423.9426,2019-08-07,30 Days,Inactive
+S0065,Beauty Care Trading - Wholesale Partner,International,Personal Care,Umm Al Quwain,Umm Al Quwain,Maria Simmons,ashley58@jennings-massey.com,(630)418-4508x665,2017-10-01,30 Days,Inactive
+S0066,JBS Foods UAE - UAE Branch,Local,Meat & Seafood,Ajman,Ajman,Bradley Massey,kevinmurphy@olson.com,(261)713-5255,2023-01-05,45 Days,Active
+S0067,Nestle Baby Care - Retail Supply Division,Local,Baby Care,Ajman,Ajman,William Barker,knelson@chandler-rodriguez.com,(344)905-1435x8784,2017-09-28,30 Days,Inactive
+S0068,Henkel UAE - Distribution Division,Local,Cleaning Supplies,Abu Dhabi,Abu Dhabi,Jeremy Hill,fredgreen@sharp.com,001-838-345-4880x87917,2018-03-05,30 Days,Inactive
+S0069,National Dairy Company - Distribution Division,Local,Dairy & Eggs,Dubai,Dubai,Roberto Allen,millerchristopher@flores-henderson.com,648-783-4285x1026,2021-12-19,30 Days,Inactive
+S0070,L'usine Supplier - Wholesale Partner,International,Bakery,Abu Dhabi,Abu Dhabi,Linda Zamora,victoriaaguirre@sandoval-tate.com,738.412.4055,2021-01-10,60 Days,Inactive
+S0071,Clean Solutions LLC - Wholesale Partner,International,Cleaning Supplies,Umm Al Quwain,Umm Al Quwain,Melissa Smith,ucooper@sanchez-christian.com,641-709-0219x02245,2022-10-14,45 Days,Active
+S0072,Green Valley Suppliers - Wholesale Partner,Local,Fruits & Vegetables,Sharjah,Sharjah,William Garcia,lreyes@wilson-rodriguez.biz,(863)477-1624x059,2020-04-02,60 Days,Inactive
+S0073,Fresh Produce Trading LLC - Food Trading,Local,Fruits & Vegetables,Ras Al Khaimah,Ras Al Khaimah,Andrew Boyd,dgomez@white.biz,(807)950-2265x3200,2021-02-12,60 Days,Active
+S0074,Almarai UAE - Wholesale Partner,International,Dairy & Eggs,Ajman,Ajman,Martha Lloyd,eparker@jones-gomez.com,001-365-972-6544x040,2020-01-20,45 Days,Active
+S0075,Home Essentials Trading - UAE Branch,International,Household,Ras Al Khaimah,Ras Al Khaimah,Caitlyn Powell,rebecca37@miller.com,887-678-4040,2023-10-23,30 Days,Active
+S0076,Home Care Trading - Trading LLC,International,Cleaning Supplies,Fujairah,Fujairah,Kayla Callahan,williamruiz@rasmussen.org,552.239.3526x0545,2020-05-25,30 Days,Active
+S0077,Almarai UAE - Distribution Division,International,Dairy & Eggs,Fujairah,Fujairah,Leroy Stein,williamssean@collins.net,458.771.5797x538,2020-06-25,60 Days,Active
+S0078,Unilever UAE - Food Trading,Local,Personal Care,Abu Dhabi,Abu Dhabi,Patricia Hays,xpowers@miller.org,219.926.5736x70608,2025-04-01,45 Days,Inactive
+S0079,Dubai Fresh Foods - Distribution Division,International,Fruits & Vegetables,Umm Al Quwain,Umm Al Quwain,Michael Stokes,yadams@hamilton.biz,+1-580-435-0382x3208,2019-02-13,60 Days,Active
+S0080,National Food Products - UAE Branch,International,Pantry,Al Ain,Abu Dhabi,Matthew Terry,cstevenson@chavez-mills.com,001-670-271-5755x6691,2016-10-25,45 Days,Inactive
+S0081,Golden Bakery Trading - Distribution Division,Local,Bakery,Abu Dhabi,Abu Dhabi,Holly Craig,herreralaura@phillips.com,513.351.5510x55316,2024-05-09,45 Days,Inactive
+S0082,Fresh Dairy Trading LLC - Retail Supply Division,International,Dairy & Eggs,Fujairah,Fujairah,Valerie Weaver,michellepope@jones-perkins.com,256.821.3525,2022-08-07,45 Days,Active
+S0083,Al Kabeer UAE - Wholesale Partner,Local,Frozen Foods,Ajman,Ajman,Christine Mcmillan,blakerodgers@bird-fischer.com,001-794-955-7678x161,2018-07-25,30 Days,Active
+S0084,Baby Products Trading - UAE Branch,International,Baby Care,Umm Al Quwain,Umm Al Quwain,Lisa Obrien,danielcortez@dougherty.com,923-335-7053x498,2019-03-09,30 Days,Inactive
+S0085,Clean Solutions LLC - UAE Branch,International,Cleaning Supplies,Ras Al Khaimah,Ras Al Khaimah,Bobby Hayes,bensonpatricia@mercado.net,(301)382-9808x435,2024-03-23,30 Days,Active
+S0086,L'usine Supplier - Regional Supplier,Local,Bakery,Dubai,Dubai,Laura Hall,ruthtaylor@salazar.com,+1-943-492-9318,2021-03-24,60 Days,Inactive
+S0087,Al Ain Farms - Distribution Division,International,Dairy & Eggs,Abu Dhabi,Abu Dhabi,Michael Mejia,sblankenship@woods.com,(581)908-8197,2020-07-25,30 Days,Inactive
+S0088,Al Ain Farms - UAE Branch,Local,Dairy & Eggs,Abu Dhabi,Abu Dhabi,Lauren Hampton,sherirojas@matthews.com,001-897-869-9092x38250,2017-08-27,30 Days,Active
+S0089,Coca Cola UAE - Distribution Division,International,Beverages,Fujairah,Fujairah,Spencer Novak,michael01@bell.net,830-540-0733x62951,2017-05-02,30 Days,Inactive
+S0090,Beauty Care Trading - Retail Supply Division,International,Personal Care,Abu Dhabi,Abu Dhabi,Veronica Patel,bwillis@beasley-hunt.biz,+1-915-797-4178x4781,2020-01-08,45 Days,Inactive
+S0091,Modern Bakery LLC - Trading LLC,Local,Bakery,Umm Al Quwain,Umm Al Quwain,Michelle Brewer,gsmith@freeman-rodgers.com,(790)231-4755x8088,2018-12-30,30 Days,Inactive
+S0092,Al Kabeer UAE - Commercial Division,Local,Frozen Foods,Ajman,Ajman,Nicholas Alvarez,rebeccaking@yang.com,293.977.8108x986,2024-03-28,45 Days,Inactive
+S0093,Al Islami Foods - Food Trading,Local,Meat & Seafood,Ajman,Ajman,Mark Fischer,frank20@parker.org,644-265-6320x1424,2020-11-11,60 Days,Active
+S0094,Al Kabeer UAE - Distribution Division,International,Frozen Foods,Ras Al Khaimah,Ras Al Khaimah,Christopher Burton,fischerruben@bryant-lopez.com,5968306676,2023-03-11,60 Days,Inactive
+S0095,Unilever UAE - Commercial Division,International,Personal Care,Al Ain,Abu Dhabi,Caitlin Miller,dennisjones@davis-richmond.com,909.856.7199x233,2020-05-21,60 Days,Active
+S0096,Gulf Meat Suppliers - Retail Supply Division,International,Meat & Seafood,Abu Dhabi,Abu Dhabi,James Silva,kwagner@carpenter.org,285-759-9449x09784,2019-05-20,45 Days,Inactive
+S0097,Home Care Trading - Wholesale Partner,Local,Cleaning Supplies,Fujairah,Fujairah,Stuart Evans,sanchezdebbie@lyons.com,001-793-634-1982x3713,2020-01-25,45 Days,Active
+S0098,Fresh Produce Trading LLC - Distribution Division,Local,Fruits & Vegetables,Al Ain,Abu Dhabi,Paul Miller,fuentespeter@cooper-hudson.com,(310)506-3247x2953,2021-05-13,60 Days,Inactive
+S0099,Dubai Fresh Foods - UAE Branch,Local,Fruits & Vegetables,Fujairah,Fujairah,Robert Gay,harold34@murphy-harrison.com,(585)533-9680x60900,2025-04-05,30 Days,Inactive
+S0100,Johnson & Johnson UAE - Retail Supply Division,International,Baby Care,Al Ain,Abu Dhabi,Joshua Estrada,leewright@hall-haney.info,+1-754-983-7336x14130,2022-07-20,60 Days,Active

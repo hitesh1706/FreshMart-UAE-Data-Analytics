@@ -1,0 +1,151 @@
+employee_id,employee_name,gender,age,job_role,store_id,store_name,hire_date,salary,status
+E0001,Brandon Taylor,Female,28,Assistant Manager,ST022,FreshMart Ajman 1,2024-12-26,11406,Active
+E0002,Jeffrey Morgan,Male,23,Store Manager,ST009,FreshMart Dubai 9,2022-02-23,14462,Active
+E0003,Shannon Vargas,Female,23,Cashier,ST016,FreshMart Abu Dhabi 6,2023-11-15,3528,Active
+E0004,Steven Lamb DDS,Male,27,Supervisor,ST004,FreshMart Dubai 4,2026-03-03,5077,Active
+E0005,Brooke Shaw,Male,22,Customer Service Executive,ST004,FreshMart Dubai 4,2019-08-13,4598,Active
+E0006,Carlos Fitzgerald,Male,59,Customer Service Executive,ST016,FreshMart Abu Dhabi 6,2024-10-07,4627,Active
+E0007,Sarah Valencia,Female,45,Store Manager,ST003,FreshMart Dubai 3,2024-07-12,13772,Active
+E0008,Gabriel Buckley,Female,42,Customer Service Executive,ST025,FreshMart Ras Al Khaimah 2,2020-12-30,4875,Resigned
+E0009,Kenneth Jackson,Female,34,Supervisor,ST005,FreshMart Dubai 5,2024-11-05,7824,Active
+E0010,Anthony Cowan,Male,21,Supervisor,ST010,FreshMart Dubai 10,2023-08-13,5550,Active
+E0011,Connor Evans,Male,43,Inventory Associate,ST028,FreshMart Umm Al Quwain 1,2021-05-19,3848,Active
+E0012,Heidi Thompson,Male,52,Store Manager,ST017,FreshMart Sharjah 1,2019-04-21,12936,Active
+E0013,Mason Bates,Female,50,Inventory Associate,ST011,FreshMart Abu Dhabi 1,2023-09-15,4593,Active
+E0014,Cynthia Hamilton,Female,35,Supervisor,ST003,FreshMart Dubai 3,2022-07-15,7906,Active
+E0015,Kathleen Wood,Male,48,Cashier,ST027,FreshMart Fujairah 2,2025-01-04,4265,Active
+E0016,Anthony Mcbride,Female,55,Cashier,ST002,FreshMart Dubai 2,2021-12-28,3339,Resigned
+E0017,Pamela Montgomery,Male,27,Supervisor,ST011,FreshMart Abu Dhabi 1,2019-12-23,3929,Active
+E0018,Jessica Romero,Female,30,Supervisor,ST009,FreshMart Dubai 9,2019-09-25,6778,Active
+E0019,Kenneth Gomez,Female,53,Inventory Associate,ST028,FreshMart Umm Al Quwain 1,2024-11-09,4711,Active
+E0020,William Guerra,Female,22,Supervisor,ST018,FreshMart Sharjah 2,2025-12-09,5644,Active
+E0021,Karen Rios,Male,47,Cashier,ST015,FreshMart Abu Dhabi 5,2020-12-06,3059,Active
+E0022,Peter Walters,Male,44,Cashier,ST019,FreshMart Sharjah 3,2021-11-15,3024,On Leave
+E0023,Ashley Burke,Male,48,Cashier,ST026,FreshMart Fujairah 1,2022-11-19,3916,Active
+E0024,Michael Hayes,Male,45,Cashier,ST009,FreshMart Dubai 9,2024-07-02,3428,Active
+E0025,Thomas Bailey,Female,60,Assistant Manager,ST013,FreshMart Abu Dhabi 3,2024-01-26,10939,Active
+E0026,Stephanie Hunter,Female,45,Cashier,ST029,FreshMart Al Ain 1,2020-10-28,3870,Active
+E0027,Jonathan Goodman,Female,33,Cashier,ST014,FreshMart Abu Dhabi 4,2025-09-27,3968,Active
+E0028,Samantha Johnson,Female,37,Assistant Manager,ST023,FreshMart Ajman 2,2025-04-16,8386,Active
+E0029,Nathan Serrano,Female,45,Supervisor,ST021,FreshMart Sharjah 5,2021-12-07,4091,Active
+E0030,Ronald Frazier,Female,38,Customer Service Executive,ST013,FreshMart Abu Dhabi 3,2019-02-16,4445,Active
+E0031,John Elliott,Female,51,Cashier,ST015,FreshMart Abu Dhabi 5,2021-01-22,3859,Active
+E0032,Ashley Davis,Male,34,Cashier,ST008,FreshMart Dubai 8,2022-11-14,3748,Active
+E0033,Stephanie Sanchez,Female,48,Supervisor,ST003,FreshMart Dubai 3,2019-01-27,7505,On Leave
+E0034,Mikayla Perkins,Female,34,Assistant Manager,ST013,FreshMart Abu Dhabi 3,2022-04-04,10780,Active
+E0035,Kurt Pitts,Female,60,Supervisor,ST029,FreshMart Al Ain 1,2024-07-23,5003,Active
+E0036,Samuel Jones,Female,41,Inventory Associate,ST004,FreshMart Dubai 4,2020-06-28,3807,Active
+E0037,Shirley Simon,Female,35,Supervisor,ST012,FreshMart Abu Dhabi 2,2023-10-09,6455,Active
+E0038,Adam Morgan,Female,21,Cashier,ST013,FreshMart Abu Dhabi 3,2020-05-31,2806,Active
+E0039,Stephanie Ramirez,Female,43,Supervisor,ST017,FreshMart Sharjah 1,2022-09-07,7649,Active
+E0040,Heather Mitchell,Male,51,Inventory Associate,ST002,FreshMart Dubai 2,2026-04-13,4909,Active
+E0041,Sara Brooks,Female,52,Supervisor,ST015,FreshMart Abu Dhabi 5,2021-07-12,5903,On Leave
+E0042,Mr. Joseph Walker,Female,53,Supervisor,ST022,FreshMart Ajman 1,2022-09-20,6541,Active
+E0043,Erik Wood,Male,54,Cashier,ST017,FreshMart Sharjah 1,2025-11-30,4047,Active
+E0044,Luis Young,Male,39,Cashier,ST012,FreshMart Abu Dhabi 2,2020-05-18,3049,Active
+E0045,Mallory Wilson,Female,59,Cashier,ST028,FreshMart Umm Al Quwain 1,2023-09-28,4385,Active
+E0046,Alexander Greene,Female,46,Cashier,ST020,FreshMart Sharjah 4,2018-11-24,3849,Active
+E0047,Ms. Jessica Roberts,Female,31,Cashier,ST014,FreshMart Abu Dhabi 4,2026-02-24,4065,Active
+E0048,Mark Richardson,Male,32,Customer Service Executive,ST011,FreshMart Abu Dhabi 1,2019-07-23,4641,Active
+E0049,Tony Jackson,Male,60,Supervisor,ST002,FreshMart Dubai 2,2021-11-20,7138,Active
+E0050,Kelly Herrera,Female,44,Cashier,ST020,FreshMart Sharjah 4,2021-08-14,3782,Active
+E0051,Samantha Powell,Male,38,Cashier,ST009,FreshMart Dubai 9,2022-10-28,4388,Active
+E0052,Aaron Reynolds,Female,59,Supervisor,ST003,FreshMart Dubai 3,2019-08-19,6705,Active
+E0053,Victoria Davenport,Male,24,Cashier,ST001,FreshMart Dubai 1,2020-01-20,2987,Active
+E0054,Robert Lopez,Male,55,Assistant Manager,ST025,FreshMart Ras Al Khaimah 2,2018-11-24,9816,Active
+E0055,Charles Horn,Male,49,Supervisor,ST014,FreshMart Abu Dhabi 4,2022-08-07,6088,Active
+E0056,Kayla Sherman,Female,60,Cashier,ST004,FreshMart Dubai 4,2022-07-10,3770,Active
+E0057,Shelley Peters,Male,42,Supervisor,ST016,FreshMart Abu Dhabi 6,2024-07-19,5750,On Leave
+E0058,Michael Young,Male,26,Cashier,ST024,FreshMart Ras Al Khaimah 1,2025-10-06,4456,Active
+E0059,Amy Horton,Male,40,Cashier,ST004,FreshMart Dubai 4,2018-10-15,3232,Active
+E0060,Michael Ortiz,Male,56,Cashier,ST026,FreshMart Fujairah 1,2021-03-23,3067,Active
+E0061,Mr. Robert Morgan,Female,31,Cashier,ST001,FreshMart Dubai 1,2020-11-27,4272,Active
+E0062,Riley Crane,Female,60,Customer Service Executive,ST010,FreshMart Dubai 10,2021-12-07,3378,Active
+E0063,Patricia Hodges,Male,30,Supervisor,ST019,FreshMart Sharjah 3,2022-07-31,5890,Active
+E0064,Michele Rose,Female,34,Inventory Associate,ST028,FreshMart Umm Al Quwain 1,2020-11-15,4594,On Leave
+E0065,Maria Luna,Male,35,Cashier,ST004,FreshMart Dubai 4,2020-04-25,3943,Active
+E0066,Mandy Kennedy,Female,41,Customer Service Executive,ST002,FreshMart Dubai 2,2022-12-18,3736,Active
+E0067,Crystal Decker,Male,37,Supervisor,ST026,FreshMart Fujairah 1,2021-08-07,7972,Active
+E0068,Vincent Meza,Male,34,Inventory Associate,ST007,FreshMart Dubai 7,2018-11-12,4158,Active
+E0069,Cynthia Weber,Female,46,Cashier,ST028,FreshMart Umm Al Quwain 1,2020-09-18,2877,Active
+E0070,Betty Hamilton,Female,44,Cashier,ST023,FreshMart Ajman 2,2019-09-28,4248,Active
+E0071,Dr. Robert Patterson,Male,33,Assistant Manager,ST022,FreshMart Ajman 1,2023-02-04,9110,Active
+E0072,Lorraine Silva,Male,42,Store Manager,ST020,FreshMart Sharjah 4,2021-02-22,17137,Active
+E0073,Keith Cohen,Male,54,Customer Service Executive,ST001,FreshMart Dubai 1,2020-02-06,3018,Active
+E0074,Gabrielle Wells,Female,41,Supervisor,ST015,FreshMart Abu Dhabi 5,2020-08-15,7524,Active
+E0075,Brandon Drake,Male,59,Cashier,ST004,FreshMart Dubai 4,2024-02-09,3068,Active
+E0076,Daniel Lin,Male,32,Inventory Associate,ST029,FreshMart Al Ain 1,2025-08-09,3248,Active
+E0077,Derek Buckley,Male,41,Inventory Associate,ST018,FreshMart Sharjah 2,2021-05-18,3901,Active
+E0078,Matthew Jones,Female,21,Customer Service Executive,ST001,FreshMart Dubai 1,2023-01-07,4505,Active
+E0079,Erin Hutchinson,Male,27,Store Manager,ST005,FreshMart Dubai 5,2019-12-05,12765,Active
+E0080,Ana Miller,Female,31,Cashier,ST011,FreshMart Abu Dhabi 1,2024-04-15,3218,Active
+E0081,Stephanie Alvarez,Female,44,Cashier,ST003,FreshMart Dubai 3,2019-11-25,3004,Active
+E0082,Jeff Johnson,Male,37,Customer Service Executive,ST011,FreshMart Abu Dhabi 1,2024-09-28,4212,Active
+E0083,Leslie Shepherd,Male,22,Supervisor,ST001,FreshMart Dubai 1,2019-09-05,6124,Resigned
+E0084,David Bentley,Male,38,Inventory Associate,ST018,FreshMart Sharjah 2,2021-05-29,4779,Active
+E0085,Crystal Morgan,Female,55,Cashier,ST001,FreshMart Dubai 1,2018-10-29,3955,Active
+E0086,Dennis Clark,Female,46,Cashier,ST012,FreshMart Abu Dhabi 2,2023-07-16,3135,Active
+E0087,Andrew Vaughn,Female,34,Customer Service Executive,ST013,FreshMart Abu Dhabi 3,2023-04-04,4921,Active
+E0088,Dana Fox,Male,32,Assistant Manager,ST019,FreshMart Sharjah 3,2025-01-03,8307,Active
+E0089,Kim Madden MD,Female,45,Customer Service Executive,ST008,FreshMart Dubai 8,2024-09-13,4929,Active
+E0090,Betty Riley,Female,42,Inventory Associate,ST025,FreshMart Ras Al Khaimah 2,2023-06-29,4744,Active
+E0091,Mr. Mitchell Miller DDS,Female,36,Cashier,ST023,FreshMart Ajman 2,2020-06-19,2681,Active
+E0092,Donna Jordan,Male,27,Cashier,ST021,FreshMart Sharjah 5,2021-11-30,3034,On Leave
+E0093,Jose Gray,Male,44,Supervisor,ST016,FreshMart Abu Dhabi 6,2022-02-22,5853,Active
+E0094,Pamela Donovan,Male,52,Inventory Associate,ST028,FreshMart Umm Al Quwain 1,2022-01-06,4740,Active
+E0095,Todd White,Male,46,Inventory Associate,ST029,FreshMart Al Ain 1,2022-03-09,3904,Active
+E0096,Gregory Spears,Female,54,Assistant Manager,ST002,FreshMart Dubai 2,2025-11-02,11140,Active
+E0097,Donald Reid,Female,40,Inventory Associate,ST019,FreshMart Sharjah 3,2025-03-05,4942,Active
+E0098,Elizabeth Obrien,Male,54,Assistant Manager,ST029,FreshMart Al Ain 1,2025-11-13,9239,Active
+E0099,Kevin Obrien,Female,45,Cashier,ST022,FreshMart Ajman 1,2024-04-13,2804,Resigned
+E0100,Stacey Hines,Female,58,Customer Service Executive,ST026,FreshMart Fujairah 1,2022-11-22,3399,Active
+E0101,Joshua Howard,Female,40,Supervisor,ST003,FreshMart Dubai 3,2025-07-19,7094,Active
+E0102,Jonathan Hudson,Female,37,Cashier,ST022,FreshMart Ajman 1,2021-10-13,3088,Active
+E0103,Robert Allen,Female,23,Customer Service Executive,ST026,FreshMart Fujairah 1,2024-10-15,4015,Active
+E0104,Sarah Roberts,Female,27,Assistant Manager,ST003,FreshMart Dubai 3,2024-12-15,11492,Active
+E0105,Colton Miller,Male,55,Cashier,ST011,FreshMart Abu Dhabi 1,2024-12-19,4176,Active
+E0106,Kristie Herman,Male,39,Assistant Manager,ST014,FreshMart Abu Dhabi 4,2023-08-27,9951,Active
+E0107,Robert Vargas,Male,21,Cashier,ST019,FreshMart Sharjah 3,2019-09-27,3439,Active
+E0108,Julie Garcia,Female,27,Cashier,ST024,FreshMart Ras Al Khaimah 1,2022-07-04,4087,Active
+E0109,Richard Johnson,Female,35,Inventory Associate,ST018,FreshMart Sharjah 2,2022-07-16,4276,Resigned
+E0110,William Wade,Male,47,Cashier,ST014,FreshMart Abu Dhabi 4,2025-05-22,4159,Active
+E0111,Deanna Mendoza,Male,28,Inventory Associate,ST012,FreshMart Abu Dhabi 2,2021-01-12,4990,Active
+E0112,William Franklin,Male,60,Cashier,ST017,FreshMart Sharjah 1,2026-02-15,2788,Active
+E0113,Alexandria Moses,Male,44,Cashier,ST016,FreshMart Abu Dhabi 6,2022-05-27,2958,Active
+E0114,Jeremy Crawford,Male,48,Customer Service Executive,ST026,FreshMart Fujairah 1,2020-02-06,3776,Active
+E0115,Michael Rojas,Female,41,Customer Service Executive,ST023,FreshMart Ajman 2,2022-08-02,4972,Active
+E0116,Charles Walker,Male,38,Supervisor,ST026,FreshMart Fujairah 1,2020-05-11,5625,Active
+E0117,Sean Graham,Female,43,Customer Service Executive,ST025,FreshMart Ras Al Khaimah 2,2025-10-14,3794,Resigned
+E0118,Charles Thompson,Female,32,Store Manager,ST022,FreshMart Ajman 1,2020-05-19,14000,Active
+E0119,Kristi Armstrong,Female,23,Store Manager,ST007,FreshMart Dubai 7,2020-02-17,12881,Active
+E0120,Charles Smith,Female,57,Supervisor,ST030,FreshMart Al Ain 2,2024-01-16,3719,Active
+E0121,Jordan Palmer,Male,50,Customer Service Executive,ST023,FreshMart Ajman 2,2019-08-25,4175,Active
+E0122,Erik Jenkins,Male,43,Cashier,ST008,FreshMart Dubai 8,2022-08-27,3759,Resigned
+E0123,Mark Castro,Female,47,Cashier,ST028,FreshMart Umm Al Quwain 1,2022-09-08,3989,Active
+E0124,Laura Davis,Male,32,Inventory Associate,ST019,FreshMart Sharjah 3,2025-12-01,4412,Active
+E0125,Joseph Collins,Female,32,Store Manager,ST024,FreshMart Ras Al Khaimah 1,2020-07-03,14239,Active
+E0126,Kenneth Shaw,Male,50,Inventory Associate,ST022,FreshMart Ajman 1,2026-04-28,3980,Active
+E0127,Andrew Clark,Male,46,Inventory Associate,ST003,FreshMart Dubai 3,2023-06-17,3553,Active
+E0128,Stephen Welch,Male,50,Cashier,ST004,FreshMart Dubai 4,2019-08-26,2881,Active
+E0129,David Kennedy,Male,33,Store Manager,ST028,FreshMart Umm Al Quwain 1,2020-04-26,16960,Active
+E0130,Jessica Francis,Male,27,Customer Service Executive,ST013,FreshMart Abu Dhabi 3,2019-02-04,3023,Active
+E0131,Bruce Reed,Female,56,Inventory Associate,ST015,FreshMart Abu Dhabi 5,2021-09-11,4530,Active
+E0132,Brian Guzman,Female,33,Inventory Associate,ST024,FreshMart Ras Al Khaimah 1,2025-10-04,3564,Active
+E0133,Danielle Anthony,Male,23,Cashier,ST016,FreshMart Abu Dhabi 6,2025-09-05,3953,Active
+E0134,Katelyn Perry,Male,51,Supervisor,ST007,FreshMart Dubai 7,2025-04-25,5441,Active
+E0135,John Woods,Male,56,Inventory Associate,ST025,FreshMart Ras Al Khaimah 2,2021-09-07,3570,Active
+E0136,Karl Franklin,Female,44,Inventory Associate,ST023,FreshMart Ajman 2,2023-03-14,4446,Active
+E0137,Carl Brewer,Female,26,Assistant Manager,ST010,FreshMart Dubai 10,2021-11-20,9996,Active
+E0138,Ronald Baird,Male,54,Supervisor,ST006,FreshMart Dubai 6,2021-03-27,4456,Active
+E0139,Jeffrey Reid,Male,40,Supervisor,ST003,FreshMart Dubai 3,2020-08-05,7489,Active
+E0140,Monica Hall,Male,53,Assistant Manager,ST019,FreshMart Sharjah 3,2022-09-25,8522,Active
+E0141,Cynthia Esparza,Male,44,Cashier,ST016,FreshMart Abu Dhabi 6,2020-04-13,3029,Active
+E0142,Stacy Williams,Male,57,Cashier,ST023,FreshMart Ajman 2,2020-12-31,4320,Active
+E0143,Yesenia Bass,Female,27,Cashier,ST026,FreshMart Fujairah 1,2024-02-29,3781,Active
+E0144,Elaine Garza,Female,38,Store Manager,ST027,FreshMart Fujairah 2,2024-10-13,17125,Active
+E0145,Timothy Hinton,Female,49,Assistant Manager,ST020,FreshMart Sharjah 4,2025-07-18,11867,Active
+E0146,Ricky Olson,Female,23,Cashier,ST007,FreshMart Dubai 7,2019-09-24,4335,Active
+E0147,Jason Johnson,Female,42,Inventory Associate,ST029,FreshMart Al Ain 1,2018-09-09,4219,Active
+E0148,Molly Daniel,Male,38,Cashier,ST008,FreshMart Dubai 8,2024-05-06,2684,Active
+E0149,David Singh,Male,57,Assistant Manager,ST008,FreshMart Dubai 8,2021-04-24,9960,Active
+E0150,Tony Gillespie,Male,24,Cashier,ST020,FreshMart Sharjah 4,2019-03-25,3068,Active

@@ -1,0 +1,2383 @@
+return_id,order_id,customer_id,return_date,return_reason,return_status
+R000001,O000001,C05649,2024-10-02,Missing Items,Refund Completed
+R000002,O000046,C05977,2025-01-09,Poor Quality,Refund Completed
+R000003,O000061,C03544,2026-03-12,Damaged Product,Approved
+R000004,O000067,C09926,2024-10-23,Wrong Item,Approved
+R000005,O000072,C06935,2026-07-02,Customer Changed Mind,Approved
+R000006,O000076,C08737,2026-05-01,Customer Changed Mind,Approved
+R000007,O000127,C02623,2026-04-15,Wrong Item,Approved
+R000008,O000139,C00134,2026-02-18,Wrong Item,Approved
+R000009,O000190,C04460,2026-02-06,Missing Items,Refund Completed
+R000010,O000214,C03949,2025-07-31,Expired Product,Rejected
+R000011,O000236,C00577,2025-04-28,Customer Changed Mind,Refund Completed
+R000012,O000243,C09477,2025-08-11,Expired Product,Refund Completed
+R000013,O000335,C06188,2025-09-12,Poor Quality,Approved
+R000014,O000338,C04030,2025-11-23,Damaged Product,Approved
+R000015,O000356,C07843,2024-12-30,Damaged Product,Approved
+R000016,O000390,C03611,2025-05-28,Poor Quality,Refund Completed
+R000017,O000408,C09755,2025-07-21,Wrong Item,Refund Completed
+R000018,O000470,C04581,2025-02-09,Wrong Item,Rejected
+R000019,O000506,C06029,2024-12-30,Customer Changed Mind,Approved
+R000020,O000511,C07669,2025-08-26,Missing Items,Refund Completed
+R000021,O000546,C06464,2025-04-26,Missing Items,Refund Completed
+R000022,O000550,C05863,2025-09-08,Damaged Product,Rejected
+R000023,O000572,C06967,2026-02-19,Expired Product,Rejected
+R000024,O000573,C05862,2025-03-12,Expired Product,Refund Completed
+R000025,O000579,C02838,2024-09-25,Damaged Product,Approved
+R000026,O000597,C06962,2025-11-13,Customer Changed Mind,Refund Completed
+R000027,O000600,C06222,2024-12-30,Damaged Product,Refund Completed
+R000028,O000602,C05827,2025-08-15,Wrong Item,Refund Completed
+R000029,O000604,C02420,2025-07-30,Missing Items,Refund Completed
+R000030,O000606,C05310,2026-08-09,Expired Product,Refund Completed
+R000031,O000612,C01373,2025-06-24,Expired Product,Refund Completed
+R000032,O000679,C04511,2025-04-24,Damaged Product,Approved
+R000033,O000706,C03153,2025-11-23,Poor Quality,Approved
+R000034,O000716,C01133,2024-12-23,Damaged Product,Approved
+R000035,O000731,C01901,2024-09-09,Expired Product,Approved
+R000036,O000733,C01752,2024-09-05,Damaged Product,Refund Completed
+R000037,O000744,C04418,2024-08-13,Wrong Item,Refund Completed
+R000038,O000767,C05595,2026-06-27,Expired Product,Refund Completed
+R000039,O000779,C00646,2025-09-05,Poor Quality,Refund Completed
+R000040,O000798,C06901,2026-06-02,Wrong Item,Refund Completed
+R000041,O000816,C09086,2024-10-17,Damaged Product,Refund Completed
+R000042,O000824,C07632,2025-06-18,Expired Product,Refund Completed
+R000043,O000831,C07688,2026-07-22,Damaged Product,Approved
+R000044,O000847,C07449,2026-03-31,Missing Items,Refund Completed
+R000045,O000873,C04377,2025-01-11,Wrong Item,Approved
+R000046,O000875,C07705,2024-10-03,Missing Items,Approved
+R000047,O000938,C08013,2025-10-25,Damaged Product,Refund Completed
+R000048,O000939,C08770,2026-01-11,Missing Items,Refund Completed
+R000049,O000963,C03864,2025-03-21,Expired Product,Refund Completed
+R000050,O000965,C07907,2024-12-10,Damaged Product,Approved
+R000051,O000989,C03343,2024-08-17,Customer Changed Mind,Rejected
+R000052,O001006,C05124,2024-08-26,Poor Quality,Refund Completed
+R000053,O001025,C00123,2025-03-04,Poor Quality,Refund Completed
+R000054,O001047,C02689,2026-03-28,Poor Quality,Refund Completed
+R000055,O001054,C08440,2025-12-09,Missing Items,Refund Completed
+R000056,O001057,C02745,2025-02-27,Wrong Item,Refund Completed
+R000057,O001070,C09825,2025-12-12,Customer Changed Mind,Approved
+R000058,O001075,C01444,2025-11-11,Wrong Item,Refund Completed
+R000059,O001088,C00411,2025-07-07,Damaged Product,Approved
+R000060,O001096,C00916,2025-03-07,Damaged Product,Refund Completed
+R000061,O001099,C01707,2025-01-09,Damaged Product,Rejected
+R000062,O001110,C03868,2025-06-18,Poor Quality,Approved
+R000063,O001158,C03599,2025-12-04,Poor Quality,Refund Completed
+R000064,O001163,C08000,2026-05-25,Wrong Item,Approved
+R000065,O001171,C03409,2025-01-14,Damaged Product,Rejected
+R000066,O001176,C07367,2025-08-25,Missing Items,Refund Completed
+R000067,O001200,C09625,2026-05-07,Wrong Item,Approved
+R000068,O001216,C05331,2024-10-28,Damaged Product,Refund Completed
+R000069,O001220,C06899,2024-10-04,Damaged Product,Refund Completed
+R000070,O001240,C05802,2026-03-21,Customer Changed Mind,Refund Completed
+R000071,O001244,C04384,2025-08-05,Poor Quality,Refund Completed
+R000072,O001273,C06182,2024-08-31,Customer Changed Mind,Approved
+R000073,O001274,C05695,2025-11-28,Wrong Item,Refund Completed
+R000074,O001297,C06309,2024-09-04,Missing Items,Refund Completed
+R000075,O001321,C02864,2024-10-30,Wrong Item,Rejected
+R000076,O001390,C06370,2025-11-07,Poor Quality,Rejected
+R000077,O001411,C08014,2025-04-01,Customer Changed Mind,Approved
+R000078,O001434,C08744,2026-05-04,Wrong Item,Approved
+R000079,O001455,C02121,2025-07-06,Expired Product,Refund Completed
+R000080,O001465,C01406,2025-06-07,Damaged Product,Approved
+R000081,O001533,C00054,2025-10-07,Missing Items,Refund Completed
+R000082,O001547,C01203,2024-12-15,Missing Items,Refund Completed
+R000083,O001548,C01564,2025-01-11,Customer Changed Mind,Approved
+R000084,O001551,C01783,2024-08-31,Poor Quality,Refund Completed
+R000085,O001553,C03187,2026-04-02,Damaged Product,Refund Completed
+R000086,O001560,C04640,2026-07-23,Wrong Item,Approved
+R000087,O001574,C03678,2025-07-19,Wrong Item,Approved
+R000088,O001581,C09932,2025-10-10,Customer Changed Mind,Refund Completed
+R000089,O001585,C05586,2026-03-17,Customer Changed Mind,Refund Completed
+R000090,O001586,C06897,2025-07-02,Missing Items,Approved
+R000091,O001592,C06929,2025-01-27,Poor Quality,Approved
+R000092,O001646,C09945,2026-07-05,Missing Items,Approved
+R000093,O001687,C01246,2024-09-07,Missing Items,Approved
+R000094,O001692,C05005,2024-08-04,Damaged Product,Refund Completed
+R000095,O001694,C04588,2025-07-15,Damaged Product,Rejected
+R000096,O001735,C03935,2026-05-11,Customer Changed Mind,Refund Completed
+R000097,O001763,C03432,2025-01-31,Customer Changed Mind,Approved
+R000098,O001772,C00335,2025-09-11,Damaged Product,Refund Completed
+R000099,O001792,C04141,2024-12-18,Expired Product,Refund Completed
+R000100,O001793,C08067,2025-08-22,Missing Items,Approved
+R000101,O001795,C00445,2024-11-20,Expired Product,Approved
+R000102,O001823,C05689,2025-09-15,Expired Product,Approved
+R000103,O001834,C05183,2025-09-28,Poor Quality,Rejected
+R000104,O001847,C09637,2024-08-12,Damaged Product,Approved
+R000105,O001852,C09768,2026-03-01,Missing Items,Approved
+R000106,O001861,C05348,2026-06-07,Customer Changed Mind,Rejected
+R000107,O001905,C08349,2025-11-18,Expired Product,Refund Completed
+R000108,O001934,C00540,2025-07-22,Wrong Item,Approved
+R000109,O001939,C07278,2026-05-23,Poor Quality,Refund Completed
+R000110,O001959,C09247,2024-09-23,Missing Items,Approved
+R000111,O001983,C04338,2025-02-08,Customer Changed Mind,Approved
+R000112,O001988,C04914,2024-11-30,Expired Product,Approved
+R000113,O002016,C01869,2026-01-06,Damaged Product,Refund Completed
+R000114,O002027,C08509,2025-08-17,Missing Items,Approved
+R000115,O002030,C09118,2024-10-20,Customer Changed Mind,Refund Completed
+R000116,O002033,C07824,2026-04-06,Poor Quality,Approved
+R000117,O002039,C01672,2026-07-01,Poor Quality,Refund Completed
+R000118,O002062,C07098,2025-06-23,Wrong Item,Refund Completed
+R000119,O002091,C02895,2025-07-25,Missing Items,Approved
+R000120,O002117,C03298,2025-09-21,Wrong Item,Approved
+R000121,O002177,C03042,2026-03-12,Expired Product,Refund Completed
+R000122,O002180,C01988,2026-06-26,Wrong Item,Refund Completed
+R000123,O002197,C04375,2025-12-28,Expired Product,Refund Completed
+R000124,O002212,C07156,2026-06-12,Wrong Item,Rejected
+R000125,O002215,C04094,2026-06-30,Expired Product,Approved
+R000126,O002261,C05639,2026-02-27,Poor Quality,Refund Completed
+R000127,O002271,C07976,2026-06-12,Poor Quality,Approved
+R000128,O002287,C05087,2024-08-28,Missing Items,Approved
+R000129,O002288,C07048,2025-05-29,Wrong Item,Approved
+R000130,O002324,C09911,2025-04-11,Wrong Item,Approved
+R000131,O002325,C03221,2025-11-23,Customer Changed Mind,Approved
+R000132,O002357,C07924,2024-12-15,Damaged Product,Refund Completed
+R000133,O002359,C06644,2025-04-03,Missing Items,Refund Completed
+R000134,O002401,C04116,2025-10-21,Customer Changed Mind,Refund Completed
+R000135,O002406,C08203,2026-06-23,Customer Changed Mind,Approved
+R000136,O002412,C08464,2025-09-07,Wrong Item,Approved
+R000137,O002415,C01769,2026-06-23,Poor Quality,Refund Completed
+R000138,O002418,C05949,2026-07-17,Expired Product,Refund Completed
+R000139,O002430,C09840,2025-01-11,Expired Product,Refund Completed
+R000140,O002439,C05435,2026-05-16,Customer Changed Mind,Refund Completed
+R000141,O002440,C05897,2025-04-14,Missing Items,Refund Completed
+R000142,O002491,C05293,2026-04-29,Expired Product,Approved
+R000143,O002514,C00073,2025-05-02,Wrong Item,Approved
+R000144,O002526,C00281,2025-12-25,Expired Product,Refund Completed
+R000145,O002541,C06050,2026-06-28,Poor Quality,Approved
+R000146,O002554,C07059,2024-08-22,Expired Product,Refund Completed
+R000147,O002557,C02689,2026-07-30,Expired Product,Refund Completed
+R000148,O002581,C09766,2025-01-25,Customer Changed Mind,Refund Completed
+R000149,O002590,C02900,2026-03-26,Damaged Product,Refund Completed
+R000150,O002613,C07605,2025-05-25,Damaged Product,Refund Completed
+R000151,O002642,C04984,2025-11-01,Wrong Item,Approved
+R000152,O002660,C00615,2026-08-08,Expired Product,Approved
+R000153,O002662,C07651,2026-07-22,Poor Quality,Refund Completed
+R000154,O002668,C06434,2025-04-25,Damaged Product,Refund Completed
+R000155,O002688,C08516,2025-07-15,Expired Product,Refund Completed
+R000156,O002699,C05139,2026-06-08,Missing Items,Approved
+R000157,O002707,C03788,2025-05-09,Expired Product,Refund Completed
+R000158,O002721,C07973,2026-04-08,Poor Quality,Approved
+R000159,O002727,C06985,2025-05-31,Expired Product,Refund Completed
+R000160,O002771,C01983,2024-10-08,Damaged Product,Refund Completed
+R000161,O002773,C02023,2024-11-22,Expired Product,Refund Completed
+R000162,O002776,C05340,2026-04-24,Poor Quality,Refund Completed
+R000163,O002788,C06293,2025-05-19,Poor Quality,Refund Completed
+R000164,O002796,C05984,2026-07-17,Missing Items,Refund Completed
+R000165,O002849,C05915,2026-01-14,Missing Items,Refund Completed
+R000166,O002852,C07058,2025-07-23,Missing Items,Approved
+R000167,O002860,C00699,2025-03-24,Customer Changed Mind,Refund Completed
+R000168,O002863,C01539,2024-08-16,Poor Quality,Refund Completed
+R000169,O002929,C05789,2026-03-20,Poor Quality,Refund Completed
+R000170,O002987,C05442,2024-10-19,Wrong Item,Refund Completed
+R000171,O003015,C00391,2025-04-07,Damaged Product,Rejected
+R000172,O003019,C02297,2026-04-26,Customer Changed Mind,Refund Completed
+R000173,O003021,C04524,2024-12-19,Customer Changed Mind,Refund Completed
+R000174,O003066,C06128,2025-09-27,Missing Items,Refund Completed
+R000175,O003073,C08243,2025-09-13,Wrong Item,Rejected
+R000176,O003078,C00814,2024-12-17,Damaged Product,Approved
+R000177,O003081,C01784,2024-12-27,Missing Items,Approved
+R000178,O003083,C06953,2026-01-01,Poor Quality,Approved
+R000179,O003108,C07769,2025-11-27,Expired Product,Refund Completed
+R000180,O003109,C03509,2026-01-13,Missing Items,Refund Completed
+R000181,O003114,C01869,2025-05-11,Damaged Product,Refund Completed
+R000182,O003117,C06059,2025-05-27,Customer Changed Mind,Refund Completed
+R000183,O003147,C09604,2025-04-27,Expired Product,Approved
+R000184,O003149,C06238,2024-10-27,Missing Items,Rejected
+R000185,O003175,C05133,2024-08-30,Customer Changed Mind,Approved
+R000186,O003190,C06447,2025-07-16,Damaged Product,Approved
+R000187,O003201,C06119,2024-08-17,Customer Changed Mind,Refund Completed
+R000188,O003202,C01120,2024-12-14,Missing Items,Refund Completed
+R000189,O003235,C01747,2025-02-11,Damaged Product,Refund Completed
+R000190,O003236,C09375,2025-07-22,Customer Changed Mind,Refund Completed
+R000191,O003246,C06318,2025-07-07,Damaged Product,Approved
+R000192,O003272,C09034,2026-02-05,Poor Quality,Approved
+R000193,O003311,C03988,2024-12-26,Expired Product,Refund Completed
+R000194,O003333,C09010,2024-09-27,Damaged Product,Refund Completed
+R000195,O003363,C05413,2025-04-06,Damaged Product,Approved
+R000196,O003367,C09161,2026-06-14,Missing Items,Approved
+R000197,O003386,C08437,2025-08-08,Wrong Item,Approved
+R000198,O003387,C08823,2025-07-04,Expired Product,Refund Completed
+R000199,O003394,C01271,2025-05-11,Damaged Product,Refund Completed
+R000200,O003412,C03583,2025-02-23,Damaged Product,Approved
+R000201,O003416,C08631,2025-02-12,Damaged Product,Refund Completed
+R000202,O003425,C08612,2025-05-19,Wrong Item,Refund Completed
+R000203,O003483,C03216,2025-10-31,Wrong Item,Refund Completed
+R000204,O003514,C02638,2024-10-13,Customer Changed Mind,Approved
+R000205,O003537,C00993,2025-05-23,Missing Items,Approved
+R000206,O003544,C02989,2025-08-07,Customer Changed Mind,Refund Completed
+R000207,O003553,C01933,2026-04-20,Expired Product,Refund Completed
+R000208,O003571,C01995,2025-08-27,Missing Items,Refund Completed
+R000209,O003589,C06831,2026-05-21,Customer Changed Mind,Refund Completed
+R000210,O003600,C08362,2026-04-05,Missing Items,Approved
+R000211,O003644,C08542,2025-08-28,Poor Quality,Rejected
+R000212,O003653,C03458,2026-01-17,Damaged Product,Refund Completed
+R000213,O003654,C07043,2026-04-29,Poor Quality,Rejected
+R000214,O003675,C00954,2025-05-20,Wrong Item,Rejected
+R000215,O003701,C04704,2025-05-16,Expired Product,Refund Completed
+R000216,O003707,C02906,2025-12-12,Missing Items,Approved
+R000217,O003715,C03938,2024-09-12,Damaged Product,Refund Completed
+R000218,O003722,C02584,2026-06-22,Expired Product,Refund Completed
+R000219,O003732,C01693,2024-11-15,Poor Quality,Approved
+R000220,O003752,C09748,2024-08-07,Customer Changed Mind,Rejected
+R000221,O003753,C02136,2026-01-01,Customer Changed Mind,Refund Completed
+R000222,O003770,C09710,2025-11-25,Damaged Product,Refund Completed
+R000223,O003795,C03247,2026-07-20,Damaged Product,Approved
+R000224,O003838,C03559,2025-01-01,Expired Product,Refund Completed
+R000225,O003847,C02608,2025-06-08,Expired Product,Refund Completed
+R000226,O003852,C04108,2025-10-14,Missing Items,Refund Completed
+R000227,O003893,C04241,2026-05-09,Poor Quality,Refund Completed
+R000228,O003896,C01170,2026-03-02,Poor Quality,Refund Completed
+R000229,O003904,C08906,2026-07-30,Customer Changed Mind,Refund Completed
+R000230,O003913,C07156,2026-04-29,Wrong Item,Approved
+R000231,O003958,C01950,2025-10-01,Missing Items,Rejected
+R000232,O003967,C06428,2025-03-07,Missing Items,Rejected
+R000233,O003969,C08103,2025-02-24,Damaged Product,Approved
+R000234,O003970,C03888,2025-03-18,Missing Items,Refund Completed
+R000235,O003973,C02832,2026-06-07,Poor Quality,Approved
+R000236,O004038,C03559,2025-09-06,Missing Items,Rejected
+R000237,O004039,C01832,2024-08-15,Damaged Product,Approved
+R000238,O004114,C06028,2025-12-12,Poor Quality,Refund Completed
+R000239,O004172,C04107,2024-12-30,Missing Items,Refund Completed
+R000240,O004189,C05227,2025-06-08,Wrong Item,Refund Completed
+R000241,O004194,C06021,2025-04-05,Poor Quality,Refund Completed
+R000242,O004195,C03628,2026-04-14,Wrong Item,Refund Completed
+R000243,O004223,C03515,2024-09-26,Expired Product,Refund Completed
+R000244,O004241,C02901,2026-01-25,Customer Changed Mind,Refund Completed
+R000245,O004249,C05962,2026-07-11,Wrong Item,Refund Completed
+R000246,O004255,C05145,2025-09-06,Wrong Item,Refund Completed
+R000247,O004269,C06366,2024-11-10,Poor Quality,Refund Completed
+R000248,O004290,C00518,2026-01-14,Wrong Item,Refund Completed
+R000249,O004303,C04640,2024-09-13,Wrong Item,Refund Completed
+R000250,O004308,C08519,2024-12-23,Wrong Item,Refund Completed
+R000251,O004318,C08232,2025-08-01,Poor Quality,Approved
+R000252,O004320,C03208,2024-11-06,Wrong Item,Approved
+R000253,O004326,C01878,2025-12-04,Expired Product,Refund Completed
+R000254,O004357,C03732,2024-09-06,Wrong Item,Refund Completed
+R000255,O004388,C02586,2025-04-04,Missing Items,Approved
+R000256,O004392,C07184,2025-08-27,Wrong Item,Refund Completed
+R000257,O004413,C04436,2025-06-05,Missing Items,Approved
+R000258,O004425,C06762,2026-05-28,Wrong Item,Rejected
+R000259,O004428,C06055,2026-03-27,Expired Product,Approved
+R000260,O004430,C05321,2024-12-03,Expired Product,Refund Completed
+R000261,O004437,C09728,2026-05-19,Missing Items,Refund Completed
+R000262,O004442,C08609,2025-03-01,Expired Product,Refund Completed
+R000263,O004449,C02624,2025-10-07,Expired Product,Approved
+R000264,O004480,C05485,2024-08-31,Missing Items,Approved
+R000265,O004515,C05420,2026-07-12,Customer Changed Mind,Refund Completed
+R000266,O004549,C06094,2026-03-26,Customer Changed Mind,Refund Completed
+R000267,O004560,C02316,2026-04-07,Customer Changed Mind,Approved
+R000268,O004565,C04732,2026-02-27,Missing Items,Refund Completed
+R000269,O004573,C00894,2025-11-25,Poor Quality,Refund Completed
+R000270,O004584,C05886,2025-12-20,Expired Product,Refund Completed
+R000271,O004592,C05489,2025-08-20,Damaged Product,Refund Completed
+R000272,O004614,C05308,2025-02-23,Wrong Item,Refund Completed
+R000273,O004618,C06360,2026-01-05,Customer Changed Mind,Refund Completed
+R000274,O004619,C06829,2024-10-17,Missing Items,Refund Completed
+R000275,O004644,C09525,2024-09-20,Customer Changed Mind,Refund Completed
+R000276,O004651,C09299,2024-12-27,Customer Changed Mind,Refund Completed
+R000277,O004662,C09100,2024-08-10,Expired Product,Refund Completed
+R000278,O004688,C07884,2024-08-05,Expired Product,Approved
+R000279,O004691,C05134,2024-10-12,Expired Product,Approved
+R000280,O004698,C05908,2025-12-10,Customer Changed Mind,Rejected
+R000281,O004714,C08063,2026-02-13,Customer Changed Mind,Refund Completed
+R000282,O004726,C09476,2026-04-24,Damaged Product,Refund Completed
+R000283,O004736,C07727,2025-09-01,Missing Items,Refund Completed
+R000284,O004738,C07863,2025-12-01,Wrong Item,Refund Completed
+R000285,O004764,C08450,2025-03-10,Customer Changed Mind,Approved
+R000286,O004806,C00188,2025-09-29,Missing Items,Refund Completed
+R000287,O004814,C07930,2025-07-31,Damaged Product,Rejected
+R000288,O004816,C01231,2025-09-29,Customer Changed Mind,Approved
+R000289,O004847,C09487,2024-12-20,Damaged Product,Refund Completed
+R000290,O004874,C00885,2025-03-27,Customer Changed Mind,Refund Completed
+R000291,O004894,C06172,2026-01-31,Missing Items,Refund Completed
+R000292,O004938,C04295,2025-06-03,Poor Quality,Refund Completed
+R000293,O004949,C00930,2025-02-21,Customer Changed Mind,Refund Completed
+R000294,O004965,C01075,2025-08-17,Wrong Item,Approved
+R000295,O004978,C08489,2024-12-18,Missing Items,Refund Completed
+R000296,O004983,C07525,2025-02-01,Wrong Item,Refund Completed
+R000297,O005009,C07591,2025-05-22,Wrong Item,Refund Completed
+R000298,O005016,C07774,2025-07-26,Damaged Product,Approved
+R000299,O005029,C04930,2024-10-26,Expired Product,Approved
+R000300,O005056,C09657,2024-11-16,Poor Quality,Approved
+R000301,O005135,C04363,2025-05-15,Expired Product,Approved
+R000302,O005140,C08064,2024-10-19,Customer Changed Mind,Refund Completed
+R000303,O005153,C00805,2026-06-29,Damaged Product,Refund Completed
+R000304,O005155,C05410,2025-12-23,Missing Items,Refund Completed
+R000305,O005176,C06851,2025-08-07,Wrong Item,Approved
+R000306,O005178,C02613,2025-10-15,Poor Quality,Refund Completed
+R000307,O005184,C09411,2024-10-07,Missing Items,Refund Completed
+R000308,O005187,C07207,2026-01-24,Poor Quality,Rejected
+R000309,O005208,C09542,2025-02-20,Damaged Product,Refund Completed
+R000310,O005216,C04780,2026-05-07,Expired Product,Refund Completed
+R000311,O005223,C08299,2026-05-05,Wrong Item,Rejected
+R000312,O005235,C07280,2026-03-19,Poor Quality,Approved
+R000313,O005242,C05840,2026-01-03,Wrong Item,Approved
+R000314,O005287,C08248,2024-12-13,Expired Product,Approved
+R000315,O005296,C06457,2025-09-08,Customer Changed Mind,Approved
+R000316,O005323,C02326,2026-05-10,Customer Changed Mind,Approved
+R000317,O005324,C08443,2026-05-10,Damaged Product,Rejected
+R000318,O005355,C04259,2026-03-14,Wrong Item,Approved
+R000319,O005391,C07140,2026-06-02,Missing Items,Refund Completed
+R000320,O005406,C00164,2025-03-21,Missing Items,Approved
+R000321,O005421,C06329,2026-02-09,Poor Quality,Refund Completed
+R000322,O005478,C09991,2024-09-22,Poor Quality,Refund Completed
+R000323,O005482,C06804,2025-05-10,Poor Quality,Refund Completed
+R000324,O005496,C04691,2025-09-20,Missing Items,Refund Completed
+R000325,O005497,C09166,2024-12-19,Missing Items,Approved
+R000326,O005523,C05338,2025-12-15,Missing Items,Refund Completed
+R000327,O005532,C08992,2025-09-14,Customer Changed Mind,Approved
+R000328,O005535,C07837,2025-07-04,Poor Quality,Refund Completed
+R000329,O005551,C08295,2026-04-01,Wrong Item,Refund Completed
+R000330,O005579,C03895,2025-05-02,Damaged Product,Refund Completed
+R000331,O005589,C04316,2024-12-13,Wrong Item,Rejected
+R000332,O005629,C05157,2026-06-11,Poor Quality,Refund Completed
+R000333,O005662,C05892,2025-06-08,Poor Quality,Approved
+R000334,O005691,C00913,2025-05-07,Missing Items,Refund Completed
+R000335,O005693,C01991,2025-02-23,Poor Quality,Approved
+R000336,O005701,C09441,2026-04-02,Expired Product,Approved
+R000337,O005752,C08888,2026-05-15,Missing Items,Approved
+R000338,O005755,C07552,2026-07-25,Damaged Product,Approved
+R000339,O005766,C07542,2025-07-24,Missing Items,Approved
+R000340,O005792,C02419,2025-12-22,Damaged Product,Refund Completed
+R000341,O005835,C09203,2025-01-15,Missing Items,Approved
+R000342,O005881,C01419,2026-06-23,Damaged Product,Refund Completed
+R000343,O005894,C06614,2026-03-31,Poor Quality,Approved
+R000344,O005911,C05220,2025-08-21,Wrong Item,Approved
+R000345,O005922,C05997,2026-05-17,Damaged Product,Approved
+R000346,O005928,C04886,2024-08-30,Missing Items,Approved
+R000347,O005930,C01125,2024-10-05,Poor Quality,Approved
+R000348,O005950,C01295,2026-03-26,Poor Quality,Refund Completed
+R000349,O005964,C06064,2025-11-05,Damaged Product,Refund Completed
+R000350,O005977,C09610,2026-08-01,Poor Quality,Refund Completed
+R000351,O005997,C09749,2026-04-14,Poor Quality,Refund Completed
+R000352,O006009,C06275,2025-01-24,Expired Product,Approved
+R000353,O006019,C00628,2025-01-25,Poor Quality,Approved
+R000354,O006022,C06801,2024-11-20,Missing Items,Approved
+R000355,O006027,C03561,2025-07-02,Damaged Product,Refund Completed
+R000356,O006029,C02061,2025-03-10,Missing Items,Refund Completed
+R000357,O006037,C07014,2025-03-07,Missing Items,Rejected
+R000358,O006052,C02250,2024-12-07,Poor Quality,Rejected
+R000359,O006054,C08334,2026-06-01,Expired Product,Refund Completed
+R000360,O006060,C01611,2025-12-31,Missing Items,Approved
+R000361,O006082,C01193,2025-07-25,Poor Quality,Rejected
+R000362,O006085,C01548,2024-08-30,Poor Quality,Approved
+R000363,O006148,C08228,2025-06-30,Missing Items,Refund Completed
+R000364,O006162,C05148,2024-10-09,Customer Changed Mind,Refund Completed
+R000365,O006203,C07549,2026-07-23,Expired Product,Approved
+R000366,O006210,C01056,2026-03-17,Damaged Product,Approved
+R000367,O006247,C01558,2025-02-06,Damaged Product,Approved
+R000368,O006287,C03767,2024-08-19,Missing Items,Refund Completed
+R000369,O006315,C02930,2026-02-11,Damaged Product,Approved
+R000370,O006329,C05656,2025-12-26,Damaged Product,Refund Completed
+R000371,O006331,C01296,2025-10-02,Customer Changed Mind,Refund Completed
+R000372,O006356,C06003,2026-07-19,Poor Quality,Refund Completed
+R000373,O006390,C04395,2026-07-24,Damaged Product,Approved
+R000374,O006402,C03535,2025-01-13,Poor Quality,Refund Completed
+R000375,O006403,C05771,2024-08-23,Wrong Item,Refund Completed
+R000376,O006406,C06812,2025-12-30,Missing Items,Refund Completed
+R000377,O006432,C08518,2026-01-18,Damaged Product,Approved
+R000378,O006451,C05688,2024-12-14,Poor Quality,Refund Completed
+R000379,O006464,C00652,2026-01-31,Expired Product,Refund Completed
+R000380,O006504,C03382,2026-05-16,Poor Quality,Refund Completed
+R000381,O006513,C07627,2025-12-14,Expired Product,Refund Completed
+R000382,O006570,C01374,2024-12-22,Customer Changed Mind,Rejected
+R000383,O006579,C04798,2024-10-12,Customer Changed Mind,Approved
+R000384,O006580,C05423,2026-03-07,Expired Product,Approved
+R000385,O006582,C06351,2024-08-04,Customer Changed Mind,Refund Completed
+R000386,O006600,C07807,2025-01-25,Expired Product,Refund Completed
+R000387,O006653,C03419,2025-05-16,Expired Product,Refund Completed
+R000388,O006654,C04930,2026-01-23,Expired Product,Refund Completed
+R000389,O006655,C00007,2025-09-23,Customer Changed Mind,Approved
+R000390,O006681,C00427,2026-01-18,Wrong Item,Refund Completed
+R000391,O006711,C09324,2025-10-30,Missing Items,Refund Completed
+R000392,O006718,C07410,2025-06-28,Missing Items,Approved
+R000393,O006721,C04272,2025-12-19,Missing Items,Approved
+R000394,O006732,C02014,2024-10-10,Damaged Product,Refund Completed
+R000395,O006746,C06182,2024-10-28,Customer Changed Mind,Refund Completed
+R000396,O006754,C04127,2026-07-30,Wrong Item,Rejected
+R000397,O006755,C03056,2025-04-30,Poor Quality,Approved
+R000398,O006763,C09355,2025-06-25,Missing Items,Approved
+R000399,O006764,C02655,2025-07-06,Damaged Product,Refund Completed
+R000400,O006805,C02051,2026-03-28,Poor Quality,Refund Completed
+R000401,O006816,C04092,2025-10-19,Damaged Product,Approved
+R000402,O006830,C09363,2026-07-12,Poor Quality,Refund Completed
+R000403,O006837,C09895,2024-12-05,Customer Changed Mind,Refund Completed
+R000404,O006840,C09754,2025-03-21,Expired Product,Approved
+R000405,O006847,C05079,2025-05-23,Customer Changed Mind,Approved
+R000406,O006865,C08095,2025-06-28,Damaged Product,Refund Completed
+R000407,O006897,C02088,2026-02-05,Customer Changed Mind,Approved
+R000408,O006932,C02693,2024-11-23,Missing Items,Refund Completed
+R000409,O006948,C02003,2025-04-29,Poor Quality,Refund Completed
+R000410,O006964,C08375,2025-03-23,Missing Items,Rejected
+R000411,O006980,C08329,2024-10-05,Wrong Item,Approved
+R000412,O007030,C00109,2026-04-10,Damaged Product,Refund Completed
+R000413,O007065,C09196,2025-08-29,Expired Product,Refund Completed
+R000414,O007079,C05195,2024-09-02,Poor Quality,Approved
+R000415,O007109,C05108,2025-03-12,Missing Items,Refund Completed
+R000416,O007129,C04306,2025-07-12,Wrong Item,Approved
+R000417,O007136,C02483,2024-12-25,Damaged Product,Approved
+R000418,O007144,C06356,2025-08-02,Poor Quality,Approved
+R000419,O007159,C08750,2026-01-01,Wrong Item,Approved
+R000420,O007164,C08713,2026-04-11,Damaged Product,Rejected
+R000421,O007171,C00122,2026-04-12,Damaged Product,Refund Completed
+R000422,O007216,C08659,2025-10-05,Damaged Product,Refund Completed
+R000423,O007242,C01145,2025-04-24,Missing Items,Refund Completed
+R000424,O007244,C09078,2026-02-13,Missing Items,Approved
+R000425,O007254,C09620,2024-08-24,Poor Quality,Approved
+R000426,O007285,C07654,2025-01-08,Customer Changed Mind,Approved
+R000427,O007303,C07453,2024-10-09,Expired Product,Refund Completed
+R000428,O007323,C04562,2026-02-07,Customer Changed Mind,Refund Completed
+R000429,O007328,C09086,2025-10-02,Customer Changed Mind,Approved
+R000430,O007329,C09356,2025-03-09,Customer Changed Mind,Refund Completed
+R000431,O007334,C00089,2024-11-16,Missing Items,Rejected
+R000432,O007352,C03495,2025-05-19,Wrong Item,Refund Completed
+R000433,O007354,C08749,2025-01-08,Damaged Product,Approved
+R000434,O007379,C05849,2026-03-15,Damaged Product,Approved
+R000435,O007388,C05178,2024-11-13,Damaged Product,Refund Completed
+R000436,O007436,C00884,2026-04-05,Damaged Product,Approved
+R000437,O007439,C09112,2025-07-20,Poor Quality,Approved
+R000438,O007444,C06626,2026-07-07,Damaged Product,Approved
+R000439,O007458,C09777,2025-10-11,Damaged Product,Rejected
+R000440,O007462,C07523,2026-02-04,Wrong Item,Approved
+R000441,O007463,C02577,2024-08-26,Wrong Item,Refund Completed
+R000442,O007465,C06697,2025-07-29,Customer Changed Mind,Refund Completed
+R000443,O007479,C04636,2025-02-10,Customer Changed Mind,Approved
+R000444,O007481,C04719,2026-05-24,Missing Items,Approved
+R000445,O007486,C09992,2025-07-04,Missing Items,Rejected
+R000446,O007512,C03456,2025-05-01,Wrong Item,Refund Completed
+R000447,O007544,C04965,2026-05-16,Customer Changed Mind,Approved
+R000448,O007559,C05999,2025-09-08,Customer Changed Mind,Refund Completed
+R000449,O007569,C05976,2024-10-25,Expired Product,Refund Completed
+R000450,O007571,C08836,2025-02-27,Missing Items,Refund Completed
+R000451,O007573,C05343,2025-09-29,Expired Product,Approved
+R000452,O007578,C06321,2025-07-01,Damaged Product,Refund Completed
+R000453,O007581,C05703,2026-01-29,Wrong Item,Refund Completed
+R000454,O007654,C08954,2026-02-13,Wrong Item,Approved
+R000455,O007659,C01988,2025-01-24,Customer Changed Mind,Approved
+R000456,O007703,C01781,2025-11-19,Wrong Item,Refund Completed
+R000457,O007739,C06682,2024-11-17,Poor Quality,Approved
+R000458,O007781,C08122,2024-11-17,Poor Quality,Rejected
+R000459,O007818,C03856,2025-12-11,Customer Changed Mind,Refund Completed
+R000460,O007824,C02264,2026-03-03,Poor Quality,Refund Completed
+R000461,O007827,C08654,2026-05-11,Customer Changed Mind,Approved
+R000462,O007870,C05746,2026-07-14,Missing Items,Approved
+R000463,O007871,C08154,2024-08-22,Wrong Item,Approved
+R000464,O007903,C08207,2026-01-20,Damaged Product,Refund Completed
+R000465,O007915,C06431,2026-07-14,Poor Quality,Refund Completed
+R000466,O007943,C06260,2025-01-19,Customer Changed Mind,Approved
+R000467,O007946,C02228,2025-10-31,Poor Quality,Approved
+R000468,O007975,C02930,2025-03-30,Damaged Product,Refund Completed
+R000469,O007984,C09729,2025-10-06,Expired Product,Approved
+R000470,O007985,C02983,2024-10-09,Damaged Product,Refund Completed
+R000471,O007994,C00247,2026-01-11,Poor Quality,Refund Completed
+R000472,O008015,C09354,2025-01-29,Customer Changed Mind,Refund Completed
+R000473,O008017,C08983,2025-06-07,Customer Changed Mind,Approved
+R000474,O008047,C07120,2024-08-23,Customer Changed Mind,Refund Completed
+R000475,O008070,C01298,2025-02-28,Missing Items,Approved
+R000476,O008075,C02499,2024-11-18,Poor Quality,Rejected
+R000477,O008080,C09078,2026-01-14,Poor Quality,Approved
+R000478,O008109,C05479,2024-12-18,Missing Items,Approved
+R000479,O008133,C06633,2024-09-20,Wrong Item,Refund Completed
+R000480,O008134,C05965,2024-10-09,Wrong Item,Refund Completed
+R000481,O008169,C07494,2026-05-09,Expired Product,Refund Completed
+R000482,O008182,C05157,2026-05-04,Expired Product,Refund Completed
+R000483,O008189,C06112,2026-07-04,Expired Product,Approved
+R000484,O008195,C07621,2026-07-11,Expired Product,Refund Completed
+R000485,O008210,C01434,2025-10-10,Expired Product,Refund Completed
+R000486,O008213,C07405,2026-01-13,Expired Product,Approved
+R000487,O008214,C01091,2025-11-05,Missing Items,Approved
+R000488,O008218,C07247,2026-07-10,Poor Quality,Approved
+R000489,O008295,C01113,2025-01-30,Damaged Product,Approved
+R000490,O008297,C08825,2025-04-04,Damaged Product,Refund Completed
+R000491,O008314,C00552,2024-09-14,Missing Items,Rejected
+R000492,O008315,C08926,2025-02-01,Wrong Item,Refund Completed
+R000493,O008338,C04266,2025-05-22,Customer Changed Mind,Refund Completed
+R000494,O008348,C06803,2024-12-30,Expired Product,Approved
+R000495,O008349,C07079,2025-01-10,Missing Items,Refund Completed
+R000496,O008389,C06406,2025-12-23,Customer Changed Mind,Refund Completed
+R000497,O008402,C07409,2026-05-02,Damaged Product,Approved
+R000498,O008446,C08568,2026-08-03,Missing Items,Approved
+R000499,O008453,C05368,2026-05-14,Expired Product,Refund Completed
+R000500,O008461,C00826,2024-12-02,Wrong Item,Approved
+R000501,O008471,C06685,2024-10-17,Customer Changed Mind,Rejected
+R000502,O008472,C07118,2026-03-05,Expired Product,Approved
+R000503,O008474,C03768,2026-03-06,Poor Quality,Refund Completed
+R000504,O008483,C03564,2025-08-24,Poor Quality,Approved
+R000505,O008529,C04581,2026-03-27,Customer Changed Mind,Approved
+R000506,O008546,C06610,2024-12-26,Customer Changed Mind,Rejected
+R000507,O008550,C02216,2026-01-20,Poor Quality,Approved
+R000508,O008552,C08253,2026-06-02,Customer Changed Mind,Approved
+R000509,O008573,C00411,2025-09-13,Customer Changed Mind,Rejected
+R000510,O008575,C00581,2025-06-20,Expired Product,Refund Completed
+R000511,O008586,C00432,2025-12-25,Wrong Item,Refund Completed
+R000512,O008605,C00034,2025-09-19,Poor Quality,Rejected
+R000513,O008652,C03445,2024-08-25,Wrong Item,Refund Completed
+R000514,O008653,C05003,2025-06-22,Missing Items,Refund Completed
+R000515,O008695,C05880,2026-06-28,Expired Product,Approved
+R000516,O008706,C05748,2026-01-21,Customer Changed Mind,Refund Completed
+R000517,O008710,C03247,2024-08-04,Damaged Product,Refund Completed
+R000518,O008755,C04065,2025-07-21,Missing Items,Approved
+R000519,O008773,C06072,2026-03-10,Customer Changed Mind,Refund Completed
+R000520,O008775,C01083,2024-11-21,Customer Changed Mind,Approved
+R000521,O008789,C06563,2024-09-22,Missing Items,Rejected
+R000522,O008791,C02826,2026-03-28,Missing Items,Refund Completed
+R000523,O008793,C00497,2025-04-19,Damaged Product,Refund Completed
+R000524,O008846,C00938,2025-09-19,Customer Changed Mind,Refund Completed
+R000525,O008849,C07301,2026-01-10,Damaged Product,Approved
+R000526,O008853,C05486,2026-06-27,Damaged Product,Approved
+R000527,O008896,C05746,2025-05-09,Damaged Product,Refund Completed
+R000528,O008904,C06880,2025-09-24,Customer Changed Mind,Refund Completed
+R000529,O008922,C02104,2026-07-19,Expired Product,Approved
+R000530,O008924,C07204,2026-05-25,Wrong Item,Rejected
+R000531,O008944,C08560,2024-12-17,Expired Product,Refund Completed
+R000532,O008945,C01135,2026-05-22,Expired Product,Rejected
+R000533,O008948,C02664,2025-12-17,Damaged Product,Approved
+R000534,O008975,C05336,2025-11-19,Missing Items,Approved
+R000535,O008976,C01308,2025-02-16,Poor Quality,Approved
+R000536,O009058,C05423,2025-04-17,Customer Changed Mind,Refund Completed
+R000537,O009059,C09385,2024-11-05,Missing Items,Approved
+R000538,O009077,C08755,2025-10-28,Poor Quality,Approved
+R000539,O009083,C07789,2025-12-12,Missing Items,Refund Completed
+R000540,O009131,C01779,2025-11-22,Poor Quality,Approved
+R000541,O009135,C06091,2025-03-10,Missing Items,Rejected
+R000542,O009146,C09818,2026-05-30,Missing Items,Approved
+R000543,O009206,C03060,2025-02-22,Wrong Item,Rejected
+R000544,O009224,C06890,2025-07-17,Missing Items,Refund Completed
+R000545,O009241,C04613,2025-02-16,Poor Quality,Refund Completed
+R000546,O009283,C07616,2026-02-08,Expired Product,Refund Completed
+R000547,O009294,C03574,2025-03-17,Expired Product,Approved
+R000548,O009316,C05412,2026-06-16,Customer Changed Mind,Refund Completed
+R000549,O009360,C00254,2025-03-11,Expired Product,Approved
+R000550,O009456,C00281,2025-04-10,Wrong Item,Approved
+R000551,O009474,C09040,2024-12-13,Poor Quality,Refund Completed
+R000552,O009479,C01520,2025-06-29,Wrong Item,Approved
+R000553,O009512,C05145,2026-04-04,Wrong Item,Approved
+R000554,O009537,C01419,2025-08-23,Wrong Item,Approved
+R000555,O009559,C01321,2024-09-11,Damaged Product,Refund Completed
+R000556,O009564,C04654,2026-03-14,Missing Items,Approved
+R000557,O009568,C07039,2026-04-14,Wrong Item,Refund Completed
+R000558,O009577,C03652,2025-03-05,Expired Product,Approved
+R000559,O009594,C00667,2025-05-11,Missing Items,Approved
+R000560,O009595,C07508,2025-02-24,Expired Product,Refund Completed
+R000561,O009647,C09891,2025-05-31,Customer Changed Mind,Refund Completed
+R000562,O009657,C03253,2025-08-31,Poor Quality,Refund Completed
+R000563,O009677,C04514,2024-11-05,Poor Quality,Refund Completed
+R000564,O009682,C00540,2025-02-12,Wrong Item,Refund Completed
+R000565,O009685,C04425,2025-02-19,Missing Items,Refund Completed
+R000566,O009699,C05157,2025-03-20,Poor Quality,Refund Completed
+R000567,O009702,C06768,2025-03-04,Missing Items,Rejected
+R000568,O009707,C05067,2025-03-23,Poor Quality,Refund Completed
+R000569,O009727,C06787,2025-05-16,Damaged Product,Refund Completed
+R000570,O009811,C04325,2024-08-27,Wrong Item,Refund Completed
+R000571,O009818,C04955,2026-07-16,Damaged Product,Approved
+R000572,O009838,C05271,2025-06-01,Expired Product,Approved
+R000573,O009869,C04301,2025-02-27,Wrong Item,Refund Completed
+R000574,O009877,C00780,2024-08-18,Damaged Product,Approved
+R000575,O009902,C07238,2025-03-30,Missing Items,Approved
+R000576,O009903,C07062,2024-11-09,Wrong Item,Approved
+R000577,O009909,C02025,2025-12-03,Customer Changed Mind,Approved
+R000578,O009916,C04216,2025-02-04,Poor Quality,Approved
+R000579,O009929,C03760,2026-06-05,Customer Changed Mind,Approved
+R000580,O009932,C08297,2024-09-21,Wrong Item,Rejected
+R000581,O009984,C09349,2026-02-23,Wrong Item,Refund Completed
+R000582,O009994,C09924,2025-01-23,Wrong Item,Refund Completed
+R000583,O010043,C02965,2026-02-25,Missing Items,Refund Completed
+R000584,O010056,C05891,2026-04-03,Customer Changed Mind,Refund Completed
+R000585,O010079,C05401,2026-05-04,Customer Changed Mind,Refund Completed
+R000586,O010114,C06585,2025-01-18,Damaged Product,Rejected
+R000587,O010121,C00764,2026-06-02,Poor Quality,Approved
+R000588,O010127,C07968,2024-08-26,Expired Product,Approved
+R000589,O010135,C05802,2025-01-08,Customer Changed Mind,Refund Completed
+R000590,O010209,C04984,2026-05-07,Expired Product,Approved
+R000591,O010229,C02701,2026-03-28,Poor Quality,Refund Completed
+R000592,O010240,C00972,2025-10-30,Damaged Product,Rejected
+R000593,O010243,C06976,2025-10-04,Wrong Item,Approved
+R000594,O010244,C06945,2024-12-18,Customer Changed Mind,Refund Completed
+R000595,O010257,C09796,2025-01-21,Expired Product,Refund Completed
+R000596,O010288,C08284,2026-04-14,Missing Items,Refund Completed
+R000597,O010376,C08310,2025-02-25,Poor Quality,Refund Completed
+R000598,O010417,C07469,2025-03-08,Customer Changed Mind,Refund Completed
+R000599,O010424,C09885,2026-05-15,Expired Product,Refund Completed
+R000600,O010446,C08367,2024-09-24,Customer Changed Mind,Refund Completed
+R000601,O010479,C07767,2026-01-28,Poor Quality,Refund Completed
+R000602,O010481,C03410,2026-04-10,Expired Product,Approved
+R000603,O010495,C07617,2024-10-29,Wrong Item,Refund Completed
+R000604,O010497,C01714,2025-01-20,Missing Items,Approved
+R000605,O010528,C01158,2026-07-19,Poor Quality,Approved
+R000606,O010532,C03730,2026-04-24,Wrong Item,Approved
+R000607,O010535,C06331,2024-10-28,Missing Items,Refund Completed
+R000608,O010552,C07645,2025-04-21,Customer Changed Mind,Approved
+R000609,O010596,C06795,2025-10-22,Expired Product,Approved
+R000610,O010623,C03519,2024-12-09,Expired Product,Approved
+R000611,O010630,C02976,2025-10-12,Missing Items,Refund Completed
+R000612,O010650,C02302,2024-12-01,Poor Quality,Refund Completed
+R000613,O010653,C01920,2026-07-29,Damaged Product,Approved
+R000614,O010656,C04922,2025-09-26,Expired Product,Rejected
+R000615,O010660,C05200,2025-03-14,Wrong Item,Approved
+R000616,O010664,C04384,2026-04-06,Wrong Item,Refund Completed
+R000617,O010671,C03712,2025-09-17,Damaged Product,Refund Completed
+R000618,O010680,C09014,2024-10-16,Poor Quality,Refund Completed
+R000619,O010684,C04611,2025-10-07,Damaged Product,Refund Completed
+R000620,O010692,C09668,2026-05-27,Wrong Item,Refund Completed
+R000621,O010701,C09717,2026-06-21,Wrong Item,Approved
+R000622,O010711,C04823,2024-11-24,Missing Items,Approved
+R000623,O010733,C03898,2025-04-25,Wrong Item,Approved
+R000624,O010739,C06415,2025-08-16,Customer Changed Mind,Refund Completed
+R000625,O010746,C09692,2025-07-15,Poor Quality,Refund Completed
+R000626,O010763,C08203,2026-04-28,Expired Product,Refund Completed
+R000627,O010767,C03590,2024-10-21,Missing Items,Approved
+R000628,O010769,C00816,2024-10-19,Expired Product,Approved
+R000629,O010804,C06460,2026-06-11,Missing Items,Refund Completed
+R000630,O010812,C04459,2026-05-10,Customer Changed Mind,Refund Completed
+R000631,O010821,C01148,2026-05-21,Missing Items,Refund Completed
+R000632,O010822,C04200,2025-12-22,Customer Changed Mind,Refund Completed
+R000633,O010825,C09326,2026-03-30,Wrong Item,Approved
+R000634,O010830,C03216,2026-01-20,Customer Changed Mind,Rejected
+R000635,O010835,C04601,2025-12-09,Missing Items,Approved
+R000636,O010852,C08060,2024-09-05,Wrong Item,Approved
+R000637,O010860,C04618,2025-10-14,Expired Product,Approved
+R000638,O010914,C09788,2025-07-15,Wrong Item,Refund Completed
+R000639,O010922,C08833,2025-08-12,Missing Items,Approved
+R000640,O010929,C03768,2024-12-13,Wrong Item,Approved
+R000641,O010930,C05750,2024-12-20,Missing Items,Approved
+R000642,O010940,C09636,2024-10-28,Wrong Item,Approved
+R000643,O010947,C09760,2025-12-11,Customer Changed Mind,Refund Completed
+R000644,O010953,C06440,2025-01-30,Customer Changed Mind,Rejected
+R000645,O010966,C05207,2025-07-20,Damaged Product,Refund Completed
+R000646,O010991,C08300,2026-06-23,Missing Items,Refund Completed
+R000647,O010996,C03668,2026-05-09,Expired Product,Approved
+R000648,O010997,C01375,2025-05-17,Damaged Product,Approved
+R000649,O011015,C02515,2025-03-30,Customer Changed Mind,Refund Completed
+R000650,O011029,C06258,2024-11-27,Expired Product,Refund Completed
+R000651,O011043,C09298,2024-11-12,Damaged Product,Refund Completed
+R000652,O011058,C07383,2025-04-16,Missing Items,Approved
+R000653,O011062,C02851,2025-12-07,Expired Product,Refund Completed
+R000654,O011069,C03397,2026-02-11,Expired Product,Approved
+R000655,O011082,C05153,2025-02-24,Missing Items,Approved
+R000656,O011084,C08626,2025-11-08,Wrong Item,Refund Completed
+R000657,O011096,C03697,2026-06-16,Expired Product,Refund Completed
+R000658,O011130,C05789,2025-07-28,Expired Product,Refund Completed
+R000659,O011198,C06242,2025-09-12,Damaged Product,Approved
+R000660,O011200,C09810,2026-03-22,Wrong Item,Approved
+R000661,O011228,C02163,2025-09-26,Damaged Product,Approved
+R000662,O011230,C01368,2024-12-24,Damaged Product,Approved
+R000663,O011244,C06832,2026-03-09,Damaged Product,Approved
+R000664,O011310,C08384,2024-10-13,Damaged Product,Refund Completed
+R000665,O011319,C05948,2024-09-25,Missing Items,Approved
+R000666,O011327,C00343,2025-03-13,Customer Changed Mind,Approved
+R000667,O011349,C03211,2024-10-27,Customer Changed Mind,Refund Completed
+R000668,O011382,C05946,2025-03-31,Poor Quality,Refund Completed
+R000669,O011417,C03256,2026-07-04,Customer Changed Mind,Approved
+R000670,O011422,C03955,2025-08-25,Missing Items,Refund Completed
+R000671,O011438,C06552,2026-07-07,Missing Items,Refund Completed
+R000672,O011455,C06842,2025-11-19,Wrong Item,Rejected
+R000673,O011478,C04579,2024-09-14,Poor Quality,Rejected
+R000674,O011485,C01193,2025-12-12,Damaged Product,Approved
+R000675,O011507,C02637,2025-01-07,Missing Items,Rejected
+R000676,O011538,C06621,2025-11-11,Wrong Item,Refund Completed
+R000677,O011550,C08697,2025-12-25,Wrong Item,Rejected
+R000678,O011556,C09321,2024-12-09,Missing Items,Refund Completed
+R000679,O011598,C01755,2025-04-01,Missing Items,Refund Completed
+R000680,O011603,C02803,2025-04-27,Poor Quality,Approved
+R000681,O011612,C02963,2024-11-10,Expired Product,Rejected
+R000682,O011620,C02614,2025-11-10,Customer Changed Mind,Refund Completed
+R000683,O011627,C07148,2026-04-14,Wrong Item,Refund Completed
+R000684,O011643,C03372,2025-11-27,Damaged Product,Refund Completed
+R000685,O011655,C01207,2024-11-20,Damaged Product,Refund Completed
+R000686,O011668,C09960,2024-09-11,Wrong Item,Refund Completed
+R000687,O011674,C05414,2024-12-05,Missing Items,Approved
+R000688,O011684,C07001,2025-01-25,Poor Quality,Approved
+R000689,O011708,C00942,2024-12-02,Wrong Item,Refund Completed
+R000690,O011710,C00682,2025-06-26,Damaged Product,Refund Completed
+R000691,O011712,C01368,2025-12-27,Missing Items,Refund Completed
+R000692,O011735,C07658,2024-12-19,Poor Quality,Refund Completed
+R000693,O011741,C07906,2025-08-04,Expired Product,Refund Completed
+R000694,O011777,C04473,2025-12-22,Damaged Product,Approved
+R000695,O011780,C02395,2025-05-12,Missing Items,Rejected
+R000696,O011789,C04438,2025-06-03,Damaged Product,Refund Completed
+R000697,O011792,C06778,2025-07-21,Customer Changed Mind,Refund Completed
+R000698,O011823,C04437,2025-09-07,Customer Changed Mind,Refund Completed
+R000699,O011838,C03545,2025-12-24,Poor Quality,Rejected
+R000700,O011844,C02033,2025-05-07,Damaged Product,Refund Completed
+R000701,O011863,C09188,2025-10-07,Poor Quality,Approved
+R000702,O011868,C09478,2025-05-29,Customer Changed Mind,Approved
+R000703,O011883,C03040,2025-08-11,Poor Quality,Approved
+R000704,O011884,C09119,2024-11-24,Wrong Item,Refund Completed
+R000705,O011904,C00491,2025-02-24,Missing Items,Refund Completed
+R000706,O011915,C08390,2025-02-09,Expired Product,Approved
+R000707,O011916,C06652,2025-04-15,Missing Items,Refund Completed
+R000708,O011931,C07111,2024-11-16,Damaged Product,Refund Completed
+R000709,O011985,C07882,2026-03-14,Wrong Item,Refund Completed
+R000710,O011995,C05730,2026-01-03,Customer Changed Mind,Approved
+R000711,O012015,C06486,2024-12-19,Damaged Product,Approved
+R000712,O012030,C06146,2025-04-02,Missing Items,Refund Completed
+R000713,O012043,C09622,2025-06-14,Wrong Item,Approved
+R000714,O012087,C05764,2026-01-25,Wrong Item,Refund Completed
+R000715,O012095,C03851,2026-02-18,Expired Product,Refund Completed
+R000716,O012099,C03214,2025-11-15,Missing Items,Approved
+R000717,O012104,C02425,2026-06-26,Poor Quality,Refund Completed
+R000718,O012105,C04786,2025-01-04,Wrong Item,Refund Completed
+R000719,O012120,C07183,2025-09-07,Wrong Item,Refund Completed
+R000720,O012124,C02251,2025-11-20,Poor Quality,Approved
+R000721,O012129,C01096,2024-11-04,Missing Items,Approved
+R000722,O012135,C08659,2025-07-21,Customer Changed Mind,Refund Completed
+R000723,O012140,C07842,2026-07-17,Wrong Item,Approved
+R000724,O012141,C05257,2024-08-06,Poor Quality,Approved
+R000725,O012158,C06903,2025-03-06,Wrong Item,Refund Completed
+R000726,O012162,C00564,2025-09-25,Customer Changed Mind,Refund Completed
+R000727,O012168,C00248,2025-09-23,Customer Changed Mind,Refund Completed
+R000728,O012176,C05825,2025-08-17,Customer Changed Mind,Approved
+R000729,O012177,C07272,2025-03-21,Missing Items,Refund Completed
+R000730,O012207,C01617,2025-10-26,Customer Changed Mind,Refund Completed
+R000731,O012216,C04748,2026-02-15,Expired Product,Refund Completed
+R000732,O012245,C00471,2024-09-23,Damaged Product,Refund Completed
+R000733,O012257,C04191,2025-03-15,Wrong Item,Approved
+R000734,O012262,C06814,2024-09-18,Wrong Item,Refund Completed
+R000735,O012264,C03226,2026-06-18,Damaged Product,Approved
+R000736,O012276,C06600,2025-06-07,Customer Changed Mind,Refund Completed
+R000737,O012279,C02846,2025-07-24,Poor Quality,Refund Completed
+R000738,O012288,C07626,2026-05-30,Customer Changed Mind,Approved
+R000739,O012292,C03561,2025-06-27,Missing Items,Refund Completed
+R000740,O012293,C00076,2025-06-01,Damaged Product,Refund Completed
+R000741,O012294,C05865,2025-01-03,Poor Quality,Approved
+R000742,O012299,C00414,2025-04-17,Poor Quality,Refund Completed
+R000743,O012327,C03589,2024-12-10,Wrong Item,Approved
+R000744,O012331,C02068,2025-04-05,Expired Product,Refund Completed
+R000745,O012359,C06860,2025-12-07,Expired Product,Approved
+R000746,O012369,C03662,2024-11-28,Missing Items,Refund Completed
+R000747,O012371,C00480,2025-11-06,Expired Product,Refund Completed
+R000748,O012375,C08706,2026-03-15,Damaged Product,Refund Completed
+R000749,O012384,C04857,2025-11-02,Wrong Item,Approved
+R000750,O012396,C06124,2024-09-20,Missing Items,Refund Completed
+R000751,O012406,C04242,2025-05-11,Damaged Product,Refund Completed
+R000752,O012416,C00705,2026-03-07,Wrong Item,Approved
+R000753,O012429,C03851,2025-04-11,Customer Changed Mind,Approved
+R000754,O012436,C04573,2025-08-08,Wrong Item,Refund Completed
+R000755,O012470,C03634,2025-10-21,Customer Changed Mind,Refund Completed
+R000756,O012491,C09102,2025-07-17,Customer Changed Mind,Refund Completed
+R000757,O012505,C06920,2026-04-28,Customer Changed Mind,Approved
+R000758,O012532,C09946,2025-05-27,Wrong Item,Refund Completed
+R000759,O012537,C02510,2024-11-25,Damaged Product,Refund Completed
+R000760,O012581,C07825,2025-02-13,Damaged Product,Approved
+R000761,O012587,C00913,2024-10-19,Poor Quality,Approved
+R000762,O012591,C07873,2024-12-24,Missing Items,Approved
+R000763,O012599,C06164,2024-09-16,Poor Quality,Approved
+R000764,O012615,C08523,2024-09-10,Damaged Product,Approved
+R000765,O012622,C07567,2026-02-07,Damaged Product,Rejected
+R000766,O012626,C09473,2025-03-01,Damaged Product,Approved
+R000767,O012663,C02271,2026-05-13,Missing Items,Refund Completed
+R000768,O012672,C05481,2025-03-05,Expired Product,Refund Completed
+R000769,O012768,C03679,2026-07-25,Customer Changed Mind,Approved
+R000770,O012772,C02755,2025-02-02,Customer Changed Mind,Approved
+R000771,O012783,C08193,2025-10-14,Damaged Product,Refund Completed
+R000772,O012813,C04759,2025-07-22,Missing Items,Refund Completed
+R000773,O012815,C03391,2024-10-27,Customer Changed Mind,Refund Completed
+R000774,O012860,C08877,2026-04-03,Damaged Product,Approved
+R000775,O012883,C05236,2024-08-26,Customer Changed Mind,Refund Completed
+R000776,O012892,C08107,2024-11-30,Poor Quality,Refund Completed
+R000777,O012952,C04253,2026-01-04,Poor Quality,Refund Completed
+R000778,O012955,C03574,2025-07-27,Wrong Item,Approved
+R000779,O012975,C07639,2025-04-24,Missing Items,Approved
+R000780,O013001,C06153,2025-05-27,Poor Quality,Refund Completed
+R000781,O013015,C01204,2025-09-07,Damaged Product,Refund Completed
+R000782,O013021,C06853,2024-08-01,Poor Quality,Approved
+R000783,O013059,C02346,2025-10-31,Customer Changed Mind,Refund Completed
+R000784,O013067,C04181,2025-05-17,Wrong Item,Approved
+R000785,O013071,C08842,2025-10-01,Expired Product,Approved
+R000786,O013074,C07982,2026-01-31,Wrong Item,Approved
+R000787,O013087,C04932,2024-10-14,Poor Quality,Refund Completed
+R000788,O013094,C00528,2025-08-10,Wrong Item,Refund Completed
+R000789,O013118,C06401,2025-01-24,Wrong Item,Refund Completed
+R000790,O013164,C08133,2024-09-22,Expired Product,Approved
+R000791,O013167,C07104,2025-08-15,Expired Product,Refund Completed
+R000792,O013186,C00519,2025-12-29,Missing Items,Approved
+R000793,O013201,C01354,2026-02-11,Wrong Item,Refund Completed
+R000794,O013214,C09619,2025-06-19,Damaged Product,Rejected
+R000795,O013248,C01689,2024-09-04,Damaged Product,Approved
+R000796,O013249,C07543,2025-07-08,Expired Product,Refund Completed
+R000797,O013278,C01310,2024-09-14,Damaged Product,Refund Completed
+R000798,O013320,C08343,2025-03-19,Poor Quality,Approved
+R000799,O013332,C06796,2026-02-25,Poor Quality,Approved
+R000800,O013345,C06132,2024-10-30,Damaged Product,Approved
+R000801,O013366,C09427,2026-04-13,Damaged Product,Refund Completed
+R000802,O013399,C02339,2024-11-09,Wrong Item,Refund Completed
+R000803,O013413,C07382,2026-07-08,Missing Items,Refund Completed
+R000804,O013416,C05632,2025-02-07,Poor Quality,Refund Completed
+R000805,O013434,C02542,2025-09-21,Wrong Item,Refund Completed
+R000806,O013455,C06429,2026-07-19,Missing Items,Approved
+R000807,O013475,C08181,2026-02-14,Missing Items,Approved
+R000808,O013480,C05461,2025-08-23,Poor Quality,Refund Completed
+R000809,O013488,C04157,2025-06-23,Expired Product,Refund Completed
+R000810,O013499,C09959,2025-01-04,Missing Items,Refund Completed
+R000811,O013544,C08887,2025-06-08,Poor Quality,Refund Completed
+R000812,O013559,C01418,2024-08-24,Damaged Product,Refund Completed
+R000813,O013563,C00869,2024-12-10,Missing Items,Rejected
+R000814,O013586,C05961,2026-03-25,Damaged Product,Refund Completed
+R000815,O013587,C00240,2026-07-28,Customer Changed Mind,Refund Completed
+R000816,O013618,C03039,2025-09-12,Poor Quality,Approved
+R000817,O013639,C06258,2026-06-21,Customer Changed Mind,Refund Completed
+R000818,O013649,C07068,2025-06-11,Poor Quality,Refund Completed
+R000819,O013657,C05415,2026-03-28,Customer Changed Mind,Refund Completed
+R000820,O013681,C08165,2025-01-04,Damaged Product,Rejected
+R000821,O013751,C02055,2025-09-15,Damaged Product,Refund Completed
+R000822,O013780,C04275,2026-01-17,Missing Items,Refund Completed
+R000823,O013790,C03761,2025-03-31,Poor Quality,Refund Completed
+R000824,O013794,C03659,2025-12-27,Poor Quality,Refund Completed
+R000825,O013840,C09030,2025-09-03,Customer Changed Mind,Refund Completed
+R000826,O013872,C07870,2025-08-04,Wrong Item,Approved
+R000827,O013898,C05469,2024-10-21,Missing Items,Approved
+R000828,O013903,C06767,2025-05-10,Expired Product,Refund Completed
+R000829,O013912,C08840,2026-06-04,Missing Items,Approved
+R000830,O013946,C09807,2025-03-02,Damaged Product,Refund Completed
+R000831,O013956,C06654,2026-05-16,Damaged Product,Approved
+R000832,O013967,C06033,2026-05-06,Wrong Item,Approved
+R000833,O013976,C04260,2025-04-30,Customer Changed Mind,Approved
+R000834,O013993,C09903,2025-12-09,Wrong Item,Approved
+R000835,O014003,C08719,2026-05-19,Poor Quality,Approved
+R000836,O014019,C00569,2025-11-09,Poor Quality,Approved
+R000837,O014022,C05564,2026-04-07,Expired Product,Refund Completed
+R000838,O014024,C04358,2024-10-14,Expired Product,Refund Completed
+R000839,O014032,C04094,2025-12-04,Missing Items,Refund Completed
+R000840,O014041,C08515,2026-01-31,Damaged Product,Approved
+R000841,O014045,C08876,2025-05-22,Customer Changed Mind,Refund Completed
+R000842,O014051,C07782,2025-02-20,Damaged Product,Refund Completed
+R000843,O014063,C09751,2024-09-27,Poor Quality,Refund Completed
+R000844,O014095,C06528,2025-05-03,Expired Product,Refund Completed
+R000845,O014098,C03839,2025-06-09,Customer Changed Mind,Refund Completed
+R000846,O014117,C01382,2025-12-28,Damaged Product,Refund Completed
+R000847,O014127,C01294,2025-10-22,Poor Quality,Refund Completed
+R000848,O014138,C06964,2025-03-29,Poor Quality,Rejected
+R000849,O014143,C07870,2024-10-06,Customer Changed Mind,Refund Completed
+R000850,O014146,C01016,2025-08-23,Missing Items,Refund Completed
+R000851,O014160,C04732,2025-02-03,Expired Product,Refund Completed
+R000852,O014162,C06696,2025-06-29,Expired Product,Approved
+R000853,O014180,C08744,2026-02-08,Wrong Item,Approved
+R000854,O014181,C02631,2026-02-16,Poor Quality,Approved
+R000855,O014185,C00604,2024-08-23,Poor Quality,Refund Completed
+R000856,O014204,C00478,2024-09-29,Wrong Item,Rejected
+R000857,O014222,C02475,2025-12-27,Customer Changed Mind,Approved
+R000858,O014246,C06542,2025-05-10,Customer Changed Mind,Approved
+R000859,O014255,C06892,2024-08-20,Missing Items,Refund Completed
+R000860,O014263,C09449,2026-01-07,Poor Quality,Approved
+R000861,O014285,C06475,2024-10-08,Expired Product,Approved
+R000862,O014311,C02760,2024-11-09,Poor Quality,Approved
+R000863,O014315,C03042,2025-12-16,Poor Quality,Refund Completed
+R000864,O014348,C03600,2025-06-24,Damaged Product,Approved
+R000865,O014351,C04305,2025-09-06,Expired Product,Rejected
+R000866,O014377,C05536,2025-05-20,Expired Product,Rejected
+R000867,O014383,C05809,2026-02-10,Missing Items,Refund Completed
+R000868,O014409,C02740,2025-07-06,Poor Quality,Refund Completed
+R000869,O014411,C05584,2024-08-13,Missing Items,Refund Completed
+R000870,O014419,C08438,2026-03-23,Wrong Item,Refund Completed
+R000871,O014434,C05791,2024-10-14,Wrong Item,Approved
+R000872,O014443,C06652,2024-12-13,Customer Changed Mind,Approved
+R000873,O014499,C06779,2024-11-14,Customer Changed Mind,Approved
+R000874,O014507,C01354,2026-05-15,Poor Quality,Approved
+R000875,O014543,C03171,2024-10-26,Expired Product,Refund Completed
+R000876,O014571,C02290,2026-02-01,Customer Changed Mind,Refund Completed
+R000877,O014572,C00982,2025-06-15,Expired Product,Approved
+R000878,O014588,C04595,2024-11-22,Missing Items,Refund Completed
+R000879,O014591,C09397,2026-01-28,Poor Quality,Rejected
+R000880,O014596,C00565,2025-12-22,Damaged Product,Refund Completed
+R000881,O014600,C09493,2025-07-24,Poor Quality,Refund Completed
+R000882,O014648,C06877,2026-03-09,Wrong Item,Refund Completed
+R000883,O014666,C07133,2026-06-11,Customer Changed Mind,Rejected
+R000884,O014728,C09942,2025-07-03,Missing Items,Approved
+R000885,O014736,C00439,2026-04-03,Wrong Item,Rejected
+R000886,O014765,C07278,2025-07-09,Customer Changed Mind,Approved
+R000887,O014767,C00789,2026-03-09,Customer Changed Mind,Refund Completed
+R000888,O014769,C06260,2024-08-22,Wrong Item,Approved
+R000889,O014783,C02003,2025-09-10,Wrong Item,Approved
+R000890,O014789,C08908,2025-11-20,Poor Quality,Refund Completed
+R000891,O014814,C01872,2025-08-24,Poor Quality,Refund Completed
+R000892,O014823,C02859,2024-12-12,Damaged Product,Approved
+R000893,O014827,C06029,2026-03-12,Wrong Item,Rejected
+R000894,O014835,C07599,2026-05-04,Expired Product,Refund Completed
+R000895,O014847,C08165,2024-09-26,Damaged Product,Approved
+R000896,O014850,C02791,2025-07-24,Damaged Product,Refund Completed
+R000897,O014870,C07789,2025-08-22,Missing Items,Approved
+R000898,O014879,C04926,2025-02-14,Damaged Product,Approved
+R000899,O014911,C03785,2024-09-07,Expired Product,Approved
+R000900,O014930,C00787,2024-10-11,Customer Changed Mind,Refund Completed
+R000901,O014974,C09443,2025-02-01,Wrong Item,Refund Completed
+R000902,O015015,C02707,2026-04-08,Poor Quality,Approved
+R000903,O015025,C01398,2026-01-28,Customer Changed Mind,Approved
+R000904,O015029,C06530,2024-10-07,Missing Items,Rejected
+R000905,O015043,C07806,2025-12-22,Wrong Item,Approved
+R000906,O015063,C00979,2026-04-10,Damaged Product,Rejected
+R000907,O015082,C00979,2025-12-24,Missing Items,Rejected
+R000908,O015122,C03515,2024-11-04,Wrong Item,Approved
+R000909,O015124,C07672,2025-06-09,Wrong Item,Approved
+R000910,O015132,C03509,2025-07-21,Damaged Product,Refund Completed
+R000911,O015176,C06084,2026-05-22,Missing Items,Approved
+R000912,O015188,C01090,2026-06-16,Damaged Product,Approved
+R000913,O015199,C01762,2024-09-28,Missing Items,Rejected
+R000914,O015203,C07126,2025-01-18,Missing Items,Approved
+R000915,O015215,C00436,2025-09-12,Missing Items,Refund Completed
+R000916,O015218,C05795,2025-12-27,Missing Items,Refund Completed
+R000917,O015221,C04832,2025-01-01,Customer Changed Mind,Refund Completed
+R000918,O015224,C09528,2024-11-14,Poor Quality,Approved
+R000919,O015233,C01593,2026-04-18,Poor Quality,Approved
+R000920,O015234,C08407,2026-03-16,Expired Product,Refund Completed
+R000921,O015235,C01244,2026-05-08,Damaged Product,Rejected
+R000922,O015238,C08443,2026-02-08,Customer Changed Mind,Approved
+R000923,O015276,C00520,2025-05-03,Poor Quality,Refund Completed
+R000924,O015288,C03979,2024-10-23,Damaged Product,Refund Completed
+R000925,O015294,C04207,2024-10-16,Poor Quality,Refund Completed
+R000926,O015312,C00296,2025-04-25,Wrong Item,Approved
+R000927,O015338,C04261,2025-09-05,Expired Product,Refund Completed
+R000928,O015366,C08518,2026-01-07,Damaged Product,Refund Completed
+R000929,O015387,C09282,2024-11-26,Poor Quality,Approved
+R000930,O015395,C08043,2025-10-23,Expired Product,Refund Completed
+R000931,O015434,C09898,2025-07-18,Poor Quality,Rejected
+R000932,O015442,C04471,2026-05-28,Poor Quality,Approved
+R000933,O015486,C04130,2026-02-06,Wrong Item,Refund Completed
+R000934,O015492,C05728,2025-07-19,Missing Items,Refund Completed
+R000935,O015508,C06575,2025-05-10,Expired Product,Approved
+R000936,O015529,C08890,2024-11-03,Wrong Item,Approved
+R000937,O015551,C09188,2025-06-21,Wrong Item,Approved
+R000938,O015552,C06717,2025-09-24,Missing Items,Approved
+R000939,O015611,C06262,2025-05-24,Wrong Item,Approved
+R000940,O015633,C00638,2026-04-17,Customer Changed Mind,Approved
+R000941,O015698,C06844,2025-11-13,Poor Quality,Refund Completed
+R000942,O015725,C06123,2025-02-21,Customer Changed Mind,Refund Completed
+R000943,O015727,C06831,2024-10-22,Missing Items,Refund Completed
+R000944,O015735,C06253,2024-08-30,Expired Product,Approved
+R000945,O015738,C05196,2025-12-29,Wrong Item,Approved
+R000946,O015742,C05340,2025-01-30,Wrong Item,Refund Completed
+R000947,O015763,C02930,2026-01-05,Wrong Item,Approved
+R000948,O015780,C01345,2025-08-08,Customer Changed Mind,Rejected
+R000949,O015821,C06044,2026-01-27,Expired Product,Refund Completed
+R000950,O015825,C05992,2026-03-08,Missing Items,Approved
+R000951,O015832,C08792,2026-01-10,Missing Items,Approved
+R000952,O015855,C01552,2025-10-21,Missing Items,Refund Completed
+R000953,O015866,C02067,2025-04-07,Missing Items,Approved
+R000954,O015869,C09121,2025-02-08,Wrong Item,Approved
+R000955,O015875,C09261,2025-10-28,Missing Items,Refund Completed
+R000956,O015880,C00652,2025-09-22,Customer Changed Mind,Refund Completed
+R000957,O015886,C07130,2024-11-16,Wrong Item,Approved
+R000958,O015919,C04625,2026-03-17,Wrong Item,Refund Completed
+R000959,O015952,C00160,2026-04-29,Wrong Item,Approved
+R000960,O015966,C02371,2026-05-07,Missing Items,Refund Completed
+R000961,O015975,C06470,2024-08-12,Missing Items,Refund Completed
+R000962,O015985,C08078,2024-12-03,Poor Quality,Refund Completed
+R000963,O016023,C01004,2025-03-18,Customer Changed Mind,Refund Completed
+R000964,O016028,C01555,2025-05-22,Missing Items,Refund Completed
+R000965,O016051,C01981,2026-06-15,Wrong Item,Approved
+R000966,O016058,C03384,2025-05-17,Customer Changed Mind,Approved
+R000967,O016083,C00022,2025-06-17,Wrong Item,Approved
+R000968,O016095,C04978,2025-12-06,Customer Changed Mind,Rejected
+R000969,O016101,C07343,2025-07-28,Wrong Item,Refund Completed
+R000970,O016106,C06106,2026-04-09,Wrong Item,Refund Completed
+R000971,O016125,C03157,2024-12-15,Damaged Product,Approved
+R000972,O016127,C09914,2026-04-30,Wrong Item,Refund Completed
+R000973,O016154,C03051,2024-08-17,Expired Product,Approved
+R000974,O016173,C00925,2025-07-13,Missing Items,Approved
+R000975,O016180,C01083,2026-06-08,Missing Items,Approved
+R000976,O016184,C09697,2025-04-13,Expired Product,Refund Completed
+R000977,O016187,C02999,2025-04-26,Customer Changed Mind,Refund Completed
+R000978,O016219,C06353,2025-11-01,Poor Quality,Approved
+R000979,O016223,C05548,2025-04-13,Missing Items,Approved
+R000980,O016226,C08609,2025-07-29,Damaged Product,Refund Completed
+R000981,O016239,C08093,2025-11-14,Missing Items,Refund Completed
+R000982,O016258,C00960,2026-02-20,Missing Items,Rejected
+R000983,O016292,C09875,2024-08-20,Damaged Product,Refund Completed
+R000984,O016323,C09990,2026-01-10,Expired Product,Approved
+R000985,O016325,C06328,2024-10-08,Customer Changed Mind,Refund Completed
+R000986,O016328,C01717,2026-03-07,Expired Product,Rejected
+R000987,O016402,C02680,2024-10-14,Damaged Product,Refund Completed
+R000988,O016420,C00153,2026-06-26,Expired Product,Approved
+R000989,O016435,C05491,2024-09-04,Customer Changed Mind,Approved
+R000990,O016453,C09438,2026-05-21,Damaged Product,Refund Completed
+R000991,O016486,C08933,2025-10-25,Customer Changed Mind,Rejected
+R000992,O016497,C08209,2024-11-17,Missing Items,Refund Completed
+R000993,O016514,C04054,2025-11-19,Poor Quality,Approved
+R000994,O016523,C00863,2025-11-14,Damaged Product,Refund Completed
+R000995,O016525,C09233,2024-10-13,Wrong Item,Approved
+R000996,O016527,C00189,2025-10-01,Expired Product,Refund Completed
+R000997,O016530,C05464,2025-09-29,Expired Product,Refund Completed
+R000998,O016534,C00217,2025-11-01,Missing Items,Refund Completed
+R000999,O016609,C00289,2026-06-10,Missing Items,Rejected
+R001000,O016643,C00898,2024-12-06,Customer Changed Mind,Approved
+R001001,O016677,C04604,2025-08-28,Poor Quality,Approved
+R001002,O016688,C03268,2026-05-28,Expired Product,Refund Completed
+R001003,O016690,C01683,2026-07-23,Customer Changed Mind,Rejected
+R001004,O016723,C00637,2025-01-09,Expired Product,Refund Completed
+R001005,O016740,C09216,2025-07-23,Customer Changed Mind,Rejected
+R001006,O016762,C03075,2024-11-11,Damaged Product,Refund Completed
+R001007,O016795,C09556,2024-11-04,Missing Items,Approved
+R001008,O016815,C07115,2026-06-20,Wrong Item,Rejected
+R001009,O016823,C07338,2024-08-27,Expired Product,Rejected
+R001010,O016840,C03315,2024-09-09,Expired Product,Rejected
+R001011,O016842,C04792,2025-08-16,Poor Quality,Approved
+R001012,O016849,C02660,2025-06-21,Customer Changed Mind,Approved
+R001013,O016859,C01069,2026-04-16,Wrong Item,Approved
+R001014,O016876,C05431,2024-12-08,Wrong Item,Approved
+R001015,O016877,C03317,2025-09-26,Damaged Product,Refund Completed
+R001016,O016880,C02837,2026-01-27,Wrong Item,Refund Completed
+R001017,O016882,C06170,2024-11-23,Customer Changed Mind,Approved
+R001018,O016901,C03845,2026-02-01,Missing Items,Approved
+R001019,O016919,C04935,2025-06-18,Damaged Product,Refund Completed
+R001020,O016929,C08314,2025-06-28,Poor Quality,Rejected
+R001021,O016954,C02910,2025-10-07,Expired Product,Refund Completed
+R001022,O016963,C09129,2024-09-18,Damaged Product,Refund Completed
+R001023,O017028,C08815,2025-10-22,Customer Changed Mind,Approved
+R001024,O017029,C01794,2025-05-10,Missing Items,Rejected
+R001025,O017036,C04902,2026-01-02,Poor Quality,Refund Completed
+R001026,O017069,C09723,2025-05-21,Wrong Item,Refund Completed
+R001027,O017079,C03482,2026-02-01,Damaged Product,Approved
+R001028,O017096,C02583,2025-03-28,Missing Items,Approved
+R001029,O017157,C09823,2025-09-30,Missing Items,Refund Completed
+R001030,O017189,C07648,2026-02-06,Damaged Product,Approved
+R001031,O017199,C00575,2026-05-27,Wrong Item,Approved
+R001032,O017252,C01306,2026-06-06,Customer Changed Mind,Approved
+R001033,O017274,C01837,2025-01-05,Poor Quality,Refund Completed
+R001034,O017275,C06519,2025-05-23,Expired Product,Approved
+R001035,O017293,C08774,2026-04-11,Expired Product,Approved
+R001036,O017304,C01039,2025-02-08,Missing Items,Refund Completed
+R001037,O017364,C08937,2024-11-11,Poor Quality,Refund Completed
+R001038,O017371,C05470,2026-04-08,Missing Items,Refund Completed
+R001039,O017407,C05487,2024-11-05,Missing Items,Approved
+R001040,O017410,C07668,2025-06-19,Wrong Item,Refund Completed
+R001041,O017412,C08488,2024-12-07,Expired Product,Refund Completed
+R001042,O017432,C03486,2024-11-02,Wrong Item,Refund Completed
+R001043,O017446,C04818,2025-11-22,Missing Items,Refund Completed
+R001044,O017475,C06663,2025-04-20,Wrong Item,Refund Completed
+R001045,O017508,C01379,2024-11-10,Missing Items,Approved
+R001046,O017541,C05251,2025-03-11,Missing Items,Refund Completed
+R001047,O017542,C00302,2026-02-20,Wrong Item,Rejected
+R001048,O017560,C03947,2024-11-18,Expired Product,Rejected
+R001049,O017565,C05075,2025-09-29,Expired Product,Refund Completed
+R001050,O017571,C02746,2025-02-03,Wrong Item,Approved
+R001051,O017584,C03585,2025-02-04,Poor Quality,Rejected
+R001052,O017624,C02866,2024-09-28,Wrong Item,Approved
+R001053,O017636,C05550,2025-12-17,Expired Product,Refund Completed
+R001054,O017666,C03378,2026-04-22,Poor Quality,Refund Completed
+R001055,O017675,C07075,2025-09-05,Customer Changed Mind,Approved
+R001056,O017708,C03679,2024-10-11,Customer Changed Mind,Refund Completed
+R001057,O017718,C07398,2025-09-30,Missing Items,Refund Completed
+R001058,O017750,C07917,2026-07-07,Wrong Item,Refund Completed
+R001059,O017751,C02772,2025-08-31,Poor Quality,Refund Completed
+R001060,O017757,C04704,2025-01-28,Expired Product,Approved
+R001061,O017759,C01525,2024-11-15,Poor Quality,Refund Completed
+R001062,O017793,C01786,2025-05-18,Missing Items,Approved
+R001063,O017800,C04371,2024-11-08,Expired Product,Refund Completed
+R001064,O017823,C07079,2024-10-16,Poor Quality,Approved
+R001065,O017839,C07400,2026-05-10,Wrong Item,Rejected
+R001066,O017847,C06760,2024-08-16,Expired Product,Approved
+R001067,O017885,C05036,2025-01-10,Expired Product,Refund Completed
+R001068,O017906,C06203,2026-02-21,Damaged Product,Approved
+R001069,O017918,C01634,2026-05-13,Wrong Item,Approved
+R001070,O017925,C01657,2026-07-26,Customer Changed Mind,Approved
+R001071,O017945,C02738,2024-11-01,Customer Changed Mind,Refund Completed
+R001072,O017961,C03881,2025-11-21,Customer Changed Mind,Refund Completed
+R001073,O017965,C02999,2025-03-01,Expired Product,Rejected
+R001074,O017969,C05797,2026-03-17,Missing Items,Refund Completed
+R001075,O017983,C08002,2025-09-24,Poor Quality,Refund Completed
+R001076,O017984,C03476,2025-07-15,Missing Items,Approved
+R001077,O017990,C08226,2026-05-25,Missing Items,Refund Completed
+R001078,O018011,C07354,2024-11-08,Missing Items,Refund Completed
+R001079,O018029,C05031,2025-03-06,Missing Items,Approved
+R001080,O018031,C09659,2024-11-04,Damaged Product,Approved
+R001081,O018036,C06659,2025-02-24,Wrong Item,Refund Completed
+R001082,O018042,C05483,2026-08-10,Damaged Product,Refund Completed
+R001083,O018047,C00840,2024-10-05,Customer Changed Mind,Refund Completed
+R001084,O018053,C05169,2025-01-13,Wrong Item,Refund Completed
+R001085,O018072,C08201,2025-10-20,Damaged Product,Refund Completed
+R001086,O018074,C03221,2026-02-16,Wrong Item,Refund Completed
+R001087,O018118,C00177,2024-09-14,Missing Items,Refund Completed
+R001088,O018175,C05888,2025-10-08,Expired Product,Refund Completed
+R001089,O018227,C03199,2025-07-14,Customer Changed Mind,Refund Completed
+R001090,O018246,C00844,2025-05-11,Customer Changed Mind,Refund Completed
+R001091,O018258,C02248,2025-02-26,Missing Items,Rejected
+R001092,O018281,C01611,2026-02-26,Missing Items,Approved
+R001093,O018282,C07765,2025-08-05,Expired Product,Approved
+R001094,O018289,C00688,2026-04-03,Poor Quality,Approved
+R001095,O018318,C03846,2026-03-02,Damaged Product,Refund Completed
+R001096,O018360,C04854,2026-05-13,Poor Quality,Rejected
+R001097,O018394,C06889,2024-09-26,Wrong Item,Refund Completed
+R001098,O018444,C03589,2026-01-22,Poor Quality,Approved
+R001099,O018447,C06253,2024-10-10,Customer Changed Mind,Approved
+R001100,O018466,C07319,2024-09-11,Wrong Item,Refund Completed
+R001101,O018474,C03833,2026-01-07,Customer Changed Mind,Refund Completed
+R001102,O018495,C08613,2025-04-16,Missing Items,Refund Completed
+R001103,O018517,C05109,2026-03-31,Damaged Product,Refund Completed
+R001104,O018543,C02614,2024-09-12,Expired Product,Refund Completed
+R001105,O018584,C08035,2025-04-13,Expired Product,Approved
+R001106,O018655,C04560,2025-06-06,Damaged Product,Approved
+R001107,O018663,C00749,2026-01-26,Customer Changed Mind,Refund Completed
+R001108,O018707,C01925,2025-02-15,Missing Items,Approved
+R001109,O018717,C02590,2024-09-04,Damaged Product,Rejected
+R001110,O018719,C02994,2024-12-19,Wrong Item,Rejected
+R001111,O018745,C03279,2026-01-30,Damaged Product,Approved
+R001112,O018786,C02793,2024-09-20,Wrong Item,Refund Completed
+R001113,O018788,C01229,2025-09-17,Poor Quality,Refund Completed
+R001114,O018800,C08889,2025-04-29,Expired Product,Approved
+R001115,O018833,C04016,2026-06-20,Wrong Item,Approved
+R001116,O018838,C09011,2025-09-17,Customer Changed Mind,Refund Completed
+R001117,O018846,C01654,2026-04-18,Damaged Product,Rejected
+R001118,O018864,C04211,2024-11-25,Damaged Product,Refund Completed
+R001119,O018881,C01728,2026-06-12,Expired Product,Refund Completed
+R001120,O018883,C03086,2025-06-18,Customer Changed Mind,Approved
+R001121,O018938,C08175,2026-02-25,Wrong Item,Approved
+R001122,O018948,C09022,2026-04-07,Expired Product,Refund Completed
+R001123,O018970,C01926,2025-09-30,Wrong Item,Rejected
+R001124,O018972,C04787,2025-10-30,Expired Product,Approved
+R001125,O018999,C05844,2025-01-12,Expired Product,Approved
+R001126,O019013,C06168,2025-09-03,Damaged Product,Refund Completed
+R001127,O019043,C05365,2025-02-06,Missing Items,Refund Completed
+R001128,O019046,C04287,2025-07-24,Damaged Product,Refund Completed
+R001129,O019096,C06138,2025-04-25,Expired Product,Refund Completed
+R001130,O019099,C03091,2025-02-19,Expired Product,Approved
+R001131,O019140,C07485,2025-04-13,Poor Quality,Approved
+R001132,O019192,C03833,2026-03-18,Missing Items,Approved
+R001133,O019209,C00581,2025-12-15,Damaged Product,Refund Completed
+R001134,O019237,C04450,2025-07-18,Poor Quality,Approved
+R001135,O019243,C09583,2026-01-30,Missing Items,Refund Completed
+R001136,O019250,C04323,2024-09-25,Wrong Item,Refund Completed
+R001137,O019252,C03611,2026-03-23,Missing Items,Refund Completed
+R001138,O019257,C05106,2024-10-28,Poor Quality,Approved
+R001139,O019259,C00343,2024-12-10,Poor Quality,Refund Completed
+R001140,O019260,C00045,2025-04-27,Damaged Product,Refund Completed
+R001141,O019273,C09187,2025-04-09,Expired Product,Approved
+R001142,O019286,C09255,2025-11-19,Customer Changed Mind,Rejected
+R001143,O019293,C08089,2024-12-22,Expired Product,Refund Completed
+R001144,O019330,C08797,2026-04-01,Expired Product,Refund Completed
+R001145,O019338,C03592,2025-07-23,Wrong Item,Refund Completed
+R001146,O019349,C06246,2025-07-19,Poor Quality,Approved
+R001147,O019376,C02162,2025-03-27,Expired Product,Approved
+R001148,O019400,C01777,2026-07-08,Damaged Product,Approved
+R001149,O019411,C01355,2025-04-28,Poor Quality,Approved
+R001150,O019435,C00824,2025-06-12,Damaged Product,Approved
+R001151,O019440,C08019,2025-06-21,Expired Product,Approved
+R001152,O019470,C02560,2024-12-22,Poor Quality,Approved
+R001153,O019534,C00794,2024-08-22,Wrong Item,Approved
+R001154,O019536,C04627,2025-01-06,Missing Items,Refund Completed
+R001155,O019542,C01618,2025-05-04,Missing Items,Approved
+R001156,O019559,C09852,2024-09-06,Expired Product,Approved
+R001157,O019612,C07704,2024-08-17,Wrong Item,Refund Completed
+R001158,O019617,C01002,2025-02-07,Damaged Product,Approved
+R001159,O019633,C04850,2025-09-28,Wrong Item,Refund Completed
+R001160,O019649,C06263,2026-06-27,Customer Changed Mind,Refund Completed
+R001161,O019671,C03486,2025-03-19,Customer Changed Mind,Approved
+R001162,O019732,C02339,2025-05-14,Missing Items,Approved
+R001163,O019741,C06111,2024-11-10,Expired Product,Approved
+R001164,O019760,C01542,2025-04-27,Customer Changed Mind,Refund Completed
+R001165,O019765,C06624,2026-07-21,Missing Items,Refund Completed
+R001166,O019779,C09705,2026-07-11,Damaged Product,Approved
+R001167,O019781,C00452,2026-05-11,Missing Items,Rejected
+R001168,O019786,C04970,2026-04-03,Missing Items,Approved
+R001169,O019831,C06515,2024-11-03,Wrong Item,Refund Completed
+R001170,O019835,C05892,2026-02-01,Customer Changed Mind,Approved
+R001171,O019837,C09277,2026-02-03,Damaged Product,Approved
+R001172,O019851,C02616,2025-11-29,Poor Quality,Approved
+R001173,O019866,C06459,2025-08-02,Expired Product,Refund Completed
+R001174,O019876,C09450,2026-01-10,Wrong Item,Approved
+R001175,O019896,C06422,2024-10-21,Customer Changed Mind,Refund Completed
+R001176,O019902,C02119,2025-06-26,Wrong Item,Approved
+R001177,O019915,C02429,2025-05-27,Missing Items,Approved
+R001178,O019922,C08863,2024-12-21,Wrong Item,Approved
+R001179,O019931,C00880,2024-10-16,Damaged Product,Approved
+R001180,O019943,C03534,2026-03-12,Missing Items,Approved
+R001181,O019946,C06591,2024-10-29,Expired Product,Refund Completed
+R001182,O019963,C06616,2025-11-21,Damaged Product,Approved
+R001183,O019965,C07614,2025-08-08,Customer Changed Mind,Refund Completed
+R001184,O019980,C05762,2024-08-21,Poor Quality,Refund Completed
+R001185,O020035,C05108,2025-03-16,Missing Items,Approved
+R001186,O020051,C07871,2026-02-15,Damaged Product,Refund Completed
+R001187,O020070,C04209,2025-09-14,Missing Items,Refund Completed
+R001188,O020083,C08202,2025-07-28,Expired Product,Rejected
+R001189,O020109,C09008,2025-01-13,Customer Changed Mind,Approved
+R001190,O020118,C06401,2026-06-25,Poor Quality,Refund Completed
+R001191,O020125,C04632,2025-05-28,Poor Quality,Refund Completed
+R001192,O020129,C08931,2026-03-20,Damaged Product,Approved
+R001193,O020153,C04893,2025-11-08,Wrong Item,Approved
+R001194,O020156,C08728,2024-12-22,Wrong Item,Refund Completed
+R001195,O020194,C03885,2025-08-03,Expired Product,Refund Completed
+R001196,O020221,C03353,2025-03-31,Missing Items,Refund Completed
+R001197,O020229,C04598,2024-10-08,Damaged Product,Rejected
+R001198,O020253,C08715,2025-07-16,Expired Product,Rejected
+R001199,O020264,C00323,2026-03-26,Customer Changed Mind,Approved
+R001200,O020269,C08531,2026-06-17,Missing Items,Approved
+R001201,O020281,C02290,2025-07-30,Missing Items,Refund Completed
+R001202,O020300,C03106,2026-03-21,Wrong Item,Refund Completed
+R001203,O020314,C06660,2024-11-16,Poor Quality,Refund Completed
+R001204,O020392,C02152,2026-08-06,Missing Items,Refund Completed
+R001205,O020417,C00963,2025-11-20,Expired Product,Refund Completed
+R001206,O020423,C03559,2025-02-06,Missing Items,Refund Completed
+R001207,O020446,C01351,2024-10-11,Customer Changed Mind,Approved
+R001208,O020460,C00386,2025-08-24,Customer Changed Mind,Rejected
+R001209,O020507,C09360,2025-03-26,Poor Quality,Approved
+R001210,O020525,C03080,2025-08-05,Wrong Item,Approved
+R001211,O020543,C06958,2026-06-30,Expired Product,Rejected
+R001212,O020557,C06570,2025-02-22,Missing Items,Approved
+R001213,O020564,C08922,2025-01-09,Customer Changed Mind,Approved
+R001214,O020579,C00173,2025-12-19,Poor Quality,Refund Completed
+R001215,O020612,C01716,2025-05-05,Poor Quality,Approved
+R001216,O020649,C02607,2024-08-19,Damaged Product,Refund Completed
+R001217,O020668,C03430,2026-03-08,Customer Changed Mind,Approved
+R001218,O020673,C02630,2026-02-17,Expired Product,Refund Completed
+R001219,O020674,C09364,2025-07-29,Customer Changed Mind,Refund Completed
+R001220,O020678,C00884,2025-06-28,Missing Items,Refund Completed
+R001221,O020689,C05216,2024-12-19,Wrong Item,Approved
+R001222,O020704,C04079,2026-04-25,Customer Changed Mind,Approved
+R001223,O020706,C09078,2024-10-25,Customer Changed Mind,Refund Completed
+R001224,O020713,C07657,2025-11-27,Damaged Product,Refund Completed
+R001225,O020732,C02681,2025-11-13,Expired Product,Approved
+R001226,O020751,C00007,2025-08-26,Damaged Product,Refund Completed
+R001227,O020800,C06462,2025-08-18,Damaged Product,Refund Completed
+R001228,O020803,C00717,2024-12-18,Wrong Item,Approved
+R001229,O020816,C00311,2025-11-03,Wrong Item,Refund Completed
+R001230,O020822,C01028,2024-12-02,Poor Quality,Approved
+R001231,O020833,C08878,2026-04-24,Damaged Product,Approved
+R001232,O020849,C01395,2024-10-14,Damaged Product,Refund Completed
+R001233,O020898,C06906,2025-05-27,Damaged Product,Approved
+R001234,O020906,C00112,2026-01-16,Customer Changed Mind,Approved
+R001235,O020910,C01013,2024-11-12,Customer Changed Mind,Approved
+R001236,O020929,C05126,2025-08-03,Missing Items,Refund Completed
+R001237,O020932,C07406,2026-06-17,Poor Quality,Refund Completed
+R001238,O020941,C05861,2024-09-05,Damaged Product,Rejected
+R001239,O020952,C02729,2025-04-07,Expired Product,Rejected
+R001240,O020973,C09852,2024-09-16,Damaged Product,Refund Completed
+R001241,O020976,C02905,2026-04-09,Expired Product,Approved
+R001242,O021018,C04622,2024-12-10,Wrong Item,Refund Completed
+R001243,O021052,C02506,2025-07-12,Customer Changed Mind,Refund Completed
+R001244,O021063,C02034,2024-10-02,Missing Items,Refund Completed
+R001245,O021064,C02652,2026-02-04,Wrong Item,Refund Completed
+R001246,O021091,C01228,2024-11-20,Poor Quality,Refund Completed
+R001247,O021092,C06010,2026-03-07,Missing Items,Rejected
+R001248,O021128,C00884,2026-01-30,Expired Product,Approved
+R001249,O021177,C05826,2024-08-08,Wrong Item,Refund Completed
+R001250,O021187,C00916,2025-01-23,Expired Product,Refund Completed
+R001251,O021227,C01543,2025-04-30,Wrong Item,Refund Completed
+R001252,O021244,C00050,2026-03-09,Poor Quality,Refund Completed
+R001253,O021246,C08577,2026-03-31,Missing Items,Refund Completed
+R001254,O021262,C08682,2025-06-09,Expired Product,Refund Completed
+R001255,O021271,C09187,2026-05-04,Poor Quality,Approved
+R001256,O021273,C03438,2026-01-01,Damaged Product,Refund Completed
+R001257,O021274,C09278,2025-02-09,Poor Quality,Refund Completed
+R001258,O021298,C05586,2025-01-09,Wrong Item,Refund Completed
+R001259,O021330,C08979,2025-07-18,Wrong Item,Approved
+R001260,O021333,C03000,2025-06-23,Damaged Product,Approved
+R001261,O021338,C00424,2025-07-18,Customer Changed Mind,Refund Completed
+R001262,O021345,C00968,2025-06-25,Expired Product,Refund Completed
+R001263,O021352,C01365,2024-11-06,Missing Items,Approved
+R001264,O021360,C03440,2026-07-15,Damaged Product,Refund Completed
+R001265,O021366,C08520,2025-12-05,Poor Quality,Refund Completed
+R001266,O021381,C02675,2026-05-30,Customer Changed Mind,Refund Completed
+R001267,O021388,C08412,2025-09-19,Missing Items,Approved
+R001268,O021389,C03235,2026-02-13,Damaged Product,Approved
+R001269,O021414,C04583,2025-10-23,Customer Changed Mind,Approved
+R001270,O021442,C06983,2025-06-24,Customer Changed Mind,Refund Completed
+R001271,O021448,C09814,2025-05-19,Missing Items,Approved
+R001272,O021467,C09680,2025-09-30,Missing Items,Refund Completed
+R001273,O021472,C01703,2025-05-05,Damaged Product,Refund Completed
+R001274,O021493,C02329,2026-01-17,Expired Product,Approved
+R001275,O021494,C03460,2026-02-04,Missing Items,Refund Completed
+R001276,O021506,C05064,2025-09-11,Customer Changed Mind,Approved
+R001277,O021514,C09318,2025-07-14,Missing Items,Refund Completed
+R001278,O021515,C06809,2026-02-08,Wrong Item,Refund Completed
+R001279,O021522,C01142,2025-02-27,Missing Items,Refund Completed
+R001280,O021529,C09066,2025-09-21,Damaged Product,Refund Completed
+R001281,O021532,C00713,2025-10-28,Poor Quality,Refund Completed
+R001282,O021534,C05611,2025-06-12,Wrong Item,Refund Completed
+R001283,O021543,C04439,2025-11-15,Expired Product,Approved
+R001284,O021576,C07714,2024-11-02,Poor Quality,Approved
+R001285,O021622,C00886,2025-05-04,Customer Changed Mind,Refund Completed
+R001286,O021637,C07708,2026-03-13,Poor Quality,Refund Completed
+R001287,O021655,C05594,2025-10-05,Wrong Item,Approved
+R001288,O021752,C02805,2026-07-24,Expired Product,Approved
+R001289,O021780,C03710,2025-11-03,Missing Items,Approved
+R001290,O021783,C07312,2026-05-11,Expired Product,Approved
+R001291,O021868,C05538,2025-05-28,Expired Product,Refund Completed
+R001292,O021874,C06249,2024-09-08,Missing Items,Approved
+R001293,O021876,C02754,2026-04-25,Damaged Product,Refund Completed
+R001294,O021892,C00845,2026-06-05,Customer Changed Mind,Approved
+R001295,O021898,C02098,2025-07-12,Missing Items,Refund Completed
+R001296,O021971,C05642,2026-07-03,Wrong Item,Approved
+R001297,O022011,C07642,2026-04-03,Poor Quality,Refund Completed
+R001298,O022015,C00033,2026-07-12,Expired Product,Rejected
+R001299,O022026,C01889,2025-11-02,Damaged Product,Approved
+R001300,O022047,C08241,2025-07-15,Damaged Product,Refund Completed
+R001301,O022057,C05673,2026-03-07,Wrong Item,Rejected
+R001302,O022123,C09277,2026-06-17,Expired Product,Approved
+R001303,O022182,C02751,2025-07-31,Customer Changed Mind,Approved
+R001304,O022211,C02571,2025-10-09,Damaged Product,Refund Completed
+R001305,O022215,C04412,2026-07-03,Damaged Product,Refund Completed
+R001306,O022229,C04806,2025-06-27,Customer Changed Mind,Approved
+R001307,O022271,C05389,2026-04-03,Expired Product,Refund Completed
+R001308,O022274,C03880,2026-01-15,Expired Product,Approved
+R001309,O022283,C08469,2026-05-22,Wrong Item,Approved
+R001310,O022309,C07579,2026-05-18,Poor Quality,Refund Completed
+R001311,O022315,C05213,2025-10-01,Poor Quality,Refund Completed
+R001312,O022329,C08157,2025-09-11,Expired Product,Approved
+R001313,O022378,C01138,2025-12-07,Wrong Item,Refund Completed
+R001314,O022391,C08075,2025-02-04,Expired Product,Approved
+R001315,O022412,C06175,2025-11-01,Missing Items,Refund Completed
+R001316,O022414,C09562,2024-09-07,Wrong Item,Approved
+R001317,O022416,C05898,2024-08-27,Poor Quality,Approved
+R001318,O022425,C02968,2024-09-30,Missing Items,Approved
+R001319,O022427,C09495,2025-03-28,Poor Quality,Approved
+R001320,O022437,C07229,2026-07-06,Expired Product,Approved
+R001321,O022524,C00089,2026-02-08,Poor Quality,Refund Completed
+R001322,O022562,C00291,2025-09-07,Missing Items,Approved
+R001323,O022572,C00082,2024-11-16,Wrong Item,Approved
+R001324,O022583,C02765,2026-03-10,Damaged Product,Refund Completed
+R001325,O022589,C06047,2025-06-27,Missing Items,Refund Completed
+R001326,O022590,C07772,2025-12-31,Poor Quality,Approved
+R001327,O022597,C03810,2025-09-20,Customer Changed Mind,Refund Completed
+R001328,O022609,C07252,2024-10-29,Damaged Product,Approved
+R001329,O022620,C06085,2025-09-14,Customer Changed Mind,Refund Completed
+R001330,O022629,C09716,2026-06-27,Customer Changed Mind,Approved
+R001331,O022666,C08530,2025-12-04,Customer Changed Mind,Approved
+R001332,O022689,C02213,2024-12-19,Poor Quality,Refund Completed
+R001333,O022700,C09958,2025-11-21,Wrong Item,Approved
+R001334,O022746,C06318,2025-11-08,Poor Quality,Refund Completed
+R001335,O022759,C05635,2024-11-11,Customer Changed Mind,Rejected
+R001336,O022760,C06017,2025-12-26,Wrong Item,Approved
+R001337,O022762,C09100,2024-09-25,Wrong Item,Refund Completed
+R001338,O022769,C06627,2026-06-19,Poor Quality,Refund Completed
+R001339,O022789,C07652,2025-11-07,Customer Changed Mind,Refund Completed
+R001340,O022793,C00548,2024-09-12,Poor Quality,Refund Completed
+R001341,O022823,C05702,2024-11-11,Wrong Item,Refund Completed
+R001342,O022831,C01789,2025-03-15,Customer Changed Mind,Rejected
+R001343,O022847,C09953,2026-06-03,Damaged Product,Refund Completed
+R001344,O022851,C04255,2025-04-24,Customer Changed Mind,Rejected
+R001345,O022862,C07765,2025-03-21,Wrong Item,Approved
+R001346,O022881,C05747,2025-04-27,Wrong Item,Rejected
+R001347,O022911,C05522,2025-01-13,Poor Quality,Refund Completed
+R001348,O022912,C09670,2026-06-24,Damaged Product,Approved
+R001349,O022929,C07875,2026-06-15,Missing Items,Approved
+R001350,O022940,C03047,2026-04-28,Customer Changed Mind,Refund Completed
+R001351,O022948,C04059,2025-08-27,Poor Quality,Approved
+R001352,O022956,C03986,2026-07-30,Customer Changed Mind,Approved
+R001353,O022961,C00479,2025-07-12,Expired Product,Refund Completed
+R001354,O022983,C09807,2026-02-05,Damaged Product,Refund Completed
+R001355,O022987,C01881,2026-06-28,Expired Product,Approved
+R001356,O023003,C09248,2026-05-05,Poor Quality,Approved
+R001357,O023027,C02057,2025-02-15,Customer Changed Mind,Approved
+R001358,O023054,C08584,2024-08-31,Customer Changed Mind,Approved
+R001359,O023060,C06105,2025-09-20,Poor Quality,Approved
+R001360,O023076,C06759,2026-05-31,Missing Items,Refund Completed
+R001361,O023121,C04706,2024-08-12,Customer Changed Mind,Approved
+R001362,O023125,C07819,2026-05-17,Customer Changed Mind,Approved
+R001363,O023127,C00116,2025-10-18,Wrong Item,Refund Completed
+R001364,O023131,C03751,2025-06-05,Expired Product,Refund Completed
+R001365,O023135,C04848,2025-08-19,Damaged Product,Refund Completed
+R001366,O023136,C08142,2025-11-24,Wrong Item,Refund Completed
+R001367,O023152,C07647,2026-06-06,Expired Product,Approved
+R001368,O023184,C08015,2025-05-15,Wrong Item,Rejected
+R001369,O023195,C01019,2026-03-30,Wrong Item,Refund Completed
+R001370,O023206,C00092,2026-02-20,Missing Items,Refund Completed
+R001371,O023209,C01510,2026-04-27,Customer Changed Mind,Refund Completed
+R001372,O023223,C03591,2025-06-07,Customer Changed Mind,Refund Completed
+R001373,O023229,C04087,2025-06-09,Missing Items,Approved
+R001374,O023232,C09607,2026-06-17,Expired Product,Approved
+R001375,O023312,C06258,2025-01-24,Damaged Product,Refund Completed
+R001376,O023340,C03656,2026-07-23,Missing Items,Refund Completed
+R001377,O023344,C09917,2024-11-29,Expired Product,Refund Completed
+R001378,O023365,C02289,2024-09-13,Wrong Item,Approved
+R001379,O023376,C07604,2024-11-17,Wrong Item,Refund Completed
+R001380,O023441,C00721,2025-05-16,Wrong Item,Refund Completed
+R001381,O023454,C07810,2024-09-06,Poor Quality,Approved
+R001382,O023470,C06687,2025-04-01,Missing Items,Rejected
+R001383,O023497,C00549,2024-11-24,Damaged Product,Refund Completed
+R001384,O023515,C07664,2025-05-06,Missing Items,Approved
+R001385,O023525,C08481,2026-03-03,Wrong Item,Refund Completed
+R001386,O023532,C02337,2026-01-17,Expired Product,Rejected
+R001387,O023599,C02039,2025-07-10,Wrong Item,Rejected
+R001388,O023640,C08692,2024-08-16,Wrong Item,Refund Completed
+R001389,O023652,C03340,2025-03-16,Customer Changed Mind,Approved
+R001390,O023663,C03572,2026-05-25,Missing Items,Approved
+R001391,O023677,C01583,2025-08-19,Damaged Product,Refund Completed
+R001392,O023696,C04700,2024-10-08,Customer Changed Mind,Approved
+R001393,O023717,C02988,2025-04-30,Wrong Item,Refund Completed
+R001394,O023732,C05789,2024-11-11,Expired Product,Refund Completed
+R001395,O023748,C07093,2025-07-06,Expired Product,Refund Completed
+R001396,O023764,C07491,2025-10-19,Wrong Item,Refund Completed
+R001397,O023783,C01021,2026-01-25,Missing Items,Refund Completed
+R001398,O023799,C09470,2026-07-17,Damaged Product,Refund Completed
+R001399,O023862,C07888,2026-01-24,Poor Quality,Approved
+R001400,O023882,C00176,2026-06-01,Wrong Item,Refund Completed
+R001401,O023889,C03537,2026-06-05,Poor Quality,Approved
+R001402,O023896,C02653,2025-04-17,Missing Items,Refund Completed
+R001403,O023925,C00351,2025-01-03,Customer Changed Mind,Approved
+R001404,O023933,C01896,2025-11-29,Wrong Item,Approved
+R001405,O023949,C02986,2025-01-11,Missing Items,Rejected
+R001406,O023962,C02393,2025-04-20,Wrong Item,Approved
+R001407,O023978,C06914,2024-09-16,Damaged Product,Refund Completed
+R001408,O023979,C09795,2025-08-14,Damaged Product,Refund Completed
+R001409,O024001,C01039,2025-02-07,Missing Items,Refund Completed
+R001410,O024021,C06923,2025-10-30,Expired Product,Approved
+R001411,O024031,C09780,2026-04-07,Poor Quality,Refund Completed
+R001412,O024048,C04174,2025-07-19,Missing Items,Refund Completed
+R001413,O024065,C05181,2025-10-21,Wrong Item,Approved
+R001414,O024068,C05736,2026-07-22,Damaged Product,Refund Completed
+R001415,O024090,C00494,2024-08-22,Damaged Product,Refund Completed
+R001416,O024094,C07651,2025-01-21,Poor Quality,Rejected
+R001417,O024111,C00734,2024-08-18,Customer Changed Mind,Refund Completed
+R001418,O024117,C01882,2025-06-04,Missing Items,Refund Completed
+R001419,O024122,C06968,2025-10-21,Customer Changed Mind,Rejected
+R001420,O024143,C06987,2024-09-26,Wrong Item,Refund Completed
+R001421,O024151,C04539,2026-01-09,Damaged Product,Refund Completed
+R001422,O024157,C00464,2025-11-13,Customer Changed Mind,Approved
+R001423,O024188,C02659,2025-05-07,Damaged Product,Approved
+R001424,O024236,C08118,2025-10-19,Missing Items,Refund Completed
+R001425,O024297,C05558,2026-01-25,Damaged Product,Refund Completed
+R001426,O024312,C05793,2024-12-22,Missing Items,Refund Completed
+R001427,O024328,C09208,2024-12-01,Wrong Item,Approved
+R001428,O024336,C00725,2026-03-27,Damaged Product,Approved
+R001429,O024359,C08534,2024-10-31,Poor Quality,Refund Completed
+R001430,O024365,C06337,2024-09-04,Missing Items,Refund Completed
+R001431,O024368,C08175,2025-04-25,Poor Quality,Refund Completed
+R001432,O024375,C04334,2024-08-16,Damaged Product,Approved
+R001433,O024376,C07692,2026-02-17,Damaged Product,Refund Completed
+R001434,O024383,C00457,2025-12-10,Expired Product,Refund Completed
+R001435,O024395,C07061,2024-09-23,Damaged Product,Approved
+R001436,O024404,C07595,2025-02-19,Wrong Item,Approved
+R001437,O024409,C07032,2024-09-07,Poor Quality,Approved
+R001438,O024426,C05860,2026-04-05,Customer Changed Mind,Approved
+R001439,O024434,C02318,2026-02-07,Expired Product,Approved
+R001440,O024478,C07305,2026-03-08,Wrong Item,Refund Completed
+R001441,O024496,C03730,2026-04-07,Wrong Item,Approved
+R001442,O024507,C07574,2025-09-12,Wrong Item,Refund Completed
+R001443,O024510,C02897,2026-03-06,Missing Items,Rejected
+R001444,O024513,C02007,2024-09-28,Wrong Item,Refund Completed
+R001445,O024523,C00005,2026-07-28,Customer Changed Mind,Approved
+R001446,O024574,C04034,2025-01-05,Wrong Item,Approved
+R001447,O024639,C09837,2025-09-08,Damaged Product,Approved
+R001448,O024646,C00851,2025-01-03,Wrong Item,Refund Completed
+R001449,O024649,C06091,2024-09-24,Damaged Product,Refund Completed
+R001450,O024655,C02196,2024-08-14,Customer Changed Mind,Refund Completed
+R001451,O024676,C04154,2025-02-22,Missing Items,Refund Completed
+R001452,O024678,C08425,2026-03-19,Customer Changed Mind,Refund Completed
+R001453,O024696,C01478,2024-09-19,Expired Product,Refund Completed
+R001454,O024697,C02135,2026-06-13,Expired Product,Refund Completed
+R001455,O024708,C08862,2024-10-14,Wrong Item,Approved
+R001456,O024732,C08459,2025-11-24,Poor Quality,Refund Completed
+R001457,O024733,C08016,2025-02-10,Wrong Item,Approved
+R001458,O024747,C03893,2026-06-12,Missing Items,Refund Completed
+R001459,O024749,C00054,2025-04-30,Missing Items,Approved
+R001460,O024780,C04945,2025-02-18,Damaged Product,Refund Completed
+R001461,O024797,C06764,2025-06-02,Wrong Item,Refund Completed
+R001462,O024828,C07301,2026-03-28,Damaged Product,Refund Completed
+R001463,O024836,C05982,2026-05-15,Damaged Product,Refund Completed
+R001464,O024844,C08740,2024-12-13,Expired Product,Refund Completed
+R001465,O024891,C08494,2025-08-19,Damaged Product,Rejected
+R001466,O024911,C05356,2025-06-23,Wrong Item,Refund Completed
+R001467,O024945,C06203,2025-12-08,Damaged Product,Refund Completed
+R001468,O024961,C06522,2025-03-03,Poor Quality,Refund Completed
+R001469,O024973,C03303,2025-08-27,Poor Quality,Approved
+R001470,O024981,C06975,2024-10-07,Expired Product,Refund Completed
+R001471,O025006,C06376,2025-06-06,Missing Items,Refund Completed
+R001472,O025011,C04030,2025-04-21,Customer Changed Mind,Refund Completed
+R001473,O025018,C00979,2025-07-19,Poor Quality,Refund Completed
+R001474,O025027,C08246,2026-06-07,Customer Changed Mind,Refund Completed
+R001475,O025043,C04364,2025-09-21,Damaged Product,Refund Completed
+R001476,O025062,C09344,2026-06-07,Customer Changed Mind,Rejected
+R001477,O025089,C09509,2026-06-05,Missing Items,Refund Completed
+R001478,O025098,C07066,2024-08-08,Expired Product,Refund Completed
+R001479,O025101,C01183,2025-04-09,Missing Items,Approved
+R001480,O025119,C05105,2024-09-12,Damaged Product,Approved
+R001481,O025134,C05441,2025-01-19,Missing Items,Refund Completed
+R001482,O025143,C07799,2025-05-20,Damaged Product,Approved
+R001483,O025166,C07072,2026-06-16,Wrong Item,Approved
+R001484,O025169,C08214,2026-02-03,Damaged Product,Approved
+R001485,O025171,C01653,2024-10-22,Poor Quality,Rejected
+R001486,O025186,C04584,2026-03-22,Expired Product,Refund Completed
+R001487,O025239,C06706,2025-06-07,Customer Changed Mind,Approved
+R001488,O025262,C09342,2026-07-31,Damaged Product,Approved
+R001489,O025280,C04491,2025-12-14,Missing Items,Refund Completed
+R001490,O025284,C09518,2026-03-01,Poor Quality,Approved
+R001491,O025315,C02766,2024-08-28,Customer Changed Mind,Refund Completed
+R001492,O025362,C06656,2024-11-22,Poor Quality,Approved
+R001493,O025389,C03866,2025-07-24,Damaged Product,Approved
+R001494,O025393,C05741,2025-10-25,Poor Quality,Approved
+R001495,O025419,C09825,2025-03-24,Wrong Item,Refund Completed
+R001496,O025426,C09112,2026-04-14,Damaged Product,Refund Completed
+R001497,O025444,C01802,2025-10-10,Poor Quality,Approved
+R001498,O025449,C01503,2026-07-02,Missing Items,Refund Completed
+R001499,O025456,C06372,2025-12-26,Damaged Product,Approved
+R001500,O025487,C05982,2025-10-04,Customer Changed Mind,Refund Completed
+R001501,O025510,C07402,2026-07-16,Missing Items,Refund Completed
+R001502,O025554,C08185,2025-06-25,Poor Quality,Refund Completed
+R001503,O025558,C08705,2026-04-15,Customer Changed Mind,Refund Completed
+R001504,O025562,C02640,2024-11-11,Wrong Item,Rejected
+R001505,O025563,C04092,2026-03-19,Poor Quality,Rejected
+R001506,O025567,C09660,2025-12-14,Wrong Item,Refund Completed
+R001507,O025594,C03041,2025-03-29,Customer Changed Mind,Approved
+R001508,O025603,C04961,2024-09-23,Damaged Product,Approved
+R001509,O025611,C09516,2024-12-09,Wrong Item,Refund Completed
+R001510,O025623,C09892,2026-06-19,Customer Changed Mind,Refund Completed
+R001511,O025632,C09626,2025-11-23,Wrong Item,Approved
+R001512,O025637,C07720,2025-08-22,Wrong Item,Refund Completed
+R001513,O025642,C07199,2025-11-18,Customer Changed Mind,Refund Completed
+R001514,O025690,C00669,2025-01-08,Missing Items,Approved
+R001515,O025710,C06037,2025-12-21,Customer Changed Mind,Approved
+R001516,O025745,C09457,2025-02-20,Customer Changed Mind,Refund Completed
+R001517,O025762,C02876,2026-07-28,Missing Items,Approved
+R001518,O025782,C07712,2025-11-11,Damaged Product,Approved
+R001519,O025788,C05229,2025-03-28,Customer Changed Mind,Refund Completed
+R001520,O025792,C08639,2025-11-05,Damaged Product,Refund Completed
+R001521,O025795,C04768,2026-06-24,Missing Items,Refund Completed
+R001522,O025800,C00055,2025-10-13,Wrong Item,Approved
+R001523,O025805,C08676,2026-07-23,Expired Product,Rejected
+R001524,O025811,C03330,2026-01-14,Expired Product,Refund Completed
+R001525,O025813,C00374,2026-07-26,Damaged Product,Refund Completed
+R001526,O025814,C09547,2026-01-12,Damaged Product,Refund Completed
+R001527,O025861,C01724,2024-08-29,Wrong Item,Refund Completed
+R001528,O025883,C02969,2026-06-26,Wrong Item,Approved
+R001529,O025890,C00413,2024-09-25,Customer Changed Mind,Refund Completed
+R001530,O025917,C02966,2025-04-02,Damaged Product,Approved
+R001531,O025941,C00530,2024-09-28,Poor Quality,Refund Completed
+R001532,O025950,C03821,2024-10-05,Poor Quality,Approved
+R001533,O025951,C00952,2025-11-18,Customer Changed Mind,Refund Completed
+R001534,O025957,C09778,2026-07-28,Customer Changed Mind,Rejected
+R001535,O025966,C01093,2026-05-29,Missing Items,Refund Completed
+R001536,O025968,C03272,2024-11-29,Missing Items,Refund Completed
+R001537,O025979,C09176,2025-03-01,Damaged Product,Refund Completed
+R001538,O025982,C06244,2025-07-16,Customer Changed Mind,Refund Completed
+R001539,O025985,C01529,2025-01-25,Customer Changed Mind,Refund Completed
+R001540,O025991,C01919,2026-03-08,Expired Product,Approved
+R001541,O026010,C00239,2026-02-26,Expired Product,Refund Completed
+R001542,O026045,C05275,2026-07-29,Customer Changed Mind,Refund Completed
+R001543,O026061,C09523,2025-03-28,Missing Items,Refund Completed
+R001544,O026076,C08300,2024-09-30,Customer Changed Mind,Rejected
+R001545,O026142,C06515,2025-10-31,Expired Product,Refund Completed
+R001546,O026157,C08222,2025-12-29,Expired Product,Rejected
+R001547,O026169,C07863,2025-12-06,Wrong Item,Refund Completed
+R001548,O026176,C05063,2026-04-20,Customer Changed Mind,Refund Completed
+R001549,O026216,C02214,2025-09-15,Missing Items,Refund Completed
+R001550,O026234,C09442,2024-10-06,Missing Items,Refund Completed
+R001551,O026255,C02021,2025-08-03,Missing Items,Approved
+R001552,O026257,C03164,2026-05-26,Customer Changed Mind,Approved
+R001553,O026273,C05043,2026-07-03,Customer Changed Mind,Rejected
+R001554,O026274,C09329,2024-09-23,Customer Changed Mind,Approved
+R001555,O026283,C06680,2025-11-10,Missing Items,Approved
+R001556,O026309,C02315,2026-06-17,Expired Product,Refund Completed
+R001557,O026322,C01588,2025-07-22,Poor Quality,Refund Completed
+R001558,O026326,C00212,2025-08-14,Poor Quality,Refund Completed
+R001559,O026338,C09286,2026-07-05,Expired Product,Approved
+R001560,O026358,C09837,2025-06-02,Poor Quality,Refund Completed
+R001561,O026379,C03623,2024-11-14,Wrong Item,Refund Completed
+R001562,O026408,C04636,2025-10-20,Customer Changed Mind,Refund Completed
+R001563,O026422,C03638,2025-06-23,Missing Items,Refund Completed
+R001564,O026445,C03282,2025-10-02,Wrong Item,Approved
+R001565,O026452,C05576,2026-07-11,Expired Product,Refund Completed
+R001566,O026502,C07487,2025-02-14,Expired Product,Rejected
+R001567,O026529,C03565,2024-11-12,Damaged Product,Approved
+R001568,O026534,C01418,2025-08-19,Poor Quality,Approved
+R001569,O026566,C05162,2025-02-12,Damaged Product,Approved
+R001570,O026570,C02351,2025-08-28,Missing Items,Refund Completed
+R001571,O026572,C03071,2025-02-05,Poor Quality,Refund Completed
+R001572,O026629,C01485,2025-12-26,Damaged Product,Refund Completed
+R001573,O026645,C04795,2026-06-20,Poor Quality,Refund Completed
+R001574,O026653,C07117,2024-11-20,Customer Changed Mind,Refund Completed
+R001575,O026657,C07776,2024-08-09,Expired Product,Approved
+R001576,O026679,C04835,2025-12-04,Poor Quality,Refund Completed
+R001577,O026698,C00197,2025-08-16,Customer Changed Mind,Refund Completed
+R001578,O026702,C08354,2025-06-19,Expired Product,Refund Completed
+R001579,O026722,C01528,2025-12-20,Poor Quality,Refund Completed
+R001580,O026752,C08578,2025-08-01,Poor Quality,Refund Completed
+R001581,O026757,C05793,2026-07-03,Missing Items,Refund Completed
+R001582,O026763,C07760,2025-09-29,Wrong Item,Refund Completed
+R001583,O026862,C05987,2026-03-26,Poor Quality,Approved
+R001584,O026886,C07178,2024-11-25,Customer Changed Mind,Approved
+R001585,O026899,C08939,2025-01-09,Wrong Item,Refund Completed
+R001586,O026905,C06278,2024-09-23,Wrong Item,Approved
+R001587,O026915,C04797,2026-05-16,Expired Product,Refund Completed
+R001588,O026919,C00636,2026-07-06,Poor Quality,Refund Completed
+R001589,O026978,C01338,2026-01-15,Wrong Item,Refund Completed
+R001590,O027000,C03236,2026-02-14,Expired Product,Refund Completed
+R001591,O027007,C08540,2025-03-27,Damaged Product,Refund Completed
+R001592,O027009,C06794,2026-07-15,Poor Quality,Approved
+R001593,O027013,C09080,2025-02-11,Customer Changed Mind,Approved
+R001594,O027019,C09810,2025-06-13,Expired Product,Approved
+R001595,O027047,C01803,2024-08-31,Poor Quality,Refund Completed
+R001596,O027062,C08058,2024-11-07,Wrong Item,Refund Completed
+R001597,O027076,C07862,2025-11-12,Wrong Item,Refund Completed
+R001598,O027087,C04112,2025-11-20,Wrong Item,Approved
+R001599,O027130,C03162,2025-06-11,Missing Items,Refund Completed
+R001600,O027141,C09792,2025-06-14,Poor Quality,Refund Completed
+R001601,O027180,C00083,2025-05-10,Expired Product,Refund Completed
+R001602,O027208,C00744,2025-01-04,Expired Product,Refund Completed
+R001603,O027215,C06843,2025-12-27,Damaged Product,Rejected
+R001604,O027228,C06100,2026-01-28,Damaged Product,Approved
+R001605,O027234,C05758,2025-08-12,Expired Product,Approved
+R001606,O027244,C00569,2026-01-07,Poor Quality,Refund Completed
+R001607,O027264,C09468,2025-02-10,Poor Quality,Refund Completed
+R001608,O027267,C04379,2025-07-20,Poor Quality,Approved
+R001609,O027287,C02114,2024-09-26,Expired Product,Refund Completed
+R001610,O027306,C00592,2024-10-20,Damaged Product,Approved
+R001611,O027322,C01183,2025-08-20,Damaged Product,Refund Completed
+R001612,O027333,C04062,2025-11-26,Customer Changed Mind,Approved
+R001613,O027340,C07634,2025-11-18,Missing Items,Approved
+R001614,O027343,C06734,2025-10-23,Expired Product,Refund Completed
+R001615,O027345,C07151,2025-02-01,Customer Changed Mind,Approved
+R001616,O027373,C04036,2026-06-28,Damaged Product,Approved
+R001617,O027376,C02696,2026-07-27,Customer Changed Mind,Approved
+R001618,O027381,C08571,2026-06-15,Expired Product,Refund Completed
+R001619,O027385,C02859,2026-07-18,Wrong Item,Refund Completed
+R001620,O027401,C06452,2026-04-18,Poor Quality,Approved
+R001621,O027404,C02030,2026-01-21,Customer Changed Mind,Approved
+R001622,O027409,C06141,2025-05-04,Missing Items,Approved
+R001623,O027434,C08301,2024-11-03,Damaged Product,Rejected
+R001624,O027444,C01232,2025-10-20,Expired Product,Refund Completed
+R001625,O027459,C04962,2024-08-27,Poor Quality,Rejected
+R001626,O027477,C04563,2026-02-20,Missing Items,Rejected
+R001627,O027490,C09530,2025-01-06,Wrong Item,Refund Completed
+R001628,O027504,C08374,2024-09-13,Missing Items,Refund Completed
+R001629,O027513,C00678,2025-06-23,Customer Changed Mind,Approved
+R001630,O027535,C05976,2026-05-26,Wrong Item,Approved
+R001631,O027569,C01656,2024-12-08,Damaged Product,Approved
+R001632,O027579,C06456,2026-02-14,Customer Changed Mind,Approved
+R001633,O027606,C02880,2025-07-06,Expired Product,Refund Completed
+R001634,O027609,C07105,2025-11-12,Poor Quality,Approved
+R001635,O027615,C07021,2024-10-22,Poor Quality,Rejected
+R001636,O027648,C04649,2026-06-06,Missing Items,Refund Completed
+R001637,O027666,C07389,2024-09-09,Customer Changed Mind,Refund Completed
+R001638,O027722,C05589,2025-06-15,Expired Product,Refund Completed
+R001639,O027723,C00691,2026-05-31,Customer Changed Mind,Refund Completed
+R001640,O027727,C04138,2026-02-06,Customer Changed Mind,Approved
+R001641,O027736,C00517,2026-04-20,Damaged Product,Refund Completed
+R001642,O027742,C03818,2025-12-08,Missing Items,Refund Completed
+R001643,O027789,C07264,2026-05-17,Damaged Product,Approved
+R001644,O027790,C01178,2026-04-15,Wrong Item,Approved
+R001645,O027798,C03234,2024-11-29,Damaged Product,Refund Completed
+R001646,O027800,C02583,2026-07-09,Wrong Item,Rejected
+R001647,O027818,C09069,2026-04-28,Poor Quality,Approved
+R001648,O027830,C03065,2025-04-06,Wrong Item,Refund Completed
+R001649,O027836,C02264,2025-03-21,Damaged Product,Approved
+R001650,O027854,C08089,2025-03-07,Missing Items,Refund Completed
+R001651,O027860,C05578,2026-02-04,Expired Product,Refund Completed
+R001652,O027863,C09659,2025-01-26,Poor Quality,Approved
+R001653,O027876,C02861,2026-05-30,Expired Product,Refund Completed
+R001654,O027881,C05683,2024-12-24,Damaged Product,Refund Completed
+R001655,O027888,C08626,2024-09-17,Missing Items,Refund Completed
+R001656,O027916,C08724,2026-02-22,Customer Changed Mind,Refund Completed
+R001657,O027926,C06197,2025-10-16,Missing Items,Rejected
+R001658,O027940,C03546,2025-01-07,Expired Product,Refund Completed
+R001659,O027948,C04482,2026-01-27,Customer Changed Mind,Approved
+R001660,O027955,C04812,2025-05-21,Customer Changed Mind,Approved
+R001661,O027967,C08982,2025-04-25,Customer Changed Mind,Approved
+R001662,O028009,C02074,2024-08-27,Expired Product,Refund Completed
+R001663,O028013,C02976,2025-04-19,Customer Changed Mind,Refund Completed
+R001664,O028018,C07628,2025-10-25,Damaged Product,Refund Completed
+R001665,O028027,C02003,2024-11-08,Poor Quality,Refund Completed
+R001666,O028065,C05233,2025-08-29,Expired Product,Approved
+R001667,O028089,C01261,2026-05-06,Wrong Item,Approved
+R001668,O028101,C03863,2024-11-04,Damaged Product,Approved
+R001669,O028108,C01113,2024-12-12,Wrong Item,Refund Completed
+R001670,O028110,C00297,2026-06-23,Poor Quality,Refund Completed
+R001671,O028145,C03414,2025-09-18,Customer Changed Mind,Refund Completed
+R001672,O028166,C07192,2026-06-10,Damaged Product,Refund Completed
+R001673,O028189,C00323,2024-08-13,Customer Changed Mind,Approved
+R001674,O028233,C01353,2025-07-04,Poor Quality,Approved
+R001675,O028266,C08347,2026-05-09,Customer Changed Mind,Approved
+R001676,O028279,C06210,2025-11-20,Poor Quality,Refund Completed
+R001677,O028296,C06021,2025-02-07,Missing Items,Approved
+R001678,O028311,C08026,2025-09-17,Wrong Item,Refund Completed
+R001679,O028321,C04561,2025-01-27,Poor Quality,Rejected
+R001680,O028325,C09095,2024-11-10,Missing Items,Approved
+R001681,O028331,C00438,2026-02-12,Expired Product,Refund Completed
+R001682,O028342,C01623,2026-05-27,Customer Changed Mind,Approved
+R001683,O028369,C06758,2024-08-22,Missing Items,Rejected
+R001684,O028376,C03269,2025-04-24,Damaged Product,Rejected
+R001685,O028405,C08474,2024-12-12,Damaged Product,Approved
+R001686,O028423,C01182,2026-06-27,Poor Quality,Refund Completed
+R001687,O028464,C00585,2026-03-14,Customer Changed Mind,Refund Completed
+R001688,O028468,C03918,2025-09-24,Poor Quality,Refund Completed
+R001689,O028485,C04400,2025-09-28,Customer Changed Mind,Approved
+R001690,O028504,C06807,2025-12-29,Customer Changed Mind,Rejected
+R001691,O028505,C05261,2025-01-14,Poor Quality,Refund Completed
+R001692,O028518,C04211,2025-08-29,Expired Product,Refund Completed
+R001693,O028531,C00332,2024-12-08,Customer Changed Mind,Refund Completed
+R001694,O028541,C08230,2026-02-03,Wrong Item,Refund Completed
+R001695,O028546,C08118,2024-08-15,Poor Quality,Approved
+R001696,O028547,C04080,2026-08-01,Damaged Product,Refund Completed
+R001697,O028551,C03724,2025-02-06,Expired Product,Approved
+R001698,O028588,C07935,2026-03-19,Poor Quality,Refund Completed
+R001699,O028617,C06529,2024-09-22,Wrong Item,Approved
+R001700,O028627,C03355,2025-03-22,Customer Changed Mind,Refund Completed
+R001701,O028651,C07016,2024-09-05,Customer Changed Mind,Refund Completed
+R001702,O028680,C09120,2026-05-01,Expired Product,Refund Completed
+R001703,O028749,C03032,2026-02-02,Poor Quality,Refund Completed
+R001704,O028751,C08551,2024-07-29,Wrong Item,Refund Completed
+R001705,O028759,C02163,2024-08-23,Poor Quality,Approved
+R001706,O028769,C04742,2026-04-11,Missing Items,Refund Completed
+R001707,O028770,C02673,2025-01-18,Missing Items,Refund Completed
+R001708,O028817,C05621,2025-02-27,Missing Items,Refund Completed
+R001709,O028850,C00122,2024-08-21,Expired Product,Refund Completed
+R001710,O028882,C01354,2025-09-16,Missing Items,Refund Completed
+R001711,O028883,C08446,2025-01-11,Expired Product,Approved
+R001712,O028985,C08176,2025-06-25,Poor Quality,Rejected
+R001713,O029015,C04108,2024-09-21,Expired Product,Refund Completed
+R001714,O029030,C08101,2025-08-01,Damaged Product,Refund Completed
+R001715,O029046,C09995,2024-10-24,Customer Changed Mind,Approved
+R001716,O029081,C00585,2024-11-16,Missing Items,Approved
+R001717,O029082,C08084,2025-09-18,Wrong Item,Approved
+R001718,O029086,C05585,2025-04-22,Missing Items,Approved
+R001719,O029092,C09171,2025-05-14,Poor Quality,Rejected
+R001720,O029129,C04254,2025-06-09,Damaged Product,Approved
+R001721,O029131,C08978,2024-10-10,Customer Changed Mind,Refund Completed
+R001722,O029159,C05078,2025-12-23,Wrong Item,Approved
+R001723,O029181,C07076,2025-07-16,Poor Quality,Refund Completed
+R001724,O029196,C01943,2026-01-16,Customer Changed Mind,Refund Completed
+R001725,O029213,C08704,2024-08-25,Customer Changed Mind,Refund Completed
+R001726,O029216,C08166,2024-09-24,Poor Quality,Refund Completed
+R001727,O029223,C02648,2025-12-19,Poor Quality,Approved
+R001728,O029230,C04897,2025-04-04,Missing Items,Refund Completed
+R001729,O029239,C02721,2025-01-04,Missing Items,Approved
+R001730,O029258,C01062,2025-02-05,Poor Quality,Approved
+R001731,O029262,C00349,2025-11-19,Damaged Product,Refund Completed
+R001732,O029264,C01227,2025-05-10,Customer Changed Mind,Approved
+R001733,O029278,C00087,2025-03-23,Expired Product,Refund Completed
+R001734,O029281,C09131,2025-09-06,Customer Changed Mind,Rejected
+R001735,O029292,C05400,2026-01-30,Customer Changed Mind,Refund Completed
+R001736,O029316,C09187,2025-10-28,Wrong Item,Refund Completed
+R001737,O029323,C06082,2025-01-06,Missing Items,Approved
+R001738,O029332,C07725,2026-03-15,Customer Changed Mind,Rejected
+R001739,O029339,C03104,2026-04-07,Expired Product,Rejected
+R001740,O029340,C08631,2025-12-20,Poor Quality,Refund Completed
+R001741,O029348,C04137,2025-01-26,Damaged Product,Refund Completed
+R001742,O029349,C00574,2025-11-27,Expired Product,Approved
+R001743,O029366,C04194,2024-11-29,Customer Changed Mind,Refund Completed
+R001744,O029409,C00654,2025-11-13,Missing Items,Refund Completed
+R001745,O029444,C05803,2026-04-08,Customer Changed Mind,Refund Completed
+R001746,O029458,C06883,2025-09-25,Expired Product,Refund Completed
+R001747,O029464,C05385,2024-08-08,Poor Quality,Approved
+R001748,O029484,C02686,2025-06-13,Damaged Product,Refund Completed
+R001749,O029493,C05550,2026-06-24,Wrong Item,Refund Completed
+R001750,O029500,C09246,2025-05-03,Customer Changed Mind,Rejected
+R001751,O029515,C08586,2024-08-07,Poor Quality,Approved
+R001752,O029518,C00477,2024-10-06,Damaged Product,Approved
+R001753,O029537,C01211,2025-07-09,Damaged Product,Refund Completed
+R001754,O029565,C00033,2025-06-25,Customer Changed Mind,Approved
+R001755,O029606,C04014,2025-02-02,Customer Changed Mind,Refund Completed
+R001756,O029649,C00023,2025-11-16,Missing Items,Refund Completed
+R001757,O029650,C09173,2025-10-24,Poor Quality,Rejected
+R001758,O029662,C01708,2024-09-22,Expired Product,Approved
+R001759,O029692,C02390,2024-08-11,Expired Product,Refund Completed
+R001760,O029693,C08999,2025-07-22,Customer Changed Mind,Rejected
+R001761,O029710,C08226,2025-04-23,Poor Quality,Refund Completed
+R001762,O029718,C01777,2025-02-26,Missing Items,Refund Completed
+R001763,O029748,C09080,2026-05-28,Customer Changed Mind,Refund Completed
+R001764,O029776,C08150,2025-09-03,Expired Product,Refund Completed
+R001765,O029783,C00541,2026-05-13,Customer Changed Mind,Refund Completed
+R001766,O029785,C08722,2024-11-26,Expired Product,Approved
+R001767,O029805,C09689,2025-04-15,Wrong Item,Rejected
+R001768,O029806,C03723,2025-12-22,Expired Product,Refund Completed
+R001769,O029813,C03054,2025-09-15,Damaged Product,Refund Completed
+R001770,O029831,C06720,2024-10-04,Missing Items,Rejected
+R001771,O029868,C06607,2025-06-05,Customer Changed Mind,Rejected
+R001772,O029871,C01372,2024-09-02,Wrong Item,Refund Completed
+R001773,O029926,C04012,2025-07-24,Damaged Product,Refund Completed
+R001774,O029927,C04182,2026-03-15,Expired Product,Approved
+R001775,O029939,C02982,2025-09-08,Damaged Product,Approved
+R001776,O030006,C06397,2025-02-25,Poor Quality,Refund Completed
+R001777,O030037,C00551,2025-06-20,Expired Product,Refund Completed
+R001778,O030046,C07823,2025-01-31,Damaged Product,Approved
+R001779,O030062,C02942,2024-08-04,Poor Quality,Approved
+R001780,O030066,C05605,2026-05-21,Customer Changed Mind,Refund Completed
+R001781,O030067,C09302,2026-01-16,Wrong Item,Refund Completed
+R001782,O030068,C02694,2025-12-06,Missing Items,Approved
+R001783,O030071,C09038,2026-07-14,Damaged Product,Approved
+R001784,O030076,C08284,2025-03-27,Damaged Product,Refund Completed
+R001785,O030077,C08702,2025-04-25,Wrong Item,Approved
+R001786,O030079,C03056,2025-08-01,Customer Changed Mind,Approved
+R001787,O030084,C08258,2025-07-16,Wrong Item,Refund Completed
+R001788,O030107,C04346,2025-06-07,Wrong Item,Refund Completed
+R001789,O030109,C07541,2025-01-24,Expired Product,Refund Completed
+R001790,O030116,C00755,2024-12-10,Wrong Item,Rejected
+R001791,O030138,C05636,2025-03-17,Missing Items,Refund Completed
+R001792,O030148,C04115,2025-10-20,Expired Product,Refund Completed
+R001793,O030149,C03633,2025-05-08,Missing Items,Approved
+R001794,O030158,C03029,2025-06-10,Customer Changed Mind,Approved
+R001795,O030161,C03046,2025-10-26,Damaged Product,Refund Completed
+R001796,O030169,C02763,2026-02-20,Expired Product,Approved
+R001797,O030173,C07231,2024-11-04,Poor Quality,Refund Completed
+R001798,O030184,C01600,2025-10-24,Customer Changed Mind,Approved
+R001799,O030195,C06561,2026-07-14,Poor Quality,Approved
+R001800,O030201,C02934,2024-11-30,Customer Changed Mind,Refund Completed
+R001801,O030210,C09427,2026-05-15,Damaged Product,Approved
+R001802,O030266,C00990,2026-07-23,Missing Items,Approved
+R001803,O030310,C05356,2025-12-12,Poor Quality,Refund Completed
+R001804,O030313,C00936,2025-12-01,Damaged Product,Refund Completed
+R001805,O030315,C08832,2025-05-06,Missing Items,Rejected
+R001806,O030320,C04575,2025-05-02,Poor Quality,Refund Completed
+R001807,O030324,C05141,2025-11-18,Damaged Product,Refund Completed
+R001808,O030325,C08026,2026-03-29,Missing Items,Refund Completed
+R001809,O030343,C06204,2025-01-18,Damaged Product,Approved
+R001810,O030369,C02618,2026-03-10,Expired Product,Approved
+R001811,O030380,C02582,2025-03-24,Damaged Product,Approved
+R001812,O030393,C00722,2026-02-14,Damaged Product,Refund Completed
+R001813,O030394,C08059,2025-12-05,Missing Items,Approved
+R001814,O030395,C04698,2026-01-16,Poor Quality,Refund Completed
+R001815,O030405,C07737,2026-05-06,Damaged Product,Approved
+R001816,O030406,C09677,2026-07-25,Customer Changed Mind,Refund Completed
+R001817,O030414,C04528,2026-03-28,Expired Product,Refund Completed
+R001818,O030429,C00747,2026-08-09,Expired Product,Refund Completed
+R001819,O030430,C05366,2024-11-15,Expired Product,Approved
+R001820,O030437,C05851,2024-08-08,Missing Items,Approved
+R001821,O030469,C06979,2024-12-25,Wrong Item,Approved
+R001822,O030474,C08852,2025-12-16,Missing Items,Refund Completed
+R001823,O030506,C04322,2024-10-12,Poor Quality,Refund Completed
+R001824,O030507,C04904,2025-01-08,Damaged Product,Refund Completed
+R001825,O030512,C02395,2026-02-21,Wrong Item,Approved
+R001826,O030523,C01101,2025-09-07,Damaged Product,Approved
+R001827,O030588,C03867,2024-10-28,Damaged Product,Refund Completed
+R001828,O030592,C02925,2025-10-02,Damaged Product,Approved
+R001829,O030636,C03974,2025-11-24,Wrong Item,Approved
+R001830,O030639,C07731,2025-11-08,Wrong Item,Refund Completed
+R001831,O030649,C01515,2024-12-14,Customer Changed Mind,Approved
+R001832,O030660,C04673,2024-10-16,Wrong Item,Refund Completed
+R001833,O030662,C03506,2025-03-10,Missing Items,Refund Completed
+R001834,O030682,C06434,2026-04-27,Expired Product,Refund Completed
+R001835,O030691,C06927,2025-10-16,Wrong Item,Refund Completed
+R001836,O030692,C01257,2025-06-16,Customer Changed Mind,Rejected
+R001837,O030712,C02866,2025-06-28,Damaged Product,Approved
+R001838,O030748,C01812,2024-08-25,Missing Items,Refund Completed
+R001839,O030766,C03289,2025-11-27,Damaged Product,Refund Completed
+R001840,O030792,C02808,2026-01-29,Missing Items,Approved
+R001841,O030805,C09244,2025-12-18,Expired Product,Rejected
+R001842,O030812,C01721,2025-03-16,Poor Quality,Refund Completed
+R001843,O030818,C09729,2026-07-22,Missing Items,Approved
+R001844,O030843,C03711,2025-06-01,Damaged Product,Approved
+R001845,O030876,C06075,2025-11-01,Wrong Item,Refund Completed
+R001846,O030883,C00921,2025-11-29,Customer Changed Mind,Refund Completed
+R001847,O030910,C00763,2025-10-07,Customer Changed Mind,Refund Completed
+R001848,O030920,C07840,2025-04-17,Poor Quality,Refund Completed
+R001849,O030923,C04630,2026-05-16,Missing Items,Approved
+R001850,O030935,C07248,2024-08-27,Expired Product,Approved
+R001851,O030937,C04703,2024-11-01,Expired Product,Approved
+R001852,O030944,C04625,2025-09-18,Customer Changed Mind,Refund Completed
+R001853,O030949,C02150,2024-12-11,Damaged Product,Refund Completed
+R001854,O030972,C03722,2026-07-18,Wrong Item,Refund Completed
+R001855,O030973,C03817,2025-12-09,Missing Items,Refund Completed
+R001856,O030982,C08332,2024-11-24,Wrong Item,Rejected
+R001857,O030990,C07416,2025-02-02,Customer Changed Mind,Rejected
+R001858,O030993,C01546,2025-11-17,Damaged Product,Approved
+R001859,O030994,C08307,2026-06-25,Damaged Product,Approved
+R001860,O030997,C06768,2025-10-21,Customer Changed Mind,Refund Completed
+R001861,O031003,C09470,2026-05-29,Damaged Product,Refund Completed
+R001862,O031007,C09107,2025-06-08,Damaged Product,Refund Completed
+R001863,O031052,C00626,2025-07-21,Wrong Item,Refund Completed
+R001864,O031068,C01714,2026-01-09,Wrong Item,Approved
+R001865,O031080,C01364,2025-06-25,Poor Quality,Approved
+R001866,O031093,C05651,2026-08-03,Poor Quality,Refund Completed
+R001867,O031130,C06581,2025-06-03,Expired Product,Rejected
+R001868,O031158,C04478,2025-03-14,Poor Quality,Approved
+R001869,O031174,C05749,2025-08-27,Customer Changed Mind,Rejected
+R001870,O031179,C05180,2024-12-07,Wrong Item,Refund Completed
+R001871,O031203,C02093,2024-10-26,Customer Changed Mind,Approved
+R001872,O031228,C07244,2026-01-08,Customer Changed Mind,Refund Completed
+R001873,O031230,C00135,2025-07-24,Damaged Product,Refund Completed
+R001874,O031236,C08604,2024-12-14,Customer Changed Mind,Approved
+R001875,O031242,C02989,2025-02-27,Customer Changed Mind,Refund Completed
+R001876,O031245,C07863,2026-04-02,Customer Changed Mind,Refund Completed
+R001877,O031262,C03320,2025-01-22,Damaged Product,Approved
+R001878,O031304,C08227,2026-03-27,Damaged Product,Approved
+R001879,O031309,C00582,2026-07-19,Customer Changed Mind,Approved
+R001880,O031348,C00010,2024-10-09,Damaged Product,Rejected
+R001881,O031352,C06310,2025-12-13,Damaged Product,Refund Completed
+R001882,O031358,C06388,2024-09-16,Customer Changed Mind,Refund Completed
+R001883,O031360,C05378,2026-03-16,Poor Quality,Approved
+R001884,O031363,C00246,2024-11-27,Damaged Product,Refund Completed
+R001885,O031371,C00080,2024-12-31,Poor Quality,Approved
+R001886,O031372,C05620,2026-06-26,Customer Changed Mind,Refund Completed
+R001887,O031391,C07838,2025-03-25,Customer Changed Mind,Approved
+R001888,O031491,C02085,2025-10-14,Wrong Item,Approved
+R001889,O031504,C05171,2025-10-15,Missing Items,Approved
+R001890,O031523,C03112,2025-08-25,Missing Items,Refund Completed
+R001891,O031538,C07445,2025-07-16,Customer Changed Mind,Refund Completed
+R001892,O031548,C02912,2025-10-08,Missing Items,Approved
+R001893,O031576,C02101,2025-07-06,Expired Product,Approved
+R001894,O031603,C03845,2024-08-05,Wrong Item,Approved
+R001895,O031614,C04266,2026-06-11,Missing Items,Approved
+R001896,O031636,C03483,2025-02-09,Wrong Item,Approved
+R001897,O031642,C03399,2025-08-12,Expired Product,Approved
+R001898,O031662,C08685,2026-04-23,Wrong Item,Refund Completed
+R001899,O031678,C07799,2024-12-03,Expired Product,Refund Completed
+R001900,O031705,C03936,2025-06-30,Customer Changed Mind,Refund Completed
+R001901,O031777,C08194,2025-01-21,Expired Product,Approved
+R001902,O031778,C09874,2025-02-18,Missing Items,Approved
+R001903,O031785,C09671,2025-03-26,Expired Product,Refund Completed
+R001904,O031804,C05069,2024-10-22,Damaged Product,Approved
+R001905,O031840,C09157,2025-05-20,Wrong Item,Refund Completed
+R001906,O031861,C03510,2026-02-14,Wrong Item,Refund Completed
+R001907,O031881,C08379,2026-08-04,Expired Product,Refund Completed
+R001908,O031883,C03459,2025-08-20,Poor Quality,Refund Completed
+R001909,O031903,C05548,2025-06-18,Missing Items,Approved
+R001910,O031905,C03402,2025-08-24,Customer Changed Mind,Approved
+R001911,O031945,C05100,2026-07-04,Missing Items,Rejected
+R001912,O031950,C05963,2026-05-22,Wrong Item,Approved
+R001913,O031961,C02333,2024-09-11,Expired Product,Refund Completed
+R001914,O031963,C03645,2025-11-23,Poor Quality,Approved
+R001915,O031965,C02589,2026-07-10,Missing Items,Refund Completed
+R001916,O031983,C03930,2024-10-29,Wrong Item,Refund Completed
+R001917,O032010,C01005,2025-09-06,Poor Quality,Refund Completed
+R001918,O032014,C02226,2026-05-07,Wrong Item,Refund Completed
+R001919,O032020,C05553,2026-02-16,Expired Product,Refund Completed
+R001920,O032025,C01402,2026-07-26,Customer Changed Mind,Refund Completed
+R001921,O032035,C01620,2024-09-11,Missing Items,Approved
+R001922,O032052,C00917,2024-10-29,Poor Quality,Rejected
+R001923,O032061,C03907,2026-01-05,Expired Product,Refund Completed
+R001924,O032065,C00279,2026-06-27,Expired Product,Refund Completed
+R001925,O032094,C05291,2026-05-25,Poor Quality,Rejected
+R001926,O032095,C08108,2026-04-10,Poor Quality,Approved
+R001927,O032122,C09270,2026-02-04,Customer Changed Mind,Refund Completed
+R001928,O032127,C03717,2026-03-14,Expired Product,Refund Completed
+R001929,O032234,C07449,2025-06-03,Missing Items,Approved
+R001930,O032264,C02300,2026-03-12,Expired Product,Approved
+R001931,O032275,C09773,2026-02-14,Expired Product,Approved
+R001932,O032279,C01019,2025-07-05,Damaged Product,Approved
+R001933,O032287,C07160,2026-01-25,Expired Product,Refund Completed
+R001934,O032297,C02013,2025-09-05,Wrong Item,Approved
+R001935,O032304,C04619,2025-09-24,Missing Items,Refund Completed
+R001936,O032336,C06661,2026-07-22,Customer Changed Mind,Approved
+R001937,O032341,C07926,2025-01-08,Damaged Product,Approved
+R001938,O032350,C09853,2024-09-19,Missing Items,Approved
+R001939,O032368,C04277,2025-05-25,Missing Items,Refund Completed
+R001940,O032374,C04866,2026-04-27,Missing Items,Approved
+R001941,O032392,C03338,2024-09-15,Poor Quality,Approved
+R001942,O032395,C07000,2026-04-09,Expired Product,Refund Completed
+R001943,O032396,C09315,2025-12-08,Damaged Product,Refund Completed
+R001944,O032397,C09468,2026-06-16,Wrong Item,Refund Completed
+R001945,O032413,C09970,2025-04-07,Damaged Product,Approved
+R001946,O032417,C08951,2025-11-05,Poor Quality,Approved
+R001947,O032470,C05667,2024-11-17,Customer Changed Mind,Approved
+R001948,O032514,C06140,2024-10-25,Expired Product,Refund Completed
+R001949,O032533,C07332,2025-09-13,Expired Product,Approved
+R001950,O032534,C05166,2026-01-03,Poor Quality,Refund Completed
+R001951,O032536,C00092,2024-12-01,Damaged Product,Rejected
+R001952,O032538,C08478,2026-02-14,Customer Changed Mind,Refund Completed
+R001953,O032560,C09123,2024-12-13,Poor Quality,Refund Completed
+R001954,O032588,C06565,2026-06-10,Missing Items,Refund Completed
+R001955,O032590,C01677,2026-06-19,Wrong Item,Approved
+R001956,O032611,C06414,2025-08-19,Expired Product,Approved
+R001957,O032639,C06422,2024-12-25,Wrong Item,Refund Completed
+R001958,O032647,C04770,2026-01-18,Damaged Product,Refund Completed
+R001959,O032659,C00299,2025-12-14,Customer Changed Mind,Approved
+R001960,O032721,C09837,2025-11-15,Expired Product,Approved
+R001961,O032730,C08689,2025-06-17,Poor Quality,Approved
+R001962,O032738,C05560,2024-08-08,Damaged Product,Refund Completed
+R001963,O032745,C03914,2025-02-13,Customer Changed Mind,Refund Completed
+R001964,O032763,C06718,2026-04-25,Damaged Product,Approved
+R001965,O032775,C09984,2024-09-09,Customer Changed Mind,Approved
+R001966,O032789,C01648,2024-10-04,Customer Changed Mind,Refund Completed
+R001967,O032800,C04046,2025-07-11,Expired Product,Approved
+R001968,O032813,C07134,2026-04-29,Customer Changed Mind,Rejected
+R001969,O032864,C05545,2025-02-26,Wrong Item,Approved
+R001970,O032872,C03963,2025-01-21,Wrong Item,Approved
+R001971,O032889,C05453,2026-01-03,Poor Quality,Rejected
+R001972,O032901,C03953,2025-05-04,Poor Quality,Approved
+R001973,O032908,C04583,2024-10-28,Wrong Item,Approved
+R001974,O032928,C03772,2026-04-01,Wrong Item,Approved
+R001975,O032929,C02582,2025-04-02,Damaged Product,Refund Completed
+R001976,O032930,C01406,2024-12-19,Expired Product,Approved
+R001977,O032964,C08506,2025-01-28,Damaged Product,Rejected
+R001978,O032965,C01053,2025-03-07,Expired Product,Approved
+R001979,O032985,C01829,2025-02-04,Poor Quality,Refund Completed
+R001980,O033013,C02254,2026-04-03,Missing Items,Approved
+R001981,O033020,C04911,2025-11-17,Wrong Item,Refund Completed
+R001982,O033075,C03396,2026-08-07,Poor Quality,Approved
+R001983,O033077,C07012,2026-01-16,Poor Quality,Refund Completed
+R001984,O033103,C01799,2026-06-07,Expired Product,Refund Completed
+R001985,O033160,C08147,2024-10-13,Poor Quality,Approved
+R001986,O033163,C07015,2026-06-21,Damaged Product,Rejected
+R001987,O033181,C03679,2024-09-01,Missing Items,Refund Completed
+R001988,O033187,C02248,2026-01-01,Poor Quality,Refund Completed
+R001989,O033190,C03515,2025-07-28,Expired Product,Approved
+R001990,O033194,C03956,2025-01-01,Missing Items,Refund Completed
+R001991,O033225,C03263,2026-05-21,Expired Product,Refund Completed
+R001992,O033226,C05080,2026-03-04,Missing Items,Refund Completed
+R001993,O033238,C00655,2025-11-05,Customer Changed Mind,Refund Completed
+R001994,O033310,C09376,2025-06-30,Customer Changed Mind,Refund Completed
+R001995,O033311,C04439,2024-11-04,Missing Items,Approved
+R001996,O033314,C00867,2025-11-20,Expired Product,Refund Completed
+R001997,O033328,C04211,2025-07-10,Wrong Item,Approved
+R001998,O033329,C08726,2025-12-18,Expired Product,Refund Completed
+R001999,O033352,C03415,2024-08-18,Expired Product,Approved
+R002000,O033354,C08427,2024-09-08,Missing Items,Approved
+R002001,O033393,C02071,2025-01-01,Expired Product,Approved
+R002002,O033397,C09196,2025-03-19,Damaged Product,Refund Completed
+R002003,O033442,C04309,2025-10-17,Wrong Item,Refund Completed
+R002004,O033446,C04757,2024-12-12,Customer Changed Mind,Approved
+R002005,O033448,C06668,2025-09-06,Expired Product,Refund Completed
+R002006,O033457,C02333,2026-06-25,Poor Quality,Approved
+R002007,O033496,C08216,2025-05-27,Customer Changed Mind,Refund Completed
+R002008,O033497,C09728,2026-04-15,Poor Quality,Refund Completed
+R002009,O033502,C05675,2024-10-28,Wrong Item,Refund Completed
+R002010,O033509,C00905,2026-04-28,Expired Product,Refund Completed
+R002011,O033533,C03397,2025-04-06,Poor Quality,Approved
+R002012,O033534,C02769,2025-11-30,Customer Changed Mind,Approved
+R002013,O033540,C02051,2026-02-27,Wrong Item,Refund Completed
+R002014,O033552,C09221,2026-06-04,Expired Product,Refund Completed
+R002015,O033553,C05437,2025-11-20,Poor Quality,Refund Completed
+R002016,O033565,C07595,2025-01-08,Wrong Item,Refund Completed
+R002017,O033568,C00257,2025-03-10,Damaged Product,Approved
+R002018,O033571,C01122,2024-12-18,Expired Product,Refund Completed
+R002019,O033605,C08877,2026-02-04,Damaged Product,Refund Completed
+R002020,O033621,C06128,2025-09-08,Poor Quality,Approved
+R002021,O033632,C00530,2025-08-03,Expired Product,Refund Completed
+R002022,O033642,C08419,2026-05-01,Missing Items,Refund Completed
+R002023,O033660,C02763,2026-05-27,Poor Quality,Approved
+R002024,O033670,C08335,2025-04-22,Missing Items,Refund Completed
+R002025,O033676,C00044,2025-11-16,Wrong Item,Approved
+R002026,O033716,C00842,2026-07-22,Expired Product,Approved
+R002027,O033731,C05726,2025-07-09,Wrong Item,Refund Completed
+R002028,O033741,C09997,2024-10-27,Poor Quality,Approved
+R002029,O033753,C09347,2025-11-13,Missing Items,Approved
+R002030,O033777,C00615,2025-02-22,Customer Changed Mind,Refund Completed
+R002031,O033821,C01462,2026-06-08,Missing Items,Refund Completed
+R002032,O033836,C06910,2026-02-05,Damaged Product,Rejected
+R002033,O033837,C00995,2026-04-23,Expired Product,Rejected
+R002034,O033846,C04242,2024-08-07,Damaged Product,Refund Completed
+R002035,O033857,C05503,2024-10-13,Missing Items,Refund Completed
+R002036,O033881,C02851,2025-05-23,Damaged Product,Refund Completed
+R002037,O033905,C03581,2026-02-09,Poor Quality,Approved
+R002038,O033907,C09157,2025-07-01,Damaged Product,Refund Completed
+R002039,O033936,C07946,2025-08-13,Missing Items,Refund Completed
+R002040,O033968,C07054,2025-05-24,Damaged Product,Refund Completed
+R002041,O033982,C02703,2024-12-13,Damaged Product,Refund Completed
+R002042,O033987,C05640,2024-08-21,Customer Changed Mind,Rejected
+R002043,O033997,C05598,2026-03-21,Wrong Item,Refund Completed
+R002044,O034004,C02314,2025-04-04,Missing Items,Refund Completed
+R002045,O034007,C03673,2025-09-06,Missing Items,Refund Completed
+R002046,O034008,C09999,2024-10-22,Wrong Item,Refund Completed
+R002047,O034017,C08407,2026-05-30,Poor Quality,Rejected
+R002048,O034030,C06168,2024-12-22,Expired Product,Rejected
+R002049,O034041,C08955,2025-03-12,Wrong Item,Approved
+R002050,O034043,C06522,2026-01-10,Wrong Item,Refund Completed
+R002051,O034066,C03026,2024-12-19,Wrong Item,Approved
+R002052,O034073,C04529,2026-05-03,Poor Quality,Refund Completed
+R002053,O034087,C09141,2025-03-11,Missing Items,Approved
+R002054,O034095,C08309,2024-12-13,Expired Product,Rejected
+R002055,O034101,C01369,2025-06-09,Damaged Product,Refund Completed
+R002056,O034112,C02983,2026-03-17,Poor Quality,Refund Completed
+R002057,O034113,C05095,2025-12-17,Poor Quality,Approved
+R002058,O034130,C09077,2025-05-23,Expired Product,Refund Completed
+R002059,O034156,C06399,2024-08-15,Missing Items,Approved
+R002060,O034169,C02474,2025-10-24,Poor Quality,Refund Completed
+R002061,O034174,C07896,2026-01-14,Damaged Product,Refund Completed
+R002062,O034177,C07499,2024-11-16,Expired Product,Approved
+R002063,O034178,C02484,2026-07-15,Missing Items,Refund Completed
+R002064,O034185,C02078,2024-09-13,Expired Product,Rejected
+R002065,O034191,C05380,2024-12-14,Poor Quality,Refund Completed
+R002066,O034215,C08530,2025-03-25,Customer Changed Mind,Approved
+R002067,O034233,C06202,2025-08-26,Wrong Item,Refund Completed
+R002068,O034271,C03589,2026-02-28,Expired Product,Rejected
+R002069,O034273,C09226,2024-11-02,Wrong Item,Rejected
+R002070,O034274,C01415,2026-03-04,Customer Changed Mind,Approved
+R002071,O034280,C08384,2025-06-09,Missing Items,Refund Completed
+R002072,O034289,C05121,2025-11-03,Expired Product,Approved
+R002073,O034298,C03709,2025-12-08,Damaged Product,Approved
+R002074,O034335,C07839,2026-03-16,Damaged Product,Refund Completed
+R002075,O034340,C06440,2026-02-26,Poor Quality,Refund Completed
+R002076,O034342,C09419,2025-08-23,Poor Quality,Refund Completed
+R002077,O034348,C01088,2025-10-25,Missing Items,Refund Completed
+R002078,O034385,C08927,2026-02-21,Missing Items,Rejected
+R002079,O034396,C04190,2025-04-18,Damaged Product,Refund Completed
+R002080,O034399,C01129,2025-02-16,Customer Changed Mind,Approved
+R002081,O034408,C08020,2026-04-13,Missing Items,Approved
+R002082,O034411,C00748,2025-04-05,Missing Items,Refund Completed
+R002083,O034413,C07456,2024-09-10,Wrong Item,Refund Completed
+R002084,O034470,C04374,2025-11-28,Poor Quality,Approved
+R002085,O034505,C05682,2025-04-30,Damaged Product,Refund Completed
+R002086,O034508,C02730,2024-11-06,Damaged Product,Rejected
+R002087,O034532,C04496,2025-10-15,Customer Changed Mind,Refund Completed
+R002088,O034535,C08028,2025-10-25,Damaged Product,Rejected
+R002089,O034562,C07429,2024-11-26,Missing Items,Refund Completed
+R002090,O034563,C04885,2025-02-03,Expired Product,Refund Completed
+R002091,O034581,C01917,2025-07-27,Customer Changed Mind,Refund Completed
+R002092,O034601,C04014,2025-12-29,Expired Product,Refund Completed
+R002093,O034612,C07427,2025-03-06,Expired Product,Refund Completed
+R002094,O034618,C09509,2026-01-25,Poor Quality,Refund Completed
+R002095,O034628,C01509,2026-07-16,Missing Items,Refund Completed
+R002096,O034643,C01141,2025-06-25,Expired Product,Refund Completed
+R002097,O034662,C04546,2026-04-11,Missing Items,Refund Completed
+R002098,O034669,C07335,2025-12-23,Missing Items,Approved
+R002099,O034674,C09065,2024-10-24,Missing Items,Approved
+R002100,O034711,C04989,2025-02-15,Damaged Product,Refund Completed
+R002101,O034712,C07413,2026-07-15,Customer Changed Mind,Refund Completed
+R002102,O034724,C08389,2025-09-20,Damaged Product,Approved
+R002103,O034736,C01060,2025-02-09,Damaged Product,Rejected
+R002104,O034747,C07617,2025-01-24,Expired Product,Refund Completed
+R002105,O034758,C07155,2025-10-03,Damaged Product,Approved
+R002106,O034764,C06653,2025-08-14,Missing Items,Refund Completed
+R002107,O034772,C02838,2026-04-25,Wrong Item,Refund Completed
+R002108,O034802,C01299,2025-06-09,Expired Product,Approved
+R002109,O034839,C02274,2025-01-22,Damaged Product,Approved
+R002110,O034842,C06635,2025-10-19,Damaged Product,Approved
+R002111,O034902,C09588,2025-11-11,Poor Quality,Refund Completed
+R002112,O034918,C02932,2024-08-25,Damaged Product,Approved
+R002113,O034980,C08930,2025-05-27,Expired Product,Refund Completed
+R002114,O035024,C00463,2025-12-13,Customer Changed Mind,Approved
+R002115,O035048,C01440,2024-11-18,Poor Quality,Refund Completed
+R002116,O035095,C00973,2026-07-19,Expired Product,Rejected
+R002117,O035107,C08979,2024-10-26,Poor Quality,Approved
+R002118,O035124,C00287,2026-02-15,Wrong Item,Rejected
+R002119,O035158,C00172,2024-09-07,Damaged Product,Refund Completed
+R002120,O035223,C09309,2025-04-09,Expired Product,Refund Completed
+R002121,O035283,C07595,2025-11-05,Poor Quality,Approved
+R002122,O035297,C05895,2024-08-12,Damaged Product,Refund Completed
+R002123,O035300,C01988,2025-04-18,Customer Changed Mind,Refund Completed
+R002124,O035334,C05631,2024-08-23,Poor Quality,Refund Completed
+R002125,O035343,C03951,2026-07-02,Customer Changed Mind,Approved
+R002126,O035344,C08446,2026-03-10,Damaged Product,Approved
+R002127,O035357,C09711,2026-03-30,Damaged Product,Refund Completed
+R002128,O035365,C07831,2025-04-13,Damaged Product,Refund Completed
+R002129,O035370,C01646,2026-03-20,Customer Changed Mind,Approved
+R002130,O035377,C00369,2026-04-01,Expired Product,Refund Completed
+R002131,O035453,C05130,2024-10-13,Damaged Product,Refund Completed
+R002132,O035502,C09343,2026-08-05,Missing Items,Approved
+R002133,O035528,C07808,2026-03-25,Poor Quality,Refund Completed
+R002134,O035530,C02718,2026-05-08,Missing Items,Refund Completed
+R002135,O035564,C05728,2026-01-01,Damaged Product,Rejected
+R002136,O035571,C07607,2025-07-21,Missing Items,Rejected
+R002137,O035581,C00634,2024-12-22,Expired Product,Refund Completed
+R002138,O035599,C07550,2026-03-08,Expired Product,Refund Completed
+R002139,O035645,C03636,2025-09-23,Wrong Item,Approved
+R002140,O035658,C05874,2025-09-12,Missing Items,Refund Completed
+R002141,O035687,C02621,2025-01-11,Expired Product,Approved
+R002142,O035691,C07603,2024-09-09,Customer Changed Mind,Approved
+R002143,O035703,C00350,2025-03-21,Damaged Product,Refund Completed
+R002144,O035708,C08878,2024-12-07,Expired Product,Approved
+R002145,O035711,C03324,2024-09-26,Missing Items,Approved
+R002146,O035716,C07548,2025-02-13,Expired Product,Approved
+R002147,O035742,C07771,2025-11-27,Customer Changed Mind,Refund Completed
+R002148,O035751,C02451,2025-04-21,Damaged Product,Refund Completed
+R002149,O035768,C08608,2025-04-23,Expired Product,Approved
+R002150,O035778,C08420,2024-12-22,Wrong Item,Refund Completed
+R002151,O035789,C03858,2025-08-21,Damaged Product,Refund Completed
+R002152,O035807,C00569,2025-05-13,Poor Quality,Refund Completed
+R002153,O035832,C01155,2026-04-10,Missing Items,Refund Completed
+R002154,O035840,C00508,2026-07-05,Customer Changed Mind,Refund Completed
+R002155,O035841,C03557,2024-08-20,Customer Changed Mind,Approved
+R002156,O035853,C08378,2025-04-28,Damaged Product,Refund Completed
+R002157,O035857,C02404,2025-02-23,Customer Changed Mind,Refund Completed
+R002158,O035894,C08879,2025-05-16,Damaged Product,Approved
+R002159,O035896,C08045,2026-07-19,Wrong Item,Approved
+R002160,O035947,C05310,2026-07-04,Customer Changed Mind,Refund Completed
+R002161,O035950,C08575,2026-03-22,Damaged Product,Refund Completed
+R002162,O035978,C08168,2024-09-08,Damaged Product,Rejected
+R002163,O035979,C01980,2025-03-26,Expired Product,Refund Completed
+R002164,O035989,C08174,2024-10-19,Expired Product,Rejected
+R002165,O035997,C07241,2024-08-16,Damaged Product,Approved
+R002166,O036028,C01787,2026-03-16,Poor Quality,Approved
+R002167,O036053,C04184,2025-01-23,Expired Product,Rejected
+R002168,O036088,C08311,2024-12-29,Wrong Item,Refund Completed
+R002169,O036110,C02057,2025-06-06,Poor Quality,Approved
+R002170,O036128,C08023,2024-10-28,Missing Items,Refund Completed
+R002171,O036138,C03067,2026-02-18,Wrong Item,Refund Completed
+R002172,O036155,C04311,2025-03-10,Customer Changed Mind,Approved
+R002173,O036168,C07538,2025-08-21,Damaged Product,Refund Completed
+R002174,O036174,C06581,2025-11-06,Damaged Product,Approved
+R002175,O036179,C09107,2024-11-16,Missing Items,Refund Completed
+R002176,O036196,C07077,2026-02-03,Expired Product,Refund Completed
+R002177,O036199,C00199,2025-01-16,Wrong Item,Approved
+R002178,O036214,C03593,2025-10-03,Poor Quality,Approved
+R002179,O036224,C06816,2025-02-09,Poor Quality,Approved
+R002180,O036252,C07224,2025-06-30,Missing Items,Refund Completed
+R002181,O036287,C08841,2024-09-25,Customer Changed Mind,Approved
+R002182,O036318,C02355,2024-12-16,Poor Quality,Refund Completed
+R002183,O036375,C05663,2026-07-11,Expired Product,Approved
+R002184,O036379,C06170,2025-09-15,Damaged Product,Approved
+R002185,O036395,C08751,2026-04-23,Poor Quality,Approved
+R002186,O036417,C05534,2025-12-27,Missing Items,Approved
+R002187,O036450,C00529,2025-11-12,Wrong Item,Approved
+R002188,O036455,C09023,2026-04-29,Customer Changed Mind,Refund Completed
+R002189,O036486,C03232,2026-04-20,Customer Changed Mind,Refund Completed
+R002190,O036499,C00711,2026-03-11,Poor Quality,Refund Completed
+R002191,O036525,C09460,2024-09-27,Customer Changed Mind,Approved
+R002192,O036548,C01523,2025-04-07,Damaged Product,Approved
+R002193,O036558,C06155,2025-12-09,Expired Product,Refund Completed
+R002194,O036561,C07573,2025-09-28,Missing Items,Approved
+R002195,O036571,C01554,2025-03-18,Customer Changed Mind,Approved
+R002196,O036573,C08011,2025-09-02,Wrong Item,Refund Completed
+R002197,O036608,C06608,2024-12-05,Poor Quality,Approved
+R002198,O036622,C04525,2025-09-14,Customer Changed Mind,Rejected
+R002199,O036634,C08823,2025-06-14,Wrong Item,Refund Completed
+R002200,O036636,C06000,2025-02-26,Poor Quality,Rejected
+R002201,O036640,C02296,2025-11-07,Damaged Product,Refund Completed
+R002202,O036658,C00463,2026-02-06,Wrong Item,Approved
+R002203,O036682,C05473,2025-01-24,Wrong Item,Refund Completed
+R002204,O036723,C05712,2025-07-17,Customer Changed Mind,Refund Completed
+R002205,O036783,C00961,2024-11-27,Damaged Product,Refund Completed
+R002206,O036807,C07209,2026-06-17,Customer Changed Mind,Refund Completed
+R002207,O036828,C02990,2026-05-28,Wrong Item,Approved
+R002208,O036831,C03310,2025-10-22,Wrong Item,Refund Completed
+R002209,O036870,C05661,2026-02-02,Missing Items,Refund Completed
+R002210,O036902,C08752,2025-08-27,Customer Changed Mind,Refund Completed
+R002211,O036911,C05575,2025-04-20,Poor Quality,Rejected
+R002212,O036930,C05540,2026-05-22,Customer Changed Mind,Approved
+R002213,O036971,C06626,2025-01-14,Missing Items,Refund Completed
+R002214,O036974,C00790,2025-11-02,Damaged Product,Rejected
+R002215,O036990,C09929,2025-04-23,Wrong Item,Approved
+R002216,O036991,C06089,2025-08-30,Poor Quality,Rejected
+R002217,O036996,C04744,2024-09-01,Poor Quality,Refund Completed
+R002218,O037016,C00403,2026-04-29,Customer Changed Mind,Refund Completed
+R002219,O037020,C09827,2025-07-26,Customer Changed Mind,Approved
+R002220,O037033,C00693,2024-12-28,Poor Quality,Refund Completed
+R002221,O037068,C07840,2024-09-16,Wrong Item,Refund Completed
+R002222,O037081,C06469,2026-07-22,Missing Items,Refund Completed
+R002223,O037093,C00776,2025-06-14,Expired Product,Rejected
+R002224,O037110,C09010,2024-08-12,Wrong Item,Refund Completed
+R002225,O037128,C06110,2025-02-16,Wrong Item,Approved
+R002226,O037164,C08252,2025-03-15,Damaged Product,Refund Completed
+R002227,O037181,C01788,2024-10-04,Customer Changed Mind,Approved
+R002228,O037227,C07242,2025-07-11,Damaged Product,Refund Completed
+R002229,O037229,C08809,2025-06-15,Poor Quality,Refund Completed
+R002230,O037251,C00242,2025-08-14,Missing Items,Refund Completed
+R002231,O037277,C01992,2024-09-26,Customer Changed Mind,Rejected
+R002232,O037302,C02919,2025-07-31,Missing Items,Refund Completed
+R002233,O037314,C01060,2025-12-02,Wrong Item,Approved
+R002234,O037326,C04937,2026-04-10,Wrong Item,Refund Completed
+R002235,O037329,C05444,2026-06-10,Damaged Product,Approved
+R002236,O037331,C07683,2026-07-01,Missing Items,Approved
+R002237,O037350,C06634,2025-09-25,Wrong Item,Approved
+R002238,O037378,C04417,2026-05-22,Damaged Product,Refund Completed
+R002239,O037403,C04368,2025-09-05,Damaged Product,Refund Completed
+R002240,O037410,C03387,2025-10-10,Expired Product,Refund Completed
+R002241,O037417,C09217,2025-01-27,Customer Changed Mind,Approved
+R002242,O037499,C00688,2025-09-11,Missing Items,Approved
+R002243,O037544,C07555,2025-10-31,Wrong Item,Refund Completed
+R002244,O037550,C07866,2024-10-03,Customer Changed Mind,Refund Completed
+R002245,O037566,C05344,2025-10-08,Customer Changed Mind,Refund Completed
+R002246,O037577,C04341,2024-08-28,Expired Product,Rejected
+R002247,O037608,C05868,2026-06-01,Customer Changed Mind,Refund Completed
+R002248,O037638,C01798,2026-01-31,Poor Quality,Approved
+R002249,O037639,C00980,2026-02-08,Wrong Item,Refund Completed
+R002250,O037652,C08235,2025-06-16,Wrong Item,Approved
+R002251,O037668,C07014,2026-02-16,Expired Product,Refund Completed
+R002252,O037712,C09010,2025-07-13,Missing Items,Refund Completed
+R002253,O037720,C05989,2025-05-02,Poor Quality,Approved
+R002254,O037724,C01650,2026-03-07,Customer Changed Mind,Approved
+R002255,O037735,C01170,2026-02-15,Customer Changed Mind,Refund Completed
+R002256,O037739,C03314,2024-10-20,Wrong Item,Refund Completed
+R002257,O037769,C06696,2026-06-30,Wrong Item,Refund Completed
+R002258,O037789,C05219,2026-05-25,Poor Quality,Approved
+R002259,O037791,C08316,2026-03-28,Missing Items,Approved
+R002260,O037821,C06268,2025-02-19,Missing Items,Refund Completed
+R002261,O037854,C01437,2025-05-21,Missing Items,Approved
+R002262,O037877,C06403,2025-10-08,Wrong Item,Refund Completed
+R002263,O037913,C07148,2026-03-29,Missing Items,Refund Completed
+R002264,O037950,C09692,2025-01-26,Damaged Product,Refund Completed
+R002265,O037987,C08366,2025-05-30,Expired Product,Approved
+R002266,O038006,C01325,2025-07-20,Poor Quality,Refund Completed
+R002267,O038013,C05860,2024-12-18,Damaged Product,Refund Completed
+R002268,O038021,C03930,2025-04-09,Wrong Item,Rejected
+R002269,O038027,C09369,2024-08-28,Expired Product,Refund Completed
+R002270,O038031,C02720,2025-07-08,Missing Items,Approved
+R002271,O038047,C09060,2025-08-23,Wrong Item,Refund Completed
+R002272,O038057,C03503,2026-04-25,Missing Items,Rejected
+R002273,O038068,C00010,2025-10-03,Poor Quality,Approved
+R002274,O038106,C01566,2025-10-15,Poor Quality,Refund Completed
+R002275,O038129,C02178,2026-06-12,Expired Product,Refund Completed
+R002276,O038137,C03761,2025-03-12,Expired Product,Rejected
+R002277,O038151,C08121,2024-11-21,Missing Items,Approved
+R002278,O038157,C05510,2026-02-11,Customer Changed Mind,Refund Completed
+R002279,O038170,C00463,2025-08-14,Poor Quality,Refund Completed
+R002280,O038188,C02371,2026-01-31,Poor Quality,Approved
+R002281,O038223,C07632,2025-10-10,Expired Product,Refund Completed
+R002282,O038243,C05171,2024-10-16,Damaged Product,Approved
+R002283,O038248,C06617,2025-04-15,Missing Items,Refund Completed
+R002284,O038292,C00677,2024-09-03,Poor Quality,Refund Completed
+R002285,O038310,C03714,2026-04-18,Poor Quality,Approved
+R002286,O038316,C05972,2025-08-17,Expired Product,Approved
+R002287,O038327,C00345,2026-06-04,Wrong Item,Approved
+R002288,O038357,C00985,2024-11-11,Customer Changed Mind,Refund Completed
+R002289,O038366,C01657,2024-09-14,Poor Quality,Approved
+R002290,O038368,C02931,2026-04-13,Poor Quality,Approved
+R002291,O038424,C06634,2025-09-23,Customer Changed Mind,Rejected
+R002292,O038476,C01447,2025-09-24,Missing Items,Approved
+R002293,O038505,C02555,2025-03-01,Customer Changed Mind,Approved
+R002294,O038526,C09057,2025-07-06,Expired Product,Approved
+R002295,O038547,C08453,2025-10-17,Damaged Product,Rejected
+R002296,O038560,C02544,2026-01-14,Damaged Product,Approved
+R002297,O038566,C01785,2026-01-23,Damaged Product,Refund Completed
+R002298,O038580,C08883,2025-04-13,Wrong Item,Refund Completed
+R002299,O038605,C00621,2025-07-25,Customer Changed Mind,Approved
+R002300,O038639,C03361,2025-05-27,Poor Quality,Refund Completed
+R002301,O038665,C01375,2026-01-18,Missing Items,Refund Completed
+R002302,O038666,C07393,2026-01-15,Missing Items,Approved
+R002303,O038714,C07722,2025-09-02,Poor Quality,Refund Completed
+R002304,O038716,C03411,2025-01-08,Wrong Item,Approved
+R002305,O038753,C03531,2025-06-04,Expired Product,Refund Completed
+R002306,O038768,C06438,2026-01-25,Wrong Item,Approved
+R002307,O038792,C01425,2025-11-23,Expired Product,Approved
+R002308,O038801,C01350,2026-05-04,Customer Changed Mind,Refund Completed
+R002309,O038823,C03094,2026-06-05,Poor Quality,Refund Completed
+R002310,O038831,C09354,2024-09-09,Customer Changed Mind,Refund Completed
+R002311,O038887,C02391,2025-06-12,Damaged Product,Refund Completed
+R002312,O038935,C03499,2026-07-09,Customer Changed Mind,Refund Completed
+R002313,O038941,C03702,2024-08-16,Expired Product,Approved
+R002314,O038959,C02125,2025-10-03,Poor Quality,Refund Completed
+R002315,O038966,C00885,2025-10-15,Damaged Product,Refund Completed
+R002316,O038976,C05004,2026-07-01,Damaged Product,Approved
+R002317,O038979,C07940,2025-08-08,Poor Quality,Approved
+R002318,O038986,C01786,2025-06-10,Missing Items,Refund Completed
+R002319,O039000,C07027,2026-05-15,Expired Product,Approved
+R002320,O039004,C04911,2025-07-13,Expired Product,Rejected
+R002321,O039058,C03467,2025-08-03,Expired Product,Approved
+R002322,O039090,C06586,2025-01-14,Customer Changed Mind,Approved
+R002323,O039117,C04421,2025-07-06,Poor Quality,Approved
+R002324,O039137,C06004,2026-07-08,Wrong Item,Approved
+R002325,O039139,C03893,2024-10-24,Customer Changed Mind,Approved
+R002326,O039159,C04163,2026-01-14,Customer Changed Mind,Approved
+R002327,O039167,C05144,2026-03-09,Wrong Item,Refund Completed
+R002328,O039171,C01166,2025-05-19,Missing Items,Refund Completed
+R002329,O039180,C01465,2026-04-05,Customer Changed Mind,Rejected
+R002330,O039187,C00097,2026-06-04,Damaged Product,Approved
+R002331,O039200,C02382,2025-06-14,Expired Product,Rejected
+R002332,O039204,C02677,2025-11-22,Customer Changed Mind,Approved
+R002333,O039244,C09876,2026-04-11,Customer Changed Mind,Refund Completed
+R002334,O039261,C07699,2025-12-15,Damaged Product,Refund Completed
+R002335,O039273,C09111,2025-02-03,Expired Product,Approved
+R002336,O039311,C07756,2025-03-08,Damaged Product,Refund Completed
+R002337,O039320,C03662,2026-02-19,Poor Quality,Approved
+R002338,O039330,C01973,2026-02-21,Customer Changed Mind,Approved
+R002339,O039339,C05367,2025-04-14,Customer Changed Mind,Refund Completed
+R002340,O039354,C00112,2025-08-06,Damaged Product,Rejected
+R002341,O039360,C03980,2026-07-29,Missing Items,Refund Completed
+R002342,O039379,C02993,2025-05-28,Damaged Product,Refund Completed
+R002343,O039383,C06236,2026-05-09,Customer Changed Mind,Refund Completed
+R002344,O039427,C06572,2024-09-16,Missing Items,Approved
+R002345,O039436,C02713,2024-11-27,Wrong Item,Approved
+R002346,O039441,C08503,2024-10-01,Poor Quality,Refund Completed
+R002347,O039479,C03831,2025-09-03,Customer Changed Mind,Refund Completed
+R002348,O039510,C08725,2024-12-25,Missing Items,Approved
+R002349,O039534,C07121,2025-04-08,Expired Product,Refund Completed
+R002350,O039542,C04536,2025-02-17,Poor Quality,Rejected
+R002351,O039578,C03845,2025-03-24,Wrong Item,Refund Completed
+R002352,O039619,C02613,2025-11-27,Damaged Product,Refund Completed
+R002353,O039631,C07402,2026-08-05,Expired Product,Refund Completed
+R002354,O039665,C04169,2025-02-28,Expired Product,Refund Completed
+R002355,O039678,C06728,2025-01-04,Wrong Item,Refund Completed
+R002356,O039680,C09010,2024-12-20,Poor Quality,Refund Completed
+R002357,O039681,C07025,2025-10-15,Damaged Product,Refund Completed
+R002358,O039689,C05519,2025-01-07,Poor Quality,Approved
+R002359,O039709,C09268,2024-11-28,Expired Product,Approved
+R002360,O039755,C09774,2025-07-28,Customer Changed Mind,Approved
+R002361,O039761,C01083,2025-11-21,Customer Changed Mind,Approved
+R002362,O039766,C09104,2026-03-09,Damaged Product,Refund Completed
+R002363,O039781,C01038,2026-04-15,Poor Quality,Approved
+R002364,O039807,C00285,2024-08-16,Damaged Product,Refund Completed
+R002365,O039809,C09784,2026-05-20,Missing Items,Approved
+R002366,O039849,C01318,2026-02-09,Wrong Item,Approved
+R002367,O039860,C02984,2025-02-23,Missing Items,Approved
+R002368,O039864,C02740,2025-03-28,Customer Changed Mind,Rejected
+R002369,O039865,C04209,2025-01-08,Missing Items,Refund Completed
+R002370,O039877,C08559,2025-04-09,Wrong Item,Refund Completed
+R002371,O039898,C09382,2025-04-11,Poor Quality,Rejected
+R002372,O039905,C09588,2025-12-26,Customer Changed Mind,Approved
+R002373,O039931,C02650,2026-02-12,Damaged Product,Refund Completed
+R002374,O039932,C05983,2025-05-25,Wrong Item,Refund Completed
+R002375,O039941,C07720,2026-01-29,Customer Changed Mind,Approved
+R002376,O039955,C00371,2025-10-10,Damaged Product,Approved
+R002377,O039959,C01684,2026-02-08,Wrong Item,Refund Completed
+R002378,O039960,C08129,2025-11-16,Expired Product,Refund Completed
+R002379,O039963,C01425,2026-06-23,Damaged Product,Refund Completed
+R002380,O039971,C07573,2026-05-12,Missing Items,Approved
+R002381,O039988,C08214,2025-11-21,Wrong Item,Approved
+R002382,O039996,C09917,2025-04-04,Expired Product,Refund Completed
